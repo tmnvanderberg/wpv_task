@@ -6,7 +6,8 @@ current_dir = os.path.abspath(os.path.dirname(__file__))
 
 input_prefix = "in/"
 output_prefix = "out/"
-input_files = ["outputF1.txt", "outputF2.txt", "outputF3.txt", "outputF4.txt"]
+input_files = ["output1_s.csv", "output2_s.csv",
+               "output3_s.csv", "output4_s.csv", "translations.csv"]
 
 csv.register_dialect('comma-seperated', delimiter=',')
 
@@ -30,5 +31,5 @@ def csv_to_json(csvFilePath, jsonFilePath):
 for inputFile in input_files:
     csvFilePath = os.path.join(current_dir, input_prefix) + inputFile
     jsonFilePath = os.path.join(
-        current_dir, output_prefix) + inputFile.replace("txt", "json")
+        current_dir, output_prefix) + inputFile.replace("csv", "json")
     csv_to_json(csvFilePath, jsonFilePath)
