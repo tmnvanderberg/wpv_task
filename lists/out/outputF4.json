@@ -1,0 +1,1916 @@
+[
+    {
+        "Ziege": "Hubschrauber",
+        "Schwein": "Rakete",
+        "CAT+ASS": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Ziege": "Schraube",
+        "Schwein": "Traube",
+        "CAT+ASS": "PHON",
+        "1": "1"
+    },
+    {
+        "Ziege": "Flugzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "IDEN",
+        "1": "1"
+    },
+    {
+        "Ziege": "Lauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "IDEN",
+        "1": "1"
+    },
+    {
+        "Ziege": "Huhn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "NONE",
+        "1": "1"
+    },
+    {
+        "Ziege": "Rose",
+        "Schwein": "Hose",
+        "CAT+ASS": "PHON",
+        "1": "1"
+    },
+    {
+        "Ziege": "Reis",
+        "Schwein": "Reis",
+        "CAT+ASS": "IDEN",
+        "1": "1"
+    },
+    {
+        "Ziege": "Brot",
+        "Schwein": "Fisch",
+        "CAT+ASS": "NONE",
+        "1": "1"
+    },
+    {
+        "Ziege": "Baer",
+        "Schwein": "Dachs",
+        "CAT+ASS": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Ziege": "Bier",
+        "Schwein": "Tee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Ziege": "Schwein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "IDEN",
+        "1": "2"
+    },
+    {
+        "Ziege": "Pferd",
+        "Schwein": "Pferd",
+        "CAT+ASS": "IDEN",
+        "1": "1"
+    },
+    {
+        "Ziege": "Schiff",
+        "Schwein": "Lauch",
+        "CAT+ASS": "NONE",
+        "1": "2"
+    },
+    {
+        "Ziege": "Anzug",
+        "Schwein": "Hose",
+        "CAT+ASS": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Ziege": "Gras",
+        "Schwein": "Knopf",
+        "CAT+ASS": "NONE",
+        "1": "1"
+    },
+    {
+        "Ziege": "Tisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "PHON",
+        "1": "2"
+    },
+    {
+        "Ziege": "Kamm",
+        "Schwein": "Dachs",
+        "CAT+ASS": "NONE",
+        "1": "2"
+    },
+    {
+        "Ziege": "Bus",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Ziege": "Milch",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Ziege": "Schwert",
+        "Schwein": "Pferd",
+        "CAT+ASS": "PHON",
+        "1": "2"
+    },
+    {
+        "Ziege": "L\u00f6ffel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "NONE",
+        "1": "1"
+    },
+    {
+        "Ziege": "Hose",
+        "Schwein": "Hose",
+        "CAT+ASS": "IDEN",
+        "1": "3"
+    },
+    {
+        "Ziege": "Zwiebel",
+        "Schwein": "Suppe",
+        "CAT+ASS": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Ziege": "Bein",
+        "Schwein": "Wein",
+        "CAT+ASS": "PHON",
+        "1": "1"
+    },
+    {
+        "Ziege": "Flugzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "IDEN",
+        "1": "2"
+    },
+    {
+        "Ziege": "Bier",
+        "Schwein": "Tee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Ziege": "Hemd",
+        "Schwein": "Knopf",
+        "CAT+ASS": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Ziege": "Schwert",
+        "Schwein": "Pferd",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Elefant",
+        "Schwein": "Rakete",
+        "CAT+ASS": "NONE",
+        "1": "2"
+    },
+    {
+        "Ziege": "Kamm",
+        "Schwein": "Dachs",
+        "CAT+ASS": "NONE",
+        "1": "3"
+    },
+    {
+        "Ziege": "Puppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "PHON",
+        "1": "2"
+    },
+    {
+        "Ziege": "Wein",
+        "Schwein": "Wein",
+        "CAT+ASS": "IDEN",
+        "1": "2"
+    },
+    {
+        "Ziege": "Schlagzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Klee",
+        "Schwein": "Tee",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Strassenbahn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "IDEN",
+        "1": "3"
+    },
+    {
+        "Ziege": "Knopf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "IDEN",
+        "1": "3"
+    },
+    {
+        "Ziege": "Schnitzel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Ziege": "Rakete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "IDEN",
+        "1": "3"
+    },
+    {
+        "Ziege": "Hammer",
+        "Schwein": "Suppe",
+        "CAT+ASS": "NONE",
+        "1": "3"
+    },
+    {
+        "Ziege": "Fahrrad",
+        "Schwein": "Hose",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Flasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "PHON",
+        "1": "2"
+    },
+    {
+        "Ziege": "Tee",
+        "Schwein": "Tee",
+        "CAT+ASS": "IDEN",
+        "1": "4"
+    },
+    {
+        "Ziege": "Schwan",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "PHON",
+        "1": "4"
+    },
+    {
+        "Ziege": "Zelt",
+        "Schwein": "Wein",
+        "CAT+ASS": "NONE",
+        "1": "3"
+    },
+    {
+        "Ziege": "Gras",
+        "Schwein": "Knopf",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Kaffee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "IDEN",
+        "1": "2"
+    },
+    {
+        "Ziege": "Puppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "PHON",
+        "1": "4"
+    },
+    {
+        "Ziege": "Bauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Wal",
+        "Schwein": "Wal",
+        "CAT+ASS": "IDEN",
+        "1": "1"
+    },
+    {
+        "Ziege": "Schlagzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "PHON",
+        "1": "4"
+    },
+    {
+        "Ziege": "Bus",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Ziege": "Wachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "PHON",
+        "1": "4"
+    },
+    {
+        "Ziege": "Saft",
+        "Schwein": "Wein",
+        "CAT+ASS": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Ziege": "Hut",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "NONE",
+        "1": "3"
+    },
+    {
+        "Ziege": "L\u00f6ffel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "NONE",
+        "1": "3"
+    },
+    {
+        "Ziege": "Fisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "IDEN",
+        "1": "3"
+    },
+    {
+        "Ziege": "Schiff",
+        "Schwein": "Lauch",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Elefant",
+        "Schwein": "Rakete",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Ballon",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Ziege": "Hirsch",
+        "Schwein": "Pferd",
+        "CAT+ASS": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Ziege": "Puppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Schnee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "PHON",
+        "1": "4"
+    },
+    {
+        "Ziege": "L\u00f6ffel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Schnitzel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Ziege": "Wachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Tapete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Ballon",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Ziege": "Bauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Suppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Schnee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Tisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "PHON",
+        "1": "4"
+    },
+    {
+        "Ziege": "Maus",
+        "Schwein": "Tee",
+        "CAT+ASS": "NONE",
+        "1": "5"
+    },
+    {
+        "Ziege": "Pantoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Baer",
+        "Schwein": "Dachs",
+        "CAT+ASS": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Ziege": "Ballon",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Ziege": "Schwert",
+        "Schwein": "Pferd",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Zwiebel",
+        "Schwein": "Suppe",
+        "CAT+ASS": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Ziege": "Rakete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Hose",
+        "Schwein": "Hose",
+        "CAT+ASS": "IDEN",
+        "1": "5"
+    },
+    {
+        "Ziege": "Mehl",
+        "Schwein": "Reis",
+        "CAT+ASS": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Ziege": "Topf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Schornstein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Affe",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Zahn",
+        "Schwein": "Pferd",
+        "CAT+ASS": "NONE",
+        "1": "6"
+    },
+    {
+        "Ziege": "Tisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Kaffee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Kartoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "IDEN",
+        "1": "4"
+    },
+    {
+        "Ziege": "Eis",
+        "Schwein": "Reis",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Hemd",
+        "Schwein": "Knopf",
+        "CAT+ASS": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Ziege": "Wein",
+        "Schwein": "Wein",
+        "CAT+ASS": "IDEN",
+        "1": "5"
+    },
+    {
+        "Ziege": "Tapete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "PHON",
+        "1": "7"
+    },
+    {
+        "Ziege": "Bier",
+        "Schwein": "Tee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Ziege": "Fisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Hut",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "NONE",
+        "1": "7"
+    },
+    {
+        "Ziege": "Kartoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "IDEN",
+        "1": "5"
+    },
+    {
+        "Ziege": "Eis",
+        "Schwein": "Reis",
+        "CAT+ASS": "PHON",
+        "1": "4"
+    },
+    {
+        "Ziege": "Gurke",
+        "Schwein": "Wal",
+        "CAT+ASS": "NONE",
+        "1": "2"
+    },
+    {
+        "Ziege": "Fussball",
+        "Schwein": "Traube",
+        "CAT+ASS": "NONE",
+        "1": "2"
+    },
+    {
+        "Ziege": "Schwert",
+        "Schwein": "Pferd",
+        "CAT+ASS": "PHON",
+        "1": "7"
+    },
+    {
+        "Ziege": "Kleid",
+        "Schwein": "Schuh",
+        "CAT+ASS": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Ziege": "Brot",
+        "Schwein": "Fisch",
+        "CAT+ASS": "NONE",
+        "1": "7"
+    },
+    {
+        "Ziege": "Elefant",
+        "Schwein": "Rakete",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Schnitzel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Ziege": "Pfanne",
+        "Schwein": "Schwein",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Otter",
+        "Schwein": "Wal",
+        "CAT+ASS": "CAT+ASS",
+        "1": "3"
+    },
+    {
+        "Ziege": "Schraube",
+        "Schwein": "Traube",
+        "CAT+ASS": "PHON",
+        "1": "3"
+    },
+    {
+        "Ziege": "Milch",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Ziege": "Kleid",
+        "Schwein": "Schuh",
+        "CAT+ASS": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Ziege": "Schiff",
+        "Schwein": "Lauch",
+        "CAT+ASS": "NONE",
+        "1": "6"
+    },
+    {
+        "Ziege": "Rose",
+        "Schwein": "Hose",
+        "CAT+ASS": "PHON",
+        "1": "6"
+    },
+    {
+        "Ziege": "Tasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "IDEN",
+        "1": "5"
+    },
+    {
+        "Ziege": "Ziege",
+        "Schwein": "Schwein",
+        "CAT+ASS": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Ziege": "Saft",
+        "Schwein": "Wein",
+        "CAT+ASS": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Ziege": "Traube",
+        "Schwein": "Traube",
+        "CAT+ASS": "IDEN",
+        "1": "4"
+    },
+    {
+        "Ziege": "Tapete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "PHON",
+        "1": "9"
+    },
+    {
+        "Ziege": "Schuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "IDEN",
+        "1": "3"
+    },
+    {
+        "Ziege": "Klee",
+        "Schwein": "Tee",
+        "CAT+ASS": "PHON",
+        "1": "7"
+    },
+    {
+        "Ziege": "Schwan",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "PHON",
+        "1": "6"
+    },
+    {
+        "Ziege": "Hemd",
+        "Schwein": "Knopf",
+        "CAT+ASS": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Ziege": "Pfanne",
+        "Schwein": "Schwein",
+        "CAT+ASS": "NONE",
+        "1": "6"
+    },
+    {
+        "Ziege": "Wein",
+        "Schwein": "Wein",
+        "CAT+ASS": "IDEN",
+        "1": "7"
+    },
+    {
+        "Ziege": "Wachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "PHON",
+        "1": "7"
+    },
+    {
+        "Ziege": "Kartoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "IDEN",
+        "1": "7"
+    },
+    {
+        "Ziege": "Nest",
+        "Schwein": "Schuh",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Tasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Schwan",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "PHON",
+        "1": "7"
+    },
+    {
+        "Ziege": "Hubschrauber",
+        "Schwein": "Rakete",
+        "CAT+ASS": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Ziege": "Apfel",
+        "Schwein": "Traube",
+        "CAT+ASS": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Ziege": "Bein",
+        "Schwein": "Wein",
+        "CAT+ASS": "PHON",
+        "1": "8"
+    },
+    {
+        "Ziege": "Pferd",
+        "Schwein": "Pferd",
+        "CAT+ASS": "IDEN",
+        "1": "8"
+    },
+    {
+        "Ziege": "Schwein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "IDEN",
+        "1": "7"
+    },
+    {
+        "Ziege": "Kuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Hammer",
+        "Schwein": "Suppe",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Brot",
+        "Schwein": "Fisch",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Reis",
+        "Schwein": "Reis",
+        "CAT+ASS": "IDEN",
+        "1": "5"
+    },
+    {
+        "Ziege": "Maus",
+        "Schwein": "Tee",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Baer",
+        "Schwein": "Dachs",
+        "CAT+ASS": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Ziege": "Hirsch",
+        "Schwein": "Pferd",
+        "CAT+ASS": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Ziege": "Huhn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Schuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Knopf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "IDEN",
+        "1": "8"
+    },
+    {
+        "Ziege": "Hund",
+        "Schwein": "Fisch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Ziege": "Suppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "IDEN",
+        "1": "9"
+    },
+    {
+        "Ziege": "Reis",
+        "Schwein": "Reis",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Wachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "PHON",
+        "1": "9"
+    },
+    {
+        "Ziege": "Lauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "IDEN",
+        "1": "7"
+    },
+    {
+        "Ziege": "Gurke",
+        "Schwein": "Wal",
+        "CAT+ASS": "NONE",
+        "1": "4"
+    },
+    {
+        "Ziege": "Zahn",
+        "Schwein": "Pferd",
+        "CAT+ASS": "NONE",
+        "1": "10"
+    },
+    {
+        "Ziege": "Rakete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "IDEN",
+        "1": "11"
+    },
+    {
+        "Ziege": "Zelt",
+        "Schwein": "Wein",
+        "CAT+ASS": "NONE",
+        "1": "9"
+    },
+    {
+        "Ziege": "Fussball",
+        "Schwein": "Traube",
+        "CAT+ASS": "NONE",
+        "1": "6"
+    },
+    {
+        "Ziege": "Eis",
+        "Schwein": "Reis",
+        "CAT+ASS": "PHON",
+        "1": "7"
+    },
+    {
+        "Ziege": "Dachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Stiefel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Ziege": "Kaffee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "IDEN",
+        "1": "9"
+    },
+    {
+        "Ziege": "Hirsch",
+        "Schwein": "Pferd",
+        "CAT+ASS": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Ziege": "Huhn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "NONE",
+        "1": "9"
+    },
+    {
+        "Ziege": "Bein",
+        "Schwein": "Wein",
+        "CAT+ASS": "PHON",
+        "1": "10"
+    },
+    {
+        "Ziege": "Traube",
+        "Schwein": "Traube",
+        "CAT+ASS": "IDEN",
+        "1": "7"
+    },
+    {
+        "Ziege": "Horn",
+        "Schwein": "Reis",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Pelikan",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "NONE",
+        "1": "8"
+    },
+    {
+        "Ziege": "Kleid",
+        "Schwein": "Schuh",
+        "CAT+ASS": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Ziege": "Klee",
+        "Schwein": "Tee",
+        "CAT+ASS": "PHON",
+        "1": "9"
+    },
+    {
+        "Ziege": "Schornstein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "PHON",
+        "1": "8"
+    },
+    {
+        "Ziege": "Gras",
+        "Schwein": "Knopf",
+        "CAT+ASS": "NONE",
+        "1": "9"
+    },
+    {
+        "Ziege": "Elefant",
+        "Schwein": "Rakete",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Pedal",
+        "Schwein": "Wal",
+        "CAT+ASS": "PHON",
+        "1": "5"
+    },
+    {
+        "Ziege": "Anzug",
+        "Schwein": "Hose",
+        "CAT+ASS": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Ziege": "Hut",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "NONE",
+        "1": "10"
+    },
+    {
+        "Ziege": "Apfel",
+        "Schwein": "Traube",
+        "CAT+ASS": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Ziege": "Tee",
+        "Schwein": "Tee",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Pfanne",
+        "Schwein": "Schwein",
+        "CAT+ASS": "NONE",
+        "1": "9"
+    },
+    {
+        "Ziege": "Kamm",
+        "Schwein": "Dachs",
+        "CAT+ASS": "NONE",
+        "1": "11"
+    },
+    {
+        "Ziege": "Lauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "IDEN",
+        "1": "8"
+    },
+    {
+        "Ziege": "Wal",
+        "Schwein": "Wal",
+        "CAT+ASS": "IDEN",
+        "1": "6"
+    },
+    {
+        "Ziege": "Horn",
+        "Schwein": "Reis",
+        "CAT+ASS": "NONE",
+        "1": "9"
+    },
+    {
+        "Ziege": "Kaffee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "IDEN",
+        "1": "11"
+    },
+    {
+        "Ziege": "Traube",
+        "Schwein": "Traube",
+        "CAT+ASS": "IDEN",
+        "1": "9"
+    },
+    {
+        "Ziege": "Saft",
+        "Schwein": "Wein",
+        "CAT+ASS": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Ziege": "Ziege",
+        "Schwein": "Schwein",
+        "CAT+ASS": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Ziege": "Topf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "PHON",
+        "1": "10"
+    },
+    {
+        "Ziege": "Dachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "IDEN",
+        "1": "12"
+    },
+    {
+        "Ziege": "Wal",
+        "Schwein": "Wal",
+        "CAT+ASS": "IDEN",
+        "1": "7"
+    },
+    {
+        "Ziege": "Mehl",
+        "Schwein": "Reis",
+        "CAT+ASS": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Ziege": "Tasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "IDEN",
+        "1": "8"
+    },
+    {
+        "Ziege": "Kleid",
+        "Schwein": "Schuh",
+        "CAT+ASS": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Ziege": "Strassenbahn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Suppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Rose",
+        "Schwein": "Hose",
+        "CAT+ASS": "PHON",
+        "1": "8"
+    },
+    {
+        "Ziege": "Schornstein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "PHON",
+        "1": "11"
+    },
+    {
+        "Ziege": "Otter",
+        "Schwein": "Wal",
+        "CAT+ASS": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Ziege": "Kohl",
+        "Schwein": "Lauch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Ziege": "Zahn",
+        "Schwein": "Pferd",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Stiefel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Ziege": "Bus",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Ziege": "Kuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "PHON",
+        "1": "9"
+    },
+    {
+        "Ziege": "Milch",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Ziege": "Schwein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "IDEN",
+        "1": "12"
+    },
+    {
+        "Ziege": "Gurke",
+        "Schwein": "Wal",
+        "CAT+ASS": "NONE",
+        "1": "9"
+    },
+    {
+        "Ziege": "Hemd",
+        "Schwein": "Knopf",
+        "CAT+ASS": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Ziege": "Hund",
+        "Schwein": "Fisch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Ziege": "Pantoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "PHON",
+        "1": "9"
+    },
+    {
+        "Ziege": "Stiefel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Ziege": "Ballon",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Ziege": "Kuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "PHON",
+        "1": "10"
+    },
+    {
+        "Ziege": "Eis",
+        "Schwein": "Reis",
+        "CAT+ASS": "PHON",
+        "1": "11"
+    },
+    {
+        "Ziege": "Wal",
+        "Schwein": "Wal",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Anzug",
+        "Schwein": "Hose",
+        "CAT+ASS": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Ziege": "Schnee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "PHON",
+        "1": "13"
+    },
+    {
+        "Ziege": "Kartoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Stiefel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Ziege": "Strassenbahn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "IDEN",
+        "1": "12"
+    },
+    {
+        "Ziege": "Flugzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Klee",
+        "Schwein": "Tee",
+        "CAT+ASS": "PHON",
+        "1": "11"
+    },
+    {
+        "Ziege": "Pedal",
+        "Schwein": "Wal",
+        "CAT+ASS": "PHON",
+        "1": "11"
+    },
+    {
+        "Ziege": "Hose",
+        "Schwein": "Hose",
+        "CAT+ASS": "IDEN",
+        "1": "10"
+    },
+    {
+        "Ziege": "Hund",
+        "Schwein": "Fisch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Ziege": "Hammer",
+        "Schwein": "Suppe",
+        "CAT+ASS": "NONE",
+        "1": "11"
+    },
+    {
+        "Ziege": "Zahn",
+        "Schwein": "Pferd",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Kohl",
+        "Schwein": "Lauch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Ziege": "Schlagzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "PHON",
+        "1": "11"
+    },
+    {
+        "Ziege": "Apfel",
+        "Schwein": "Traube",
+        "CAT+ASS": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Ziege": "Pedal",
+        "Schwein": "Wal",
+        "CAT+ASS": "PHON",
+        "1": "12"
+    },
+    {
+        "Ziege": "Rose",
+        "Schwein": "Hose",
+        "CAT+ASS": "PHON",
+        "1": "11"
+    },
+    {
+        "Ziege": "Gras",
+        "Schwein": "Knopf",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Dachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "IDEN",
+        "1": "13"
+    },
+    {
+        "Ziege": "Pferd",
+        "Schwein": "Pferd",
+        "CAT+ASS": "IDEN",
+        "1": "14"
+    },
+    {
+        "Ziege": "Kohl",
+        "Schwein": "Lauch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Ziege": "Flugzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "IDEN",
+        "1": "12"
+    },
+    {
+        "Ziege": "Pelikan",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "NONE",
+        "1": "11"
+    },
+    {
+        "Ziege": "Zelt",
+        "Schwein": "Wein",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Flasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "PHON",
+        "1": "12"
+    },
+    {
+        "Ziege": "Otter",
+        "Schwein": "Wal",
+        "CAT+ASS": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Ziege": "Schuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "IDEN",
+        "1": "11"
+    },
+    {
+        "Ziege": "Kamm",
+        "Schwein": "Dachs",
+        "CAT+ASS": "NONE",
+        "1": "14"
+    },
+    {
+        "Ziege": "Schiff",
+        "Schwein": "Lauch",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Fisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "IDEN",
+        "1": "12"
+    },
+    {
+        "Ziege": "Hammer",
+        "Schwein": "Suppe",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Pfanne",
+        "Schwein": "Schwein",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Schraube",
+        "Schwein": "Traube",
+        "CAT+ASS": "PHON",
+        "1": "11"
+    },
+    {
+        "Ziege": "Pedal",
+        "Schwein": "Wal",
+        "CAT+ASS": "PHON",
+        "1": "14"
+    },
+    {
+        "Ziege": "Nest",
+        "Schwein": "Schuh",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Affe",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Lauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "IDEN",
+        "1": "13"
+    },
+    {
+        "Ziege": "Brot",
+        "Schwein": "Fisch",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Tasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "IDEN",
+        "1": "13"
+    },
+    {
+        "Ziege": "Dachs",
+        "Schwein": "Dachs",
+        "CAT+ASS": "IDEN",
+        "1": "15"
+    },
+    {
+        "Ziege": "Horn",
+        "Schwein": "Reis",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Tee",
+        "Schwein": "Tee",
+        "CAT+ASS": "IDEN",
+        "1": "12"
+    },
+    {
+        "Ziege": "Schnee",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "PHON",
+        "1": "14"
+    },
+    {
+        "Ziege": "Topf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "PHON",
+        "1": "13"
+    },
+    {
+        "Ziege": "Hubschrauber",
+        "Schwein": "Rakete",
+        "CAT+ASS": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Ziege": "Hund",
+        "Schwein": "Fisch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Ziege": "Zelt",
+        "Schwein": "Wein",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Pantoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "PHON",
+        "1": "12"
+    },
+    {
+        "Ziege": "Puppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "PHON",
+        "1": "13"
+    },
+    {
+        "Ziege": "Maus",
+        "Schwein": "Tee",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Reis",
+        "Schwein": "Reis",
+        "CAT+ASS": "IDEN",
+        "1": "13"
+    },
+    {
+        "Ziege": "Topf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "PHON",
+        "1": "14"
+    },
+    {
+        "Ziege": "Tapete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "PHON",
+        "1": "14"
+    },
+    {
+        "Ziege": "Hirsch",
+        "Schwein": "Pferd",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Fahrrad",
+        "Schwein": "Hose",
+        "CAT+ASS": "NONE",
+        "1": "12"
+    },
+    {
+        "Ziege": "Tisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "PHON",
+        "1": "15"
+    },
+    {
+        "Ziege": "Bein",
+        "Schwein": "Wein",
+        "CAT+ASS": "PHON",
+        "1": "14"
+    },
+    {
+        "Ziege": "Pelikan",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Schwan",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "PHON",
+        "1": "13"
+    },
+    {
+        "Ziege": "Schraube",
+        "Schwein": "Traube",
+        "CAT+ASS": "PHON",
+        "1": "12"
+    },
+    {
+        "Ziege": "Mehl",
+        "Schwein": "Reis",
+        "CAT+ASS": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Ziege": "Gurke",
+        "Schwein": "Wal",
+        "CAT+ASS": "NONE",
+        "1": "15"
+    },
+    {
+        "Ziege": "Kuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "PHON",
+        "1": "13"
+    },
+    {
+        "Ziege": "Affe",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "NONE",
+        "1": "14"
+    },
+    {
+        "Ziege": "Saft",
+        "Schwein": "Wein",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Pelikan",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "NONE",
+        "1": "14"
+    },
+    {
+        "Ziege": "Hubschrauber",
+        "Schwein": "Rakete",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Hut",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "NONE",
+        "1": "15"
+    },
+    {
+        "Ziege": "Fahrrad",
+        "Schwein": "Hose",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Bus",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Ziege": "Baer",
+        "Schwein": "Dachs",
+        "CAT+ASS": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Ziege": "Fussball",
+        "Schwein": "Traube",
+        "CAT+ASS": "NONE",
+        "1": "13"
+    },
+    {
+        "Ziege": "Zwiebel",
+        "Schwein": "Suppe",
+        "CAT+ASS": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Ziege": "Schnitzel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Rakete",
+        "Schwein": "Rakete",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Bauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "PHON",
+        "1": "14"
+    },
+    {
+        "Ziege": "Nest",
+        "Schwein": "Schuh",
+        "CAT+ASS": "NONE",
+        "1": "14"
+    },
+    {
+        "Ziege": "Mehl",
+        "Schwein": "Reis",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Fahrrad",
+        "Schwein": "Hose",
+        "CAT+ASS": "NONE",
+        "1": "14"
+    },
+    {
+        "Ziege": "Apfel",
+        "Schwein": "Traube",
+        "CAT+ASS": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Ziege": "Knopf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "IDEN",
+        "1": "15"
+    },
+    {
+        "Ziege": "Pantoffel",
+        "Schwein": "Kartoffel",
+        "CAT+ASS": "PHON",
+        "1": "16"
+    },
+    {
+        "Ziege": "Flasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "PHON",
+        "1": "14"
+    },
+    {
+        "Ziege": "Maus",
+        "Schwein": "Tee",
+        "CAT+ASS": "NONE",
+        "1": "14"
+    },
+    {
+        "Ziege": "Schwein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "IDEN",
+        "1": "14"
+    },
+    {
+        "Ziege": "Nest",
+        "Schwein": "Schuh",
+        "CAT+ASS": "NONE",
+        "1": "15"
+    },
+    {
+        "Ziege": "Bauch",
+        "Schwein": "Lauch",
+        "CAT+ASS": "PHON",
+        "1": "15"
+    },
+    {
+        "Ziege": "Fussball",
+        "Schwein": "Traube",
+        "CAT+ASS": "NONE",
+        "1": "15"
+    },
+    {
+        "Ziege": "Anzug",
+        "Schwein": "Hose",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Pferd",
+        "Schwein": "Pferd",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Knopf",
+        "Schwein": "Knopf",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Otter",
+        "Schwein": "Wal",
+        "CAT+ASS": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Ziege": "Ziege",
+        "Schwein": "Schwein",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Strassenbahn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "IDEN",
+        "1": "15"
+    },
+    {
+        "Ziege": "Fisch",
+        "Schwein": "Fisch",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Bier",
+        "Schwein": "Tee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Ziege": "Traube",
+        "Schwein": "Traube",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Suppe",
+        "Schwein": "Suppe",
+        "CAT+ASS": "IDEN",
+        "1": "15"
+    },
+    {
+        "Ziege": "Kohl",
+        "Schwein": "Lauch",
+        "CAT+ASS": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Ziege": "Affe",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "NONE",
+        "1": "15"
+    },
+    {
+        "Ziege": "Flasche",
+        "Schwein": "Tasche",
+        "CAT+ASS": "PHON",
+        "1": "15"
+    },
+    {
+        "Ziege": "Schornstein",
+        "Schwein": "Schwein",
+        "CAT+ASS": "PHON",
+        "1": "16"
+    },
+    {
+        "Ziege": "Huhn",
+        "Schwein": "Strassenbahn",
+        "CAT+ASS": "NONE",
+        "1": "16"
+    },
+    {
+        "Ziege": "Schuh",
+        "Schwein": "Schuh",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Hose",
+        "Schwein": "Hose",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Zwiebel",
+        "Schwein": "Suppe",
+        "CAT+ASS": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Ziege": "Horn",
+        "Schwein": "Reis",
+        "CAT+ASS": "NONE",
+        "1": "16"
+    },
+    {
+        "Ziege": "Schlagzeug",
+        "Schwein": "Flugzeug",
+        "CAT+ASS": "PHON",
+        "1": "16"
+    },
+    {
+        "Ziege": "L\u00f6ffel",
+        "Schwein": "Tasche",
+        "CAT+ASS": "NONE",
+        "1": "16"
+    },
+    {
+        "Ziege": "Tee",
+        "Schwein": "Tee",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Wein",
+        "Schwein": "Wein",
+        "CAT+ASS": "IDEN",
+        "1": "16"
+    },
+    {
+        "Ziege": "Milch",
+        "Schwein": "Kaffee",
+        "CAT+ASS": "CAT+ASS",
+        "1": "16"
+    }
+]

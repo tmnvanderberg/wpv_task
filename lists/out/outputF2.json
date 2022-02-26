@@ -1,0 +1,1916 @@
+[
+    {
+        "Huhn": "Fisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "IDEN",
+        "1": "1"
+    },
+    {
+        "Huhn": "Schwert",
+        "Strassenbahn": "Pferd",
+        "NONE": "PHON",
+        "1": "1"
+    },
+    {
+        "Huhn": "Hemd",
+        "Strassenbahn": "Knopf",
+        "NONE": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Huhn": "Milch",
+        "Strassenbahn": "Kaffee",
+        "NONE": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Huhn": "Rose",
+        "Strassenbahn": "Hose",
+        "NONE": "PHON",
+        "1": "1"
+    },
+    {
+        "Huhn": "Eis",
+        "Strassenbahn": "Reis",
+        "NONE": "PHON",
+        "1": "1"
+    },
+    {
+        "Huhn": "Kleid",
+        "Strassenbahn": "Schuh",
+        "NONE": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Huhn": "Schlagzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "PHON",
+        "1": "1"
+    },
+    {
+        "Huhn": "Schwan",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "PHON",
+        "1": "2"
+    },
+    {
+        "Huhn": "Schnitzel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Huhn": "Dachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "IDEN",
+        "1": "1"
+    },
+    {
+        "Huhn": "Kaffee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "IDEN",
+        "1": "2"
+    },
+    {
+        "Huhn": "Zelt",
+        "Strassenbahn": "Wein",
+        "NONE": "NONE",
+        "1": "1"
+    },
+    {
+        "Huhn": "Lauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "IDEN",
+        "1": "1"
+    },
+    {
+        "Huhn": "Kuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "PHON",
+        "1": "2"
+    },
+    {
+        "Huhn": "Affe",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "NONE",
+        "1": "2"
+    },
+    {
+        "Huhn": "Schraube",
+        "Strassenbahn": "Traube",
+        "NONE": "PHON",
+        "1": "1"
+    },
+    {
+        "Huhn": "Horn",
+        "Strassenbahn": "Reis",
+        "NONE": "NONE",
+        "1": "2"
+    },
+    {
+        "Huhn": "Anzug",
+        "Strassenbahn": "Hose",
+        "NONE": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Huhn": "Wal",
+        "Strassenbahn": "Wal",
+        "NONE": "IDEN",
+        "1": "1"
+    },
+    {
+        "Huhn": "Saft",
+        "Strassenbahn": "Wein",
+        "NONE": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Huhn": "Hammer",
+        "Strassenbahn": "Suppe",
+        "NONE": "NONE",
+        "1": "1"
+    },
+    {
+        "Huhn": "Schuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "IDEN",
+        "1": "3"
+    },
+    {
+        "Huhn": "Zahn",
+        "Strassenbahn": "Pferd",
+        "NONE": "NONE",
+        "1": "2"
+    },
+    {
+        "Huhn": "Wachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "PHON",
+        "1": "2"
+    },
+    {
+        "Huhn": "Kartoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "IDEN",
+        "1": "2"
+    },
+    {
+        "Huhn": "Schwan",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "PHON",
+        "1": "3"
+    },
+    {
+        "Huhn": "Tapete",
+        "Strassenbahn": "Rakete",
+        "NONE": "PHON",
+        "1": "1"
+    },
+    {
+        "Huhn": "Kaffee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "IDEN",
+        "1": "3"
+    },
+    {
+        "Huhn": "Bein",
+        "Strassenbahn": "Wein",
+        "NONE": "PHON",
+        "1": "3"
+    },
+    {
+        "Huhn": "Reis",
+        "Strassenbahn": "Reis",
+        "NONE": "IDEN",
+        "1": "3"
+    },
+    {
+        "Huhn": "Schwert",
+        "Strassenbahn": "Pferd",
+        "NONE": "PHON",
+        "1": "3"
+    },
+    {
+        "Huhn": "Bauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "PHON",
+        "1": "2"
+    },
+    {
+        "Huhn": "Kartoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "IDEN",
+        "1": "3"
+    },
+    {
+        "Huhn": "Bus",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Huhn": "Hemd",
+        "Strassenbahn": "Knopf",
+        "NONE": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Huhn": "Klee",
+        "Strassenbahn": "Tee",
+        "NONE": "PHON",
+        "1": "1"
+    },
+    {
+        "Huhn": "Tapete",
+        "Strassenbahn": "Rakete",
+        "NONE": "PHON",
+        "1": "2"
+    },
+    {
+        "Huhn": "Stiefel",
+        "Strassenbahn": "Tasche",
+        "NONE": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Huhn": "Puppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "PHON",
+        "1": "2"
+    },
+    {
+        "Huhn": "Mehl",
+        "Strassenbahn": "Reis",
+        "NONE": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Huhn": "Hirsch",
+        "Strassenbahn": "Pferd",
+        "NONE": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Huhn": "Schnee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Gras",
+        "Strassenbahn": "Knopf",
+        "NONE": "NONE",
+        "1": "3"
+    },
+    {
+        "Huhn": "Kartoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "IDEN",
+        "1": "4"
+    },
+    {
+        "Huhn": "Schwein",
+        "Strassenbahn": "Schwein",
+        "NONE": "IDEN",
+        "1": "1"
+    },
+    {
+        "Huhn": "L\u00f6ffel",
+        "Strassenbahn": "Tasche",
+        "NONE": "NONE",
+        "1": "2"
+    },
+    {
+        "Huhn": "Fahrrad",
+        "Strassenbahn": "Hose",
+        "NONE": "NONE",
+        "1": "3"
+    },
+    {
+        "Huhn": "Schuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "IDEN",
+        "1": "4"
+    },
+    {
+        "Huhn": "Gurke",
+        "Strassenbahn": "Wal",
+        "NONE": "NONE",
+        "1": "2"
+    },
+    {
+        "Huhn": "Apfel",
+        "Strassenbahn": "Traube",
+        "NONE": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Huhn": "Milch",
+        "Strassenbahn": "Kaffee",
+        "NONE": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Huhn": "Pelikan",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "NONE",
+        "1": "5"
+    },
+    {
+        "Huhn": "Baer",
+        "Strassenbahn": "Dachs",
+        "NONE": "CAT+ASS",
+        "1": "3"
+    },
+    {
+        "Huhn": "Ziege",
+        "Strassenbahn": "Schwein",
+        "NONE": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Huhn": "Rose",
+        "Strassenbahn": "Hose",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Huhn",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "NONE",
+        "1": "5"
+    },
+    {
+        "Huhn": "Schiff",
+        "Strassenbahn": "Lauch",
+        "NONE": "NONE",
+        "1": "3"
+    },
+    {
+        "Huhn": "Hund",
+        "Strassenbahn": "Fisch",
+        "NONE": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Huhn": "Reis",
+        "Strassenbahn": "Reis",
+        "NONE": "IDEN",
+        "1": "5"
+    },
+    {
+        "Huhn": "Suppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "IDEN",
+        "1": "3"
+    },
+    {
+        "Huhn": "Wachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Nest",
+        "Strassenbahn": "Schuh",
+        "NONE": "NONE",
+        "1": "5"
+    },
+    {
+        "Huhn": "Anzug",
+        "Strassenbahn": "Hose",
+        "NONE": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Huhn": "Pfanne",
+        "Strassenbahn": "Schwein",
+        "NONE": "NONE",
+        "1": "3"
+    },
+    {
+        "Huhn": "Traube",
+        "Strassenbahn": "Traube",
+        "NONE": "IDEN",
+        "1": "3"
+    },
+    {
+        "Huhn": "Brot",
+        "Strassenbahn": "Fisch",
+        "NONE": "NONE",
+        "1": "3"
+    },
+    {
+        "Huhn": "Zahn",
+        "Strassenbahn": "Pferd",
+        "NONE": "NONE",
+        "1": "5"
+    },
+    {
+        "Huhn": "Tapete",
+        "Strassenbahn": "Rakete",
+        "NONE": "PHON",
+        "1": "3"
+    },
+    {
+        "Huhn": "Dachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "IDEN",
+        "1": "5"
+    },
+    {
+        "Huhn": "Mehl",
+        "Strassenbahn": "Reis",
+        "NONE": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Huhn": "Otter",
+        "Strassenbahn": "Wal",
+        "NONE": "CAT+ASS",
+        "1": "3"
+    },
+    {
+        "Huhn": "Bein",
+        "Strassenbahn": "Wein",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Schlagzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "PHON",
+        "1": "3"
+    },
+    {
+        "Huhn": "Fisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "IDEN",
+        "1": "4"
+    },
+    {
+        "Huhn": "Pferd",
+        "Strassenbahn": "Pferd",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "L\u00f6ffel",
+        "Strassenbahn": "Tasche",
+        "NONE": "NONE",
+        "1": "3"
+    },
+    {
+        "Huhn": "Rakete",
+        "Strassenbahn": "Rakete",
+        "NONE": "IDEN",
+        "1": "4"
+    },
+    {
+        "Huhn": "Mehl",
+        "Strassenbahn": "Reis",
+        "NONE": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Huhn": "Schiff",
+        "Strassenbahn": "Lauch",
+        "NONE": "NONE",
+        "1": "4"
+    },
+    {
+        "Huhn": "Wein",
+        "Strassenbahn": "Wein",
+        "NONE": "IDEN",
+        "1": "5"
+    },
+    {
+        "Huhn": "Flugzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "IDEN",
+        "1": "4"
+    },
+    {
+        "Huhn": "Hund",
+        "Strassenbahn": "Fisch",
+        "NONE": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Huhn": "Schwert",
+        "Strassenbahn": "Pferd",
+        "NONE": "PHON",
+        "1": "7"
+    },
+    {
+        "Huhn": "Puppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Hut",
+        "Strassenbahn": "Kaffee",
+        "NONE": "NONE",
+        "1": "6"
+    },
+    {
+        "Huhn": "Schuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Wal",
+        "Strassenbahn": "Wal",
+        "NONE": "IDEN",
+        "1": "4"
+    },
+    {
+        "Huhn": "Zelt",
+        "Strassenbahn": "Wein",
+        "NONE": "NONE",
+        "1": "6"
+    },
+    {
+        "Huhn": "Strassenbahn",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Fisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Schnitzel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Huhn": "Pfanne",
+        "Strassenbahn": "Schwein",
+        "NONE": "NONE",
+        "1": "4"
+    },
+    {
+        "Huhn": "Flasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Kleid",
+        "Strassenbahn": "Schuh",
+        "NONE": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Huhn": "Pedal",
+        "Strassenbahn": "Wal",
+        "NONE": "PHON",
+        "1": "5"
+    },
+    {
+        "Huhn": "Wein",
+        "Strassenbahn": "Wein",
+        "NONE": "IDEN",
+        "1": "7"
+    },
+    {
+        "Huhn": "Eis",
+        "Strassenbahn": "Reis",
+        "NONE": "PHON",
+        "1": "8"
+    },
+    {
+        "Huhn": "Schraube",
+        "Strassenbahn": "Traube",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Pelikan",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "NONE",
+        "1": "7"
+    },
+    {
+        "Huhn": "Pfanne",
+        "Strassenbahn": "Schwein",
+        "NONE": "NONE",
+        "1": "5"
+    },
+    {
+        "Huhn": "Flasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "PHON",
+        "1": "5"
+    },
+    {
+        "Huhn": "Schwan",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "PHON",
+        "1": "7"
+    },
+    {
+        "Huhn": "Milch",
+        "Strassenbahn": "Kaffee",
+        "NONE": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Huhn": "Otter",
+        "Strassenbahn": "Wal",
+        "NONE": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Huhn": "Eis",
+        "Strassenbahn": "Reis",
+        "NONE": "PHON",
+        "1": "9"
+    },
+    {
+        "Huhn": "Fussball",
+        "Strassenbahn": "Traube",
+        "NONE": "NONE",
+        "1": "5"
+    },
+    {
+        "Huhn": "Baer",
+        "Strassenbahn": "Dachs",
+        "NONE": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Huhn": "Schornstein",
+        "Strassenbahn": "Schwein",
+        "NONE": "PHON",
+        "1": "6"
+    },
+    {
+        "Huhn": "L\u00f6ffel",
+        "Strassenbahn": "Tasche",
+        "NONE": "NONE",
+        "1": "6"
+    },
+    {
+        "Huhn": "Bus",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Huhn": "Tisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "PHON",
+        "1": "7"
+    },
+    {
+        "Huhn": "Saft",
+        "Strassenbahn": "Wein",
+        "NONE": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Huhn": "Horn",
+        "Strassenbahn": "Reis",
+        "NONE": "NONE",
+        "1": "10"
+    },
+    {
+        "Huhn": "Hammer",
+        "Strassenbahn": "Suppe",
+        "NONE": "NONE",
+        "1": "5"
+    },
+    {
+        "Huhn": "Knopf",
+        "Strassenbahn": "Knopf",
+        "NONE": "IDEN",
+        "1": "4"
+    },
+    {
+        "Huhn": "Hubschrauber",
+        "Strassenbahn": "Rakete",
+        "NONE": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Huhn": "Hose",
+        "Strassenbahn": "Hose",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Tasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "IDEN",
+        "1": "7"
+    },
+    {
+        "Huhn": "Brot",
+        "Strassenbahn": "Fisch",
+        "NONE": "NONE",
+        "1": "8"
+    },
+    {
+        "Huhn": "Klee",
+        "Strassenbahn": "Tee",
+        "NONE": "PHON",
+        "1": "2"
+    },
+    {
+        "Huhn": "Reis",
+        "Strassenbahn": "Reis",
+        "NONE": "IDEN",
+        "1": "11"
+    },
+    {
+        "Huhn": "Suppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Hirsch",
+        "Strassenbahn": "Pferd",
+        "NONE": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Huhn": "Kaffee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "IDEN",
+        "1": "8"
+    },
+    {
+        "Huhn": "Traube",
+        "Strassenbahn": "Traube",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Hemd",
+        "Strassenbahn": "Knopf",
+        "NONE": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Huhn": "Fisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "IDEN",
+        "1": "9"
+    },
+    {
+        "Huhn": "Bier",
+        "Strassenbahn": "Tee",
+        "NONE": "CAT+ASS",
+        "1": "3"
+    },
+    {
+        "Huhn": "Anzug",
+        "Strassenbahn": "Hose",
+        "NONE": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Huhn": "Schornstein",
+        "Strassenbahn": "Schwein",
+        "NONE": "PHON",
+        "1": "7"
+    },
+    {
+        "Huhn": "Kamm",
+        "Strassenbahn": "Dachs",
+        "NONE": "NONE",
+        "1": "7"
+    },
+    {
+        "Huhn": "Strassenbahn",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "IDEN",
+        "1": "9"
+    },
+    {
+        "Huhn": "Wein",
+        "Strassenbahn": "Wein",
+        "NONE": "IDEN",
+        "1": "9"
+    },
+    {
+        "Huhn": "Schnee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "PHON",
+        "1": "9"
+    },
+    {
+        "Huhn": "Tisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "PHON",
+        "1": "10"
+    },
+    {
+        "Huhn": "Knopf",
+        "Strassenbahn": "Knopf",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Tasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "IDEN",
+        "1": "8"
+    },
+    {
+        "Huhn": "Pfanne",
+        "Strassenbahn": "Schwein",
+        "NONE": "NONE",
+        "1": "8"
+    },
+    {
+        "Huhn": "Flugzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "IDEN",
+        "1": "5"
+    },
+    {
+        "Huhn": "Klee",
+        "Strassenbahn": "Tee",
+        "NONE": "PHON",
+        "1": "4"
+    },
+    {
+        "Huhn": "Zwiebel",
+        "Strassenbahn": "Suppe",
+        "NONE": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Huhn": "Kuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "PHON",
+        "1": "8"
+    },
+    {
+        "Huhn": "Traube",
+        "Strassenbahn": "Traube",
+        "NONE": "IDEN",
+        "1": "7"
+    },
+    {
+        "Huhn": "Knopf",
+        "Strassenbahn": "Knopf",
+        "NONE": "IDEN",
+        "1": "7"
+    },
+    {
+        "Huhn": "Eis",
+        "Strassenbahn": "Reis",
+        "NONE": "PHON",
+        "1": "12"
+    },
+    {
+        "Huhn": "Dachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "IDEN",
+        "1": "8"
+    },
+    {
+        "Huhn": "Ballon",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Huhn": "Tee",
+        "Strassenbahn": "Tee",
+        "NONE": "IDEN",
+        "1": "5"
+    },
+    {
+        "Huhn": "Saft",
+        "Strassenbahn": "Wein",
+        "NONE": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Huhn": "Kohl",
+        "Strassenbahn": "Lauch",
+        "NONE": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Huhn": "Rakete",
+        "Strassenbahn": "Rakete",
+        "NONE": "IDEN",
+        "1": "6"
+    },
+    {
+        "Huhn": "Apfel",
+        "Strassenbahn": "Traube",
+        "NONE": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Huhn": "Kleid",
+        "Strassenbahn": "Schuh",
+        "NONE": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Huhn": "Topf",
+        "Strassenbahn": "Knopf",
+        "NONE": "PHON",
+        "1": "8"
+    },
+    {
+        "Huhn": "Stiefel",
+        "Strassenbahn": "Tasche",
+        "NONE": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Huhn": "Zwiebel",
+        "Strassenbahn": "Suppe",
+        "NONE": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Huhn": "Flugzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "IDEN",
+        "1": "7"
+    },
+    {
+        "Huhn": "Kohl",
+        "Strassenbahn": "Lauch",
+        "NONE": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Huhn": "Elefant",
+        "Strassenbahn": "Rakete",
+        "NONE": "NONE",
+        "1": "7"
+    },
+    {
+        "Huhn": "Fussball",
+        "Strassenbahn": "Traube",
+        "NONE": "NONE",
+        "1": "9"
+    },
+    {
+        "Huhn": "Otter",
+        "Strassenbahn": "Wal",
+        "NONE": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Huhn": "Nest",
+        "Strassenbahn": "Schuh",
+        "NONE": "NONE",
+        "1": "10"
+    },
+    {
+        "Huhn": "Kamm",
+        "Strassenbahn": "Dachs",
+        "NONE": "NONE",
+        "1": "9"
+    },
+    {
+        "Huhn": "Hund",
+        "Strassenbahn": "Fisch",
+        "NONE": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Huhn": "Rose",
+        "Strassenbahn": "Hose",
+        "NONE": "PHON",
+        "1": "8"
+    },
+    {
+        "Huhn": "Schornstein",
+        "Strassenbahn": "Schwein",
+        "NONE": "PHON",
+        "1": "9"
+    },
+    {
+        "Huhn": "Kartoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "IDEN",
+        "1": "8"
+    },
+    {
+        "Huhn": "Schiff",
+        "Strassenbahn": "Lauch",
+        "NONE": "NONE",
+        "1": "7"
+    },
+    {
+        "Huhn": "Gurke",
+        "Strassenbahn": "Wal",
+        "NONE": "NONE",
+        "1": "8"
+    },
+    {
+        "Huhn": "Kuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Kaffee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "IDEN",
+        "1": "10"
+    },
+    {
+        "Huhn": "Tisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "PHON",
+        "1": "12"
+    },
+    {
+        "Huhn": "Rakete",
+        "Strassenbahn": "Rakete",
+        "NONE": "IDEN",
+        "1": "8"
+    },
+    {
+        "Huhn": "Knopf",
+        "Strassenbahn": "Knopf",
+        "NONE": "IDEN",
+        "1": "9"
+    },
+    {
+        "Huhn": "Pantoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "PHON",
+        "1": "9"
+    },
+    {
+        "Huhn": "Zahn",
+        "Strassenbahn": "Pferd",
+        "NONE": "NONE",
+        "1": "9"
+    },
+    {
+        "Huhn": "Pedal",
+        "Strassenbahn": "Wal",
+        "NONE": "PHON",
+        "1": "9"
+    },
+    {
+        "Huhn": "Kuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "PHON",
+        "1": "12"
+    },
+    {
+        "Huhn": "Mehl",
+        "Strassenbahn": "Reis",
+        "NONE": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Huhn": "L\u00f6ffel",
+        "Strassenbahn": "Tasche",
+        "NONE": "NONE",
+        "1": "10"
+    },
+    {
+        "Huhn": "Hubschrauber",
+        "Strassenbahn": "Rakete",
+        "NONE": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Huhn": "Topf",
+        "Strassenbahn": "Knopf",
+        "NONE": "PHON",
+        "1": "10"
+    },
+    {
+        "Huhn": "Bier",
+        "Strassenbahn": "Tee",
+        "NONE": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Huhn": "Schwein",
+        "Strassenbahn": "Schwein",
+        "NONE": "IDEN",
+        "1": "10"
+    },
+    {
+        "Huhn": "Wal",
+        "Strassenbahn": "Wal",
+        "NONE": "IDEN",
+        "1": "10"
+    },
+    {
+        "Huhn": "Schraube",
+        "Strassenbahn": "Traube",
+        "NONE": "PHON",
+        "1": "10"
+    },
+    {
+        "Huhn": "Schwert",
+        "Strassenbahn": "Pferd",
+        "NONE": "PHON",
+        "1": "10"
+    },
+    {
+        "Huhn": "Ballon",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Huhn": "Reis",
+        "Strassenbahn": "Reis",
+        "NONE": "IDEN",
+        "1": "14"
+    },
+    {
+        "Huhn": "Pantoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "PHON",
+        "1": "10"
+    },
+    {
+        "Huhn": "Tee",
+        "Strassenbahn": "Tee",
+        "NONE": "IDEN",
+        "1": "7"
+    },
+    {
+        "Huhn": "Topf",
+        "Strassenbahn": "Knopf",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Otter",
+        "Strassenbahn": "Wal",
+        "NONE": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Huhn": "Schraube",
+        "Strassenbahn": "Traube",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Bein",
+        "Strassenbahn": "Wein",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Schuh",
+        "Strassenbahn": "Schuh",
+        "NONE": "IDEN",
+        "1": "13"
+    },
+    {
+        "Huhn": "Kamm",
+        "Strassenbahn": "Dachs",
+        "NONE": "NONE",
+        "1": "10"
+    },
+    {
+        "Huhn": "Pferd",
+        "Strassenbahn": "Pferd",
+        "NONE": "IDEN",
+        "1": "11"
+    },
+    {
+        "Huhn": "Hund",
+        "Strassenbahn": "Fisch",
+        "NONE": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Huhn": "Tasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "IDEN",
+        "1": "11"
+    },
+    {
+        "Huhn": "Pedal",
+        "Strassenbahn": "Wal",
+        "NONE": "PHON",
+        "1": "12"
+    },
+    {
+        "Huhn": "Puppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "PHON",
+        "1": "9"
+    },
+    {
+        "Huhn": "Wein",
+        "Strassenbahn": "Wein",
+        "NONE": "IDEN",
+        "1": "12"
+    },
+    {
+        "Huhn": "Tee",
+        "Strassenbahn": "Tee",
+        "NONE": "IDEN",
+        "1": "8"
+    },
+    {
+        "Huhn": "Kohl",
+        "Strassenbahn": "Lauch",
+        "NONE": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Huhn": "Kleid",
+        "Strassenbahn": "Schuh",
+        "NONE": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Huhn": "Rakete",
+        "Strassenbahn": "Rakete",
+        "NONE": "IDEN",
+        "1": "10"
+    },
+    {
+        "Huhn": "Stiefel",
+        "Strassenbahn": "Tasche",
+        "NONE": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Huhn": "Bus",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Huhn": "Horn",
+        "Strassenbahn": "Reis",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Schornstein",
+        "Strassenbahn": "Schwein",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Pantoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Hammer",
+        "Strassenbahn": "Suppe",
+        "NONE": "NONE",
+        "1": "10"
+    },
+    {
+        "Huhn": "Maus",
+        "Strassenbahn": "Tee",
+        "NONE": "NONE",
+        "1": "9"
+    },
+    {
+        "Huhn": "Schnee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Flasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "PHON",
+        "1": "13"
+    },
+    {
+        "Huhn": "Bus",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Huhn": "Ballon",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Huhn": "Fussball",
+        "Strassenbahn": "Traube",
+        "NONE": "NONE",
+        "1": "12"
+    },
+    {
+        "Huhn": "Pelikan",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "NONE",
+        "1": "12"
+    },
+    {
+        "Huhn": "Suppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "IDEN",
+        "1": "11"
+    },
+    {
+        "Huhn": "Ziege",
+        "Strassenbahn": "Schwein",
+        "NONE": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Huhn": "Milch",
+        "Strassenbahn": "Kaffee",
+        "NONE": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Huhn": "Lauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "IDEN",
+        "1": "9"
+    },
+    {
+        "Huhn": "Schwan",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "PHON",
+        "1": "12"
+    },
+    {
+        "Huhn": "Hirsch",
+        "Strassenbahn": "Pferd",
+        "NONE": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Huhn": "Bier",
+        "Strassenbahn": "Tee",
+        "NONE": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Huhn": "Schlagzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "PHON",
+        "1": "10"
+    },
+    {
+        "Huhn": "Zwiebel",
+        "Strassenbahn": "Suppe",
+        "NONE": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Huhn": "Kamm",
+        "Strassenbahn": "Dachs",
+        "NONE": "NONE",
+        "1": "11"
+    },
+    {
+        "Huhn": "Apfel",
+        "Strassenbahn": "Traube",
+        "NONE": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Huhn": "Zelt",
+        "Strassenbahn": "Wein",
+        "NONE": "NONE",
+        "1": "13"
+    },
+    {
+        "Huhn": "Strassenbahn",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "IDEN",
+        "1": "13"
+    },
+    {
+        "Huhn": "Gras",
+        "Strassenbahn": "Knopf",
+        "NONE": "NONE",
+        "1": "12"
+    },
+    {
+        "Huhn": "Klee",
+        "Strassenbahn": "Tee",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Pantoffel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "PHON",
+        "1": "13"
+    },
+    {
+        "Huhn": "Zwiebel",
+        "Strassenbahn": "Suppe",
+        "NONE": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Huhn": "Ziege",
+        "Strassenbahn": "Schwein",
+        "NONE": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Huhn": "Affe",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "NONE",
+        "1": "11"
+    },
+    {
+        "Huhn": "Tapete",
+        "Strassenbahn": "Rakete",
+        "NONE": "PHON",
+        "1": "11"
+    },
+    {
+        "Huhn": "Huhn",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Gras",
+        "Strassenbahn": "Knopf",
+        "NONE": "NONE",
+        "1": "13"
+    },
+    {
+        "Huhn": "Kohl",
+        "Strassenbahn": "Lauch",
+        "NONE": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Huhn": "Bier",
+        "Strassenbahn": "Tee",
+        "NONE": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Huhn": "Wachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "PHON",
+        "1": "12"
+    },
+    {
+        "Huhn": "Schwein",
+        "Strassenbahn": "Schwein",
+        "NONE": "IDEN",
+        "1": "14"
+    },
+    {
+        "Huhn": "Hose",
+        "Strassenbahn": "Hose",
+        "NONE": "IDEN",
+        "1": "9"
+    },
+    {
+        "Huhn": "Elefant",
+        "Strassenbahn": "Rakete",
+        "NONE": "NONE",
+        "1": "12"
+    },
+    {
+        "Huhn": "Puppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "PHON",
+        "1": "14"
+    },
+    {
+        "Huhn": "Pferd",
+        "Strassenbahn": "Pferd",
+        "NONE": "IDEN",
+        "1": "13"
+    },
+    {
+        "Huhn": "Nest",
+        "Strassenbahn": "Schuh",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Strassenbahn",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "IDEN",
+        "1": "15"
+    },
+    {
+        "Huhn": "Wal",
+        "Strassenbahn": "Wal",
+        "NONE": "IDEN",
+        "1": "13"
+    },
+    {
+        "Huhn": "Schiff",
+        "Strassenbahn": "Lauch",
+        "NONE": "NONE",
+        "1": "11"
+    },
+    {
+        "Huhn": "Flugzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "IDEN",
+        "1": "12"
+    },
+    {
+        "Huhn": "Hubschrauber",
+        "Strassenbahn": "Rakete",
+        "NONE": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Huhn": "Hose",
+        "Strassenbahn": "Hose",
+        "NONE": "IDEN",
+        "1": "10"
+    },
+    {
+        "Huhn": "Hut",
+        "Strassenbahn": "Kaffee",
+        "NONE": "NONE",
+        "1": "13"
+    },
+    {
+        "Huhn": "Nest",
+        "Strassenbahn": "Schuh",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Topf",
+        "Strassenbahn": "Knopf",
+        "NONE": "PHON",
+        "1": "14"
+    },
+    {
+        "Huhn": "Gurke",
+        "Strassenbahn": "Wal",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Brot",
+        "Strassenbahn": "Fisch",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Schwein",
+        "Strassenbahn": "Schwein",
+        "NONE": "IDEN",
+        "1": "15"
+    },
+    {
+        "Huhn": "Elefant",
+        "Strassenbahn": "Rakete",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Zahn",
+        "Strassenbahn": "Pferd",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Schnee",
+        "Strassenbahn": "Kaffee",
+        "NONE": "PHON",
+        "1": "14"
+    },
+    {
+        "Huhn": "Fahrrad",
+        "Strassenbahn": "Hose",
+        "NONE": "NONE",
+        "1": "11"
+    },
+    {
+        "Huhn": "Baer",
+        "Strassenbahn": "Dachs",
+        "NONE": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Huhn": "Hemd",
+        "Strassenbahn": "Knopf",
+        "NONE": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Huhn": "Zelt",
+        "Strassenbahn": "Wein",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Bauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "PHON",
+        "1": "12"
+    },
+    {
+        "Huhn": "Elefant",
+        "Strassenbahn": "Rakete",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Ziege",
+        "Strassenbahn": "Schwein",
+        "NONE": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Huhn": "Apfel",
+        "Strassenbahn": "Traube",
+        "NONE": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Huhn": "Huhn",
+        "Strassenbahn": "Strassenbahn",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Anzug",
+        "Strassenbahn": "Hose",
+        "NONE": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Huhn": "Tasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "IDEN",
+        "1": "14"
+    },
+    {
+        "Huhn": "Tisch",
+        "Strassenbahn": "Fisch",
+        "NONE": "PHON",
+        "1": "15"
+    },
+    {
+        "Huhn": "Tee",
+        "Strassenbahn": "Tee",
+        "NONE": "IDEN",
+        "1": "13"
+    },
+    {
+        "Huhn": "Hubschrauber",
+        "Strassenbahn": "Rakete",
+        "NONE": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Huhn": "Hut",
+        "Strassenbahn": "Kaffee",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Gurke",
+        "Strassenbahn": "Wal",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Schlagzeug",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "PHON",
+        "1": "13"
+    },
+    {
+        "Huhn": "Wachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "PHON",
+        "1": "14"
+    },
+    {
+        "Huhn": "Fussball",
+        "Strassenbahn": "Traube",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Bauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "PHON",
+        "1": "13"
+    },
+    {
+        "Huhn": "Maus",
+        "Strassenbahn": "Tee",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Schnitzel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Huhn": "Hose",
+        "Strassenbahn": "Hose",
+        "NONE": "IDEN",
+        "1": "13"
+    },
+    {
+        "Huhn": "Pedal",
+        "Strassenbahn": "Wal",
+        "NONE": "PHON",
+        "1": "16"
+    },
+    {
+        "Huhn": "Ballon",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Huhn": "Dachs",
+        "Strassenbahn": "Dachs",
+        "NONE": "IDEN",
+        "1": "15"
+    },
+    {
+        "Huhn": "Traube",
+        "Strassenbahn": "Traube",
+        "NONE": "IDEN",
+        "1": "16"
+    },
+    {
+        "Huhn": "Bein",
+        "Strassenbahn": "Wein",
+        "NONE": "PHON",
+        "1": "15"
+    },
+    {
+        "Huhn": "Stiefel",
+        "Strassenbahn": "Tasche",
+        "NONE": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Huhn": "Lauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "IDEN",
+        "1": "14"
+    },
+    {
+        "Huhn": "Pferd",
+        "Strassenbahn": "Pferd",
+        "NONE": "IDEN",
+        "1": "15"
+    },
+    {
+        "Huhn": "Fahrrad",
+        "Strassenbahn": "Hose",
+        "NONE": "NONE",
+        "1": "14"
+    },
+    {
+        "Huhn": "Gras",
+        "Strassenbahn": "Knopf",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Schnitzel",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Huhn": "Affe",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Saft",
+        "Strassenbahn": "Wein",
+        "NONE": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Huhn": "Hammer",
+        "Strassenbahn": "Suppe",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Bauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "PHON",
+        "1": "15"
+    },
+    {
+        "Huhn": "Flasche",
+        "Strassenbahn": "Tasche",
+        "NONE": "PHON",
+        "1": "16"
+    },
+    {
+        "Huhn": "Maus",
+        "Strassenbahn": "Tee",
+        "NONE": "NONE",
+        "1": "15"
+    },
+    {
+        "Huhn": "Rose",
+        "Strassenbahn": "Hose",
+        "NONE": "PHON",
+        "1": "15"
+    },
+    {
+        "Huhn": "Brot",
+        "Strassenbahn": "Fisch",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Horn",
+        "Strassenbahn": "Reis",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Hirsch",
+        "Strassenbahn": "Pferd",
+        "NONE": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Huhn": "Hut",
+        "Strassenbahn": "Kaffee",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Affe",
+        "Strassenbahn": "Flugzeug",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Baer",
+        "Strassenbahn": "Dachs",
+        "NONE": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Huhn": "Lauch",
+        "Strassenbahn": "Lauch",
+        "NONE": "IDEN",
+        "1": "16"
+    },
+    {
+        "Huhn": "Pelikan",
+        "Strassenbahn": "Kartoffel",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Suppe",
+        "Strassenbahn": "Suppe",
+        "NONE": "IDEN",
+        "1": "16"
+    },
+    {
+        "Huhn": "Maus",
+        "Strassenbahn": "Tee",
+        "NONE": "NONE",
+        "1": "16"
+    },
+    {
+        "Huhn": "Fahrrad",
+        "Strassenbahn": "Hose",
+        "NONE": "NONE",
+        "1": "16"
+    }
+]

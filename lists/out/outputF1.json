@@ -1,0 +1,1597 @@
+[
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "IDEN",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "NONE",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "NONE",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "NONE",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "PHON",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "NONE",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "PHON",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "PHON",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "PHON",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "PHON",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "IDEN",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "IDEN",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "NONE",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "PHON",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "IDEN",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "NONE",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "IDEN",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "IDEN",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "PHON",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "IDEN",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "IDEN",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "IDEN",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "NONE",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "NONE",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "PHON",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "IDEN",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "CAT+ASS",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "PHON",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "NONE",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "IDEN",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "NONE",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "CAT+ASS",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "CAT+ASS",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "NONE",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "NONE",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "IDEN",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "PHON",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "NONE",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "IDEN",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "PHON",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "PHON",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "PHON",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "PHON",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "NONE",
+        "1": "1"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "NONE",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "CAT+ASS",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "IDEN",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "NONE",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "NONE",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "NONE",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "IDEN",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "NONE",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "PHON",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "IDEN",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "IDEN",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "IDEN",
+        "1": "2"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "PHON",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "PHON",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "PHON",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "NONE",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "NONE",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "CAT+ASS",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "PHON",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "CAT+ASS",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "NONE",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "PHON",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "NONE",
+        "1": "3"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "NONE",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "NONE",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "CAT+ASS",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "IDEN",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "CAT+ASS",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "PHON",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "IDEN",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "PHON",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "NONE",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "NONE",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "NONE",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "IDEN",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "NONE",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "IDEN",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "PHON",
+        "1": "4"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "IDEN",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "NONE",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "PHON",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "PHON",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "IDEN",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "NONE",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "IDEN",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "PHON",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "NONE",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "NONE",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "PHON",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "NONE",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "NONE",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "IDEN",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "PHON",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "NONE",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "PHON",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "IDEN",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "PHON",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "NONE",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "PHON",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "IDEN",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "NONE",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "IDEN",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "CAT+ASS",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "PHON",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "PHON",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "IDEN",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "PHON",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "PHON",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "NONE",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "IDEN",
+        "1": "5"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "NONE",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "NONE",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "IDEN",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "IDEN",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "PHON",
+        "1": "6"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "IDEN",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "IDEN",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "NONE",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "NONE",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "IDEN",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "NONE",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "IDEN",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "NONE",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "PHON",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "NONE",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "PHON",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "NONE",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "PHON",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "NONE",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "IDEN",
+        "1": "7"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "PHON",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "NONE",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "NONE",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "CAT+ASS",
+        "1": "8"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "NONE",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "PHON",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "NONE",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "CAT+ASS",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "PHON",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "IDEN",
+        "1": "9"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "IDEN",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "NONE",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "PHON",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "CAT+ASS",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "PHON",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "PHON",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "IDEN",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "PHON",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "NONE",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "IDEN",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "NONE",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "IDEN",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "CAT+ASS",
+        "1": "10"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "PHON",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "NONE",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "PHON",
+        "1": "11"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "IDEN",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "NONE",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "IDEN",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "PHON",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "CAT+ASS",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "PHON",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "NONE",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "NONE",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "PHON",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "NONE",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "NONE",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "PHON",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Lauch",
+        "IDEN": "PHON",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "NONE",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "NONE",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "IDEN",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "IDEN",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "PHON",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "PHON",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Hose",
+        "IDEN": "IDEN",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Fisch",
+        "IDEN": "PHON",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "IDEN",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "CAT+ASS",
+        "1": "12"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "NONE",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "NONE",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Rakete",
+        "IDEN": "IDEN",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "IDEN",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "PHON",
+        "1": "13"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "NONE",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "PHON",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "IDEN",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "CAT+ASS",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "CAT+ASS",
+        "1": "14"
+    },
+    {
+        "Kaffee": "Wein",
+        "IDEN": "IDEN",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "IDEN",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Wal",
+        "IDEN": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Kartoffel",
+        "IDEN": "IDEN",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Schuh",
+        "IDEN": "PHON",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Schwein",
+        "IDEN": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Dachs",
+        "IDEN": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "NONE",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "IDEN",
+        "1": "15"
+    },
+    {
+        "Kaffee": "Reis",
+        "IDEN": "PHON",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Tasche",
+        "IDEN": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Knopf",
+        "IDEN": "NONE",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Pferd",
+        "IDEN": "NONE",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Traube",
+        "IDEN": "PHON",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Strassenbahn",
+        "IDEN": "NONE",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Kaffee",
+        "IDEN": "PHON",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Flugzeug",
+        "IDEN": "PHON",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Suppe",
+        "IDEN": "CAT+ASS",
+        "1": "16"
+    },
+    {
+        "Kaffee": "Tee",
+        "IDEN": "CAT+ASS",
+        "1": "16"
+    }
+]
