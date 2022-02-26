@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+  <head>
+    <title>WPV rating</title>
+    <script src="https://unpkg.com/jspsych@7.0.0"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.0.0"></script>
+    <script src="https://unpkg.com/@jspsych/plugin-survey-likert@1.0.0"></script>
+    <link href="https://unpkg.com/jspsych@7.0.0/css/jspsych.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body></body>
+  <style>
+    .trial  #prompt {
+      font-size: 800px;
+    }
+  </style>
+  <script>
+    /*
+
+    WPV experiment for Proscila Borges
+
+    2.2022 peter.traunmueller@univie.ac.at, priscila.borba.borges@univie.ac.at:
+
+    */
+
+    /* initialize jsPsych */
+    var jsPsych = initJsPsych({
+      show_progress_bar: true,
+      on_finish: function() {
+        jsPsych.data.displayData();
+      }
+    });
+
+    /*add timeline var */
+    var timeline = [];
+
+    /* define welcome trial */
+    var welcome = {
+        type: jsPsychHtmlKeyboardResponse,
+        stimulus: `Welcome to the WPV rating experiment.
+                  <div style='width: 700px;'>
+                    <img src='babelfisch.png'></img>
+                  </div>
+                  <p><a href=https://psy-ling.univie.ac.at/>psy-ling.univie.ac.at</a></p>
+                  <p>Press any key to begin. </p>
+                  `
+      };
+    timeline.push(welcome);
+
+    /* define instructions trial */
+    var instructions = {
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: `
+        <p>In this experiment, you will see two word pairs.</p>
+        <p>Your task is to select on a scale from 1 to 7, how similar the words are on two different dimensions:</p>
+        <p><strong>sound</strong> and <strong>meaning</strong></p>
+        <p>Press any key to begin some practice trials.</p>
+      `,
+      post_trial_gap: 2000
+    };
+    timeline.push(instructions)
+
+    /* define trial stimuli array for timeline variables */
+
+
+    var test_stimuli = [ // this array is sorted in [WORD1, WORD2]
+      ["Fliege",      "Apfel"],
+      ["Mund",        "Bein"],
+      ["Schwein",     "Bein"],
+      ["Schuh",       "Bier"],
+      ["Stier",       "Bier"],
+      ["Rock",        "Block"],
+      ["Tisch",       "Block"],
+      ["Zug",         "Ei"],
+      ["Fuchs",       "Esel"],
+      ["Eule",        "Fisch"],
+      ["Tisch",       "Fisch"],
+      ["Suppe",       "Flasche"],
+      ["Hemd",        "Fliege"],
+      ["Pferd",       "Fuchs"],
+      ["Katze",       "Glatze"],
+      ["Mine",        "Glatze"],
+      ["Biene",       "Hahn"],
+      ["Schwein",     "Hase"],
+      ["Ohr",         "Hemd"],
+      ["Hund",        "Katze"],
+      ["Eule",        "Keule"],
+      ["Puppe",       "Kleid"],
+      ["Mais",        "Knopf"],
+      ["Tiger",       "Mais"],
+      ["Biene",       "Mine"],
+      ["Hund",        "Mund"],
+      ["Hase",        "Nase"],
+      ["Tasche",      "Nase"],
+      ["Apfel",       "Ohr"],
+      ["Schaf",       "Pferd"],
+      ["Wal",         "Pickel"],
+      ["Pickel",      "Reh"],
+      ["Schal",       "Reh"],
+      ["Kleid",       "Rock"],
+      ["Esel",        "Schaf"],
+      ["Wal",         "Schal"],
+      ["Kuh",         "Schuh"],
+      ["Zahn",        "Stier"],
+      ["Puppe",       "Suppe"],
+      ["Flasche",     "Tasche"],
+      ["Knopf",       "Tiger"],
+      ["Ei",          "Wolf"],
+      ["Hahn",        "Zahn"],
+      ["Keule",       "Ziege"],
+      ["Kuh",         "Ziege"],
+      ["Wolf",        "Zug"],
+
+    ];
+
+    /* define var to display slider and text stimuli*/
+    var likert_scale = [
+      "Completely different",
+      "Somewhat different",
+      "Neutral",
+      "Somewhat similar",
+      "Identical"
+    ];
+
+    for (let index = 0; index < test_stimuli.length; ++index) {
+        const element = test_stimuli[index];
+        var trial = {
+          type: jsPsychSurveyLikert,
+          questions: [
+            {
+                prompt:'<div style="width: 100%;">'+
+                       '<div style="float:left; width: 50%">'+
+                         element[0] +
+                       '</div>'+
+                       '<div style="float:right; width: 50%">'+
+                         element[1] +
+                       '</div>'+
+                       '</div>'+
+                       '<div style="clear:both"></div>',
+                name:element[0]+element[1], //join the words for the name e.g. Zug and Haus are now ZugHaus
+                labels: likert_scale,
+            }
+          ],
+          randomize_question_order: false,
+          css_classes: ['trial']
+        };
+        timeline.push(trial)
+      }
+
+    var end_instructions = {//instructions
+      type: jsPsychHtmlKeyboardResponse,
+      stimulus: `
+        <p>Thanks for doing this!</p>
+        <p>Your answers will be shown in the next screen.</p>
+        <p>Press any key to end the trial. </p>
+      `
+    };
+    timeline.push(end_instructions)
+
+    console.log(timeline);
+
+    /* start experiment */
+    jsPsych.run(timeline)
+
+    var all_data = jsPsych.data.get();
+    //console.log(all_data.csv());
+
+</script>
+</html>

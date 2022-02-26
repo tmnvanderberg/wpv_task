@@ -1,0 +1,55 @@
+// This is the script file for the MIX trial randomizer
+
+// Define the item source file
+// it contains 160 trials in 1 block because 2 blocks caused the program to crash
+// - 80 different combinations
+// - 4 different cues per target (that's the conditions)
+
+ItemFile items_in_blocks.txt
+
+// - 20 different targets
+// the target word is in the 2nd column
+Property target 2
+
+// the condition is in the 3rd column
+Property condition 3
+
+// 80 cues are in 1st column
+//Property cue 1
+
+// Define the constraints
+// - balance between two halves
+// - randomize according to the constraints over the entirety of trials, not just within each block
+// - not the same cue or target within 8 trials of each other
+Constraint target MinDist 8
+Constraint condition MaxRep 2
+
+// - transitions between conditions (i.e. cond.1 -> cond.2, or cond.2->1) need to be equal in number, there are 16 different transitions
+// for half the trials (160) the max possible occurrence for each condition transition (i.e. each of the size-of-2 windows) is 160/16 = 10 
+Constraint condition Pattern 20 2 
+
+// count the occurrences for each target in a new column
+Occurrence target
+
+// - align output in columns
+Comb 4
+
+// Define the output files
+// make sure that each of the items is twice in each half of the trial list 
+
+OutputFile outputF1.txt
+Block part1 rand
+OutputFile outputF2.txt
+Block part1 rand
+OutputFile outputF3.txt
+Block part1 rand
+OutputFile outputF4.txt
+Block part1 rand
+OutputFile outputF5.txt
+Block part1 rand
+OutputFile outputF6.txt
+Block part1 rand
+OutputFile outputF7.txt
+Block part1 rand
+OutputFile outputF8.txt
+Block part1 rand
