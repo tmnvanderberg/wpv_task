@@ -1,160 +1,81 @@
-Horn            Reis            NONE       1
-Hammer          Suppe           NONE       1
-Topf            Knopf           PHON       1
-Schlagzeug      Flugzeug        PHON       1
-Huhn            Strassenbahn    NONE       1
-Wein            Wein            IDEN       1
-Anzug           Hose            CAT+ASS    1
-Bauch           Lauch           PHON       1
-Dachs           Dachs           IDEN       1
-Kleid           Schuh           CAT+ASS    1
-Stiefel         Tasche          CAT+ASS    1
-Pantoffel       Kartoffel       PHON       1
-Schwan          Strassenbahn    PHON       2
-Pfanne          Schwein         NONE       1
-Rose            Hose            PHON       2
-Schnee          Kaffee          PHON       1
-Fisch           Fisch           IDEN       1
-Bauch           Lauch           PHON       2
-Löffel         Tasche          NONE       2
-Wachs           Dachs           PHON       2
-Strassenbahn    Strassenbahn    IDEN       3
-Tapete          Rakete          PHON       1
-Knopf           Knopf           IDEN       2
-Schwert         Pferd           PHON       1
-Brot            Fisch           NONE       2
-Lauch           Lauch           IDEN       3
-Tasche          Tasche          IDEN       3
-Kamm            Dachs           NONE       3
-Otter           Wal             CAT+ASS    1
-Schraube        Traube          PHON       1
-Klee            Tee             PHON       1
-Ziege           Schwein         CAT+ASS    2
-Hund            Fisch           CAT+ASS    3
-Pferd           Pferd           IDEN       2
-Flasche         Tasche          PHON       4
-Milch           Kaffee          CAT+ASS    2
-Gurke           Wal             NONE       2
-Schiff          Lauch           NONE       4
-Klee            Tee             PHON       2
-Elefant         Rakete          NONE       2
-Tisch           Fisch           PHON       4
-Kleid           Schuh           CAT+ASS    2
-Tasche          Tasche          IDEN       5
-Dachs           Dachs           IDEN       4
-Apfel           Traube          CAT+ASS    2
-Horn            Reis            NONE       2
-Fahrrad         Hose            NONE       3
-Tee             Tee             IDEN       3
-Pelikan         Kartoffel       NONE       2
-Schuh           Schuh           IDEN       3
-Zelt            Wein            NONE       2
-Baer            Dachs           CAT+ASS    5
-Traube          Traube          IDEN       3
-Ballon          Flugzeug        CAT+ASS    2
-Schwan          Strassenbahn    PHON       4
-Schnee          Kaffee          PHON       3
-Tee             Tee             IDEN       4
-Schuh           Schuh           IDEN       4
-Gurke           Wal             NONE       3
-Puppe           Suppe           PHON       2
-Traube          Traube          IDEN       4
-Kohl            Lauch           CAT+ASS    5
-Affe            Flugzeug        NONE       3
-Fahrrad         Hose            NONE       4
-Bier            Tee             CAT+ASS    5
-Zahn            Pferd           NONE       3
-Otter           Wal             CAT+ASS    4
-Puppe           Suppe           PHON       3
-Schraube        Traube          PHON       5
-Stiefel         Tasche          CAT+ASS    6
-Schornstein     Schwein         PHON       3
-Tisch           Fisch           PHON       5
-Flugzeug        Flugzeug        IDEN       4
-Schwert         Pferd           PHON       4
-Pedal           Wal             PHON       5
-Hammer          Suppe           NONE       4
-Kuh             Schuh           PHON       5
-Huhn            Strassenbahn    NONE       5
-Schwein         Schwein         IDEN       4
-Hund            Fisch           CAT+ASS    6
-Gras            Knopf           NONE       3
-Wein            Wein            IDEN       3
-Wal             Wal             IDEN       6
-Elefant         Rakete          NONE       3
-Hose            Hose            IDEN       5
-Bus             Strassenbahn    CAT+ASS    6
-Lauch           Lauch           IDEN       6
-Kuh             Schuh           PHON       6
-Zwiebel         Suppe           CAT+ASS    5
-Saft            Wein            CAT+ASS    4
-Wal             Wal             IDEN       7
-Schwein         Schwein         IDEN       5
-Löffel         Tasche          NONE       7
-Topf            Knopf           PHON       4
-Wachs           Dachs           PHON       6
-Schiff          Lauch           NONE       7
-Suppe           Suppe           IDEN       6
-Kartoffel       Kartoffel       IDEN       3
-Zahn            Pferd           NONE       5
-Ziege           Schwein         CAT+ASS    6
-Rakete          Rakete          IDEN       4
-Hose            Hose            IDEN       6
-Bier            Tee             CAT+ASS    6
-Kaffee          Kaffee          IDEN       4
-Suppe           Suppe           IDEN       7
-Apfel           Traube          CAT+ASS    6
-Hirsch          Pferd           CAT+ASS    6
-Schornstein     Schwein         PHON       7
-Reis            Reis            IDEN       3
-Rakete          Rakete          IDEN       5
-Saft            Wein            CAT+ASS    5
-Kaffee          Kaffee          IDEN       5
-Knopf           Knopf           IDEN       5
-Pedal           Wal             PHON       8
-Pferd           Pferd           IDEN       7
-Schlagzeug      Flugzeug        PHON       5
-Mehl            Reis            CAT+ASS    4
-Hubschrauber    Rakete          CAT+ASS    6
-Brot            Fisch           NONE       7
-Pelikan         Kartoffel       NONE       4
-Hemd            Knopf           CAT+ASS    6
-Baer            Dachs           CAT+ASS    7
-Maus            Tee             NONE       7
-Affe            Flugzeug        NONE       6
-Reis            Reis            IDEN       5
-Bein            Wein            PHON       6
-Hubschrauber    Rakete          CAT+ASS    7
-Schnitzel       Kartoffel       CAT+ASS    5
-Strassenbahn    Strassenbahn    IDEN       7
-Pfanne          Schwein         NONE       8
-Maus            Tee             NONE       8
-Ballon          Flugzeug        CAT+ASS    7
-Eis             Reis            PHON       6
-Anzug           Hose            CAT+ASS    7
-Gras            Knopf           NONE       7
-Pantoffel       Kartoffel       PHON       6
-Tapete          Rakete          PHON       8
-Fussball        Traube          NONE       7
-Flasche         Tasche          PHON       8
-Flugzeug        Flugzeug        IDEN       8
-Eis             Reis            PHON       7
-Kohl            Lauch           CAT+ASS    8
-Milch           Kaffee          CAT+ASS    6
-Kartoffel       Kartoffel       IDEN       7
-Nest            Schuh           NONE       7
-Hemd            Knopf           CAT+ASS    8
-Bein            Wein            PHON       7
-Hirsch          Pferd           CAT+ASS    8
-Mehl            Reis            CAT+ASS    8
-Rose            Hose            PHON       8
-Hut             Kaffee          NONE       7
-Schnitzel       Kartoffel       CAT+ASS    8
-Nest            Schuh           NONE       8
-Fisch           Fisch           IDEN       8
-Zelt            Wein            NONE       8
-Kamm            Dachs           NONE       8
-Zwiebel         Suppe           CAT+ASS    8
-Bus             Strassenbahn    CAT+ASS    8
-Hut             Kaffee          NONE       8
-Fussball        Traube          NONE       8
+Hund,Fisch,CAT+ASS,img\Hund2.jpg,img\Fisch6.jpg,img\Hund2.jpg,img\Fisch6.jpg,img\HundCS.jpg,img\FischCS.jpg,n,main,pic-word
+Gras,Knopf,NONE,img\Gras1.jpg,img\Knopf3.jpg,img\Gras1.jpg,img\Knopf3.jpg,img\GrasCC.jpg,img\KnopfCS.jpg,n,main,pic-word
+Wein,Wein,IDEN,img\Wein2.jpg,img\Wein3.jpg,img\Wein2.jpg,img\Wein3.jpg,img\WeinCS.jpg,img\WeinCS.jpg,m,main,pic-word
+Wal,Wal,IDEN,img\Wal1.jpg,img\Wal6.jpg,img\Wal1.jpg,img\Wal6.jpg,img\WalCC.jpg,img\WalCS.jpg,m,main,pic-word
+Elefant,Rakete,NONE,img\Elefant2.jpg,img\Rakete3.jpg,img\Elefant2.jpg,img\Rakete3.jpg,img\ElefantCS.jpg,img\RaketeCS.jpg,n,main,pic-word
+Hose,Hose,IDEN,img\Hose1.jpg,img\Hose5.jpg,img\Hose1.jpg,img\Hose5.jpg,img\HoseCC.jpg,img\HoseCS.jpg,m,main,pic-word
+Bus,Strassenbahn,CAT+ASS,img\Bus1.jpg,img\Strassenbahn6.jpg,img\Bus1.jpg,img\Strassenbahn6.jpg,img\BusCC.jpg,img\StrassenbahnCS.jpg,n,main,pic-word
+Lauch,Lauch,IDEN,img\Lauch2.jpg,img\Lauch6.jpg,img\Lauch2.jpg,img\Lauch6.jpg,img\LauchCS.jpg,img\LauchCS.jpg,m,main,pic-word
+Kuh,Schuh,PHON,img\Kuh2.jpg,img\Schuh6.jpg,img\Kuh2.jpg,img\Schuh6.jpg,img\KuhCS.jpg,img\SchuhCS.jpg,n,main,pic-word
+Zwiebel,Suppe,CAT+ASS,img\Zwiebel1.jpg,img\Suppe5.jpg,img\Zwiebel1.jpg,img\Suppe5.jpg,img\ZwiebelCC.jpg,img\SuppeCS.jpg,n,main,pic-word
+Saft,Wein,CAT+ASS,img\Saft1.jpg,img\Wein4.jpg,img\Saft1.jpg,img\Wein4.jpg,img\SaftCC.jpg,img\WeinCS.jpg,n,main,pic-word
+Wal,Wal,IDEN,img\Wal2.jpg,img\Wal7.jpg,img\Wal2.jpg,img\Wal7.jpg,img\WalCS.jpg,img\WalCS.jpg,m,main,pic-word
+Schwein,Schwein,IDEN,img\Schwein2.jpg,img\Schwein5.jpg,img\Schwein2.jpg,img\Schwein5.jpg,img\SchweinCS.jpg,img\SchweinCS.jpg,m,main,pic-word
+Löffel,Tasche,NONE,img\Löffel2.jpg,img\Tasche7.jpg,img\Löffel2.jpg,img\Tasche7.jpg,img\LöffelCS.jpg,img\TascheCS.jpg,n,main,pic-word
+Topf,Knopf,PHON,img\Topf2.jpg,img\Knopf4.jpg,img\Topf2.jpg,img\Knopf4.jpg,img\TopfCS.jpg,img\KnopfCS.jpg,n,main,pic-word
+Wachs,Dachs,PHON,img\Wachs2.jpg,img\Dachs6.jpg,img\Wachs2.jpg,img\Dachs6.jpg,img\WachsCS.jpg,img\DachsCS.jpg,n,main,pic-word
+Schiff,Lauch,NONE,img\Schiff2.jpg,img\Lauch7.jpg,img\Schiff2.jpg,img\Lauch7.jpg,img\SchiffCS.jpg,img\LauchCS.jpg,n,main,pic-word
+Suppe,Suppe,IDEN,img\Suppe1.jpg,img\Suppe6.jpg,img\Suppe1.jpg,img\Suppe6.jpg,img\SuppeCC.jpg,img\SuppeCS.jpg,m,main,pic-word
+Kartoffel,Kartoffel,IDEN,img\Kartoffel1.jpg,img\Kartoffel3.jpg,img\Kartoffel1.jpg,img\Kartoffel3.jpg,img\KartoffelCC.jpg,img\KartoffelCS.jpg,m,main,pic-word
+Zahn,Pferd,NONE,img\Zahn2.jpg,img\Pferd5.jpg,img\Zahn2.jpg,img\Pferd5.jpg,img\ZahnCS.jpg,img\PferdCS.jpg,n,main,pic-word
+Ziege,Schwein,CAT+ASS,img\Ziege2.jpg,img\Schwein6.jpg,img\Ziege2.jpg,img\Schwein6.jpg,img\ZiegeCS.jpg,img\SchweinCS.jpg,n,main,pic-word
+Rakete,Rakete,IDEN,img\Rakete1.jpg,img\Rakete4.jpg,img\Rakete1.jpg,img\Rakete4.jpg,img\RaketeCC.jpg,img\RaketeCS.jpg,m,main,pic-word
+Hose,Hose,IDEN,img\Hose2.jpg,img\Hose6.jpg,img\Hose2.jpg,img\Hose6.jpg,img\HoseCS.jpg,img\HoseCS.jpg,m,main,pic-word
+Bier,Tee,CAT+ASS,img\Bier2.jpg,img\Tee6.jpg,img\Bier2.jpg,img\Tee6.jpg,img\BierCS.jpg,img\TeeCS.jpg,n,main,pic-word
+Kaffee,Kaffee,IDEN,img\Kaffee1.jpg,img\Kaffee4.jpg,img\Kaffee1.jpg,img\Kaffee4.jpg,img\KaffeeCC.jpg,img\KaffeeCS.jpg,m,main,pic-word
+Suppe,Suppe,IDEN,img\Suppe2.jpg,img\Suppe7.jpg,img\Suppe2.jpg,img\Suppe7.jpg,img\SuppeCS.jpg,img\SuppeCS.jpg,m,main,pic-word
+Apfel,Traube,CAT+ASS,img\Apfel2.jpg,img\Traube6.jpg,img\Apfel2.jpg,img\Traube6.jpg,img\ApfelCS.jpg,img\TraubeCS.jpg,n,main,pic-word
+Hirsch,Pferd,CAT+ASS,img\Hirsch1.jpg,img\Pferd6.jpg,img\Hirsch1.jpg,img\Pferd6.jpg,img\HirschCC.jpg,img\PferdCS.jpg,n,main,pic-word
+Schornstein,Schwein,PHON,img\Schornstein2.jpg,img\Schwein7.jpg,img\Schornstein2.jpg,img\Schwein7.jpg,img\SchornsteinCS.jpg,img\SchweinCS.jpg,n,main,pic-word
+Reis,Reis,IDEN,img\Reis1.jpg,img\Reis3.jpg,img\Reis1.jpg,img\Reis3.jpg,img\ReisCC.jpg,img\ReisCS.jpg,m,main,pic-word
+Rakete,Rakete,IDEN,img\Rakete2.jpg,img\Rakete5.jpg,img\Rakete2.jpg,img\Rakete5.jpg,img\RaketeCS.jpg,img\RaketeCS.jpg,m,main,pic-word
+Saft,Wein,CAT+ASS,img\Saft2.jpg,img\Wein5.jpg,img\Saft2.jpg,img\Wein5.jpg,img\SaftCS.jpg,img\WeinCS.jpg,n,main,pic-word
+Kaffee,Kaffee,IDEN,img\Kaffee2.jpg,img\Kaffee5.jpg,img\Kaffee2.jpg,img\Kaffee5.jpg,img\KaffeeCS.jpg,img\KaffeeCS.jpg,m,main,pic-word
+Knopf,Knopf,IDEN,img\Knopf2.jpg,img\Knopf5.jpg,img\Knopf2.jpg,img\Knopf5.jpg,img\KnopfCS.jpg,img\KnopfCS.jpg,m,main,pic-word
+Pedal,Wal,PHON,img\Pedal2.jpg,img\Wal8.jpg,img\Pedal2.jpg,img\Wal8.jpg,img\PedalCS.jpg,img\WalCS.jpg,n,main,pic-word
+Pferd,Pferd,IDEN,img\Pferd2.jpg,img\Pferd7.jpg,img\Pferd2.jpg,img\Pferd7.jpg,img\PferdCS.jpg,img\PferdCS.jpg,m,main,pic-word
+Schlagzeug,Flugzeug,PHON,img\Schlagzeug2.jpg,img\Flugzeug5.jpg,img\Schlagzeug2.jpg,img\Flugzeug5.jpg,img\SchlagzeugCS.jpg,img\FlugzeugCS.jpg,n,main,pic-word
+Mehl,Reis,CAT+ASS,img\Mehl1.jpg,img\Reis4.jpg,img\Mehl1.jpg,img\Reis4.jpg,img\MehlCC.jpg,img\ReisCS.jpg,n,main,pic-word
+Hubschrauber,Rakete,CAT+ASS,img\Hubschrauber1.jpg,img\Rakete6.jpg,img\Hubschrauber1.jpg,img\Rakete6.jpg,img\HubschrauberCC.jpg,img\RaketeCS.jpg,n,main,pic-word
+Brot,Fisch,NONE,img\Brot2.jpg,img\Fisch7.jpg,img\Brot2.jpg,img\Fisch7.jpg,img\BrotCS.jpg,img\FischCS.jpg,n,main,pic-word
+Pelikan,Kartoffel,NONE,img\Pelikan2.jpg,img\Kartoffel4.jpg,img\Pelikan2.jpg,img\Kartoffel4.jpg,img\PelikanCS.jpg,img\KartoffelCS.jpg,n,main,pic-word
+Hemd,Knopf,CAT+ASS,img\Hemd1.jpg,img\Knopf6.jpg,img\Hemd1.jpg,img\Knopf6.jpg,img\HemdCC.jpg,img\KnopfCS.jpg,n,main,pic-word
+Baer,Dachs,CAT+ASS,img\Baer2.jpg,img\Dachs7.jpg,img\Baer2.jpg,img\Dachs7.jpg,img\BaerCS.jpg,img\DachsCS.jpg,n,main,pic-word
+Maus,Tee,NONE,img\Maus1.jpg,img\Tee7.jpg,img\Maus1.jpg,img\Tee7.jpg,img\MausCC.jpg,img\TeeCS.jpg,n,main,pic-word
+Affe,Flugzeug,NONE,img\Affe2.jpg,img\Flugzeug6.jpg,img\Affe2.jpg,img\Flugzeug6.jpg,img\AffeCS.jpg,img\FlugzeugCS.jpg,n,main,pic-word
+Reis,Reis,IDEN,img\Reis2.jpg,img\Reis5.jpg,img\Reis2.jpg,img\Reis5.jpg,img\ReisCS.jpg,img\ReisCS.jpg,m,main,pic-word
+Bein,Wein,PHON,img\Bein1.jpg,img\Wein6.jpg,img\Bein1.jpg,img\Wein6.jpg,img\BeinCC.jpg,img\WeinCS.jpg,n,main,pic-word
+Hubschrauber,Rakete,CAT+ASS,img\Hubschrauber2.jpg,img\Rakete7.jpg,img\Hubschrauber2.jpg,img\Rakete7.jpg,img\HubschrauberCS.jpg,img\RaketeCS.jpg,n,main,pic-word
+Schnitzel,Kartoffel,CAT+ASS,img\Schnitzel1.jpg,img\Kartoffel5.jpg,img\Schnitzel1.jpg,img\Kartoffel5.jpg,img\SchnitzelCC.jpg,img\KartoffelCS.jpg,n,main,pic-word
+Strassenbahn,Strassenbahn,IDEN,img\Strassenbahn2.jpg,img\Strassenbahn7.jpg,img\Strassenbahn2.jpg,img\Strassenbahn7.jpg,img\StrassenbahnCS.jpg,img\StrassenbahnCS.jpg,m,main,pic-word
+Pfanne,Schwein,NONE,img\Pfanne2.jpg,img\Schwein8.jpg,img\Pfanne2.jpg,img\Schwein8.jpg,img\PfanneCS.jpg,img\SchweinCS.jpg,n,main,pic-word
+Maus,Tee,NONE,img\Maus2.jpg,img\Tee8.jpg,img\Maus2.jpg,img\Tee8.jpg,img\MausCS.jpg,img\TeeCS.jpg,n,main,pic-word
+Ballon,Flugzeug,CAT+ASS,img\Ballon2.jpg,img\Flugzeug7.jpg,img\Ballon2.jpg,img\Flugzeug7.jpg,img\BallonCS.jpg,img\FlugzeugCS.jpg,n,main,pic-word
+Eis,Reis,PHON,img\Eis1.jpg,img\Reis6.jpg,img\Eis1.jpg,img\Reis6.jpg,img\EisCC.jpg,img\ReisCS.jpg,n,main,pic-word
+Anzug,Hose,CAT+ASS,img\Anzug2.jpg,img\Hose7.jpg,img\Anzug2.jpg,img\Hose7.jpg,img\AnzugCS.jpg,img\HoseCS.jpg,n,main,pic-word
+Gras,Knopf,NONE,img\Gras2.jpg,img\Knopf7.jpg,img\Gras2.jpg,img\Knopf7.jpg,img\GrasCS.jpg,img\KnopfCS.jpg,n,main,pic-word
+Pantoffel,Kartoffel,PHON,img\Pantoffel2.jpg,img\Kartoffel6.jpg,img\Pantoffel2.jpg,img\Kartoffel6.jpg,img\PantoffelCS.jpg,img\KartoffelCS.jpg,n,main,pic-word
+Tapete,Rakete,PHON,img\Tapete2.jpg,img\Rakete8.jpg,img\Tapete2.jpg,img\Rakete8.jpg,img\TapeteCS.jpg,img\RaketeCS.jpg,n,main,pic-word
+Fussball,Traube,NONE,img\Fussball1.jpg,img\Traube7.jpg,img\Fussball1.jpg,img\Traube7.jpg,img\FussballCC.jpg,img\TraubeCS.jpg,n,main,pic-word
+Flasche,Tasche,PHON,img\Flasche2.jpg,img\Tasche8.jpg,img\Flasche2.jpg,img\Tasche8.jpg,img\FlascheCS.jpg,img\TascheCS.jpg,n,main,pic-word
+Flugzeug,Flugzeug,IDEN,img\Flugzeug2.jpg,img\Flugzeug8.jpg,img\Flugzeug2.jpg,img\Flugzeug8.jpg,img\FlugzeugCS.jpg,img\FlugzeugCS.jpg,m,main,pic-word
+Eis,Reis,PHON,img\Eis2.jpg,img\Reis7.jpg,img\Eis2.jpg,img\Reis7.jpg,img\EisCS.jpg,img\ReisCS.jpg,n,main,pic-word
+Kohl,Lauch,CAT+ASS,img\Kohl2.jpg,img\Lauch8.jpg,img\Kohl2.jpg,img\Lauch8.jpg,img\KohlCS.jpg,img\LauchCS.jpg,n,main,pic-word
+Milch,Kaffee,CAT+ASS,img\Milch2.jpg,img\Kaffee6.jpg,img\Milch2.jpg,img\Kaffee6.jpg,img\MilchCS.jpg,img\KaffeeCS.jpg,n,main,pic-word
+Kartoffel,Kartoffel,IDEN,img\Kartoffel2.jpg,img\Kartoffel7.jpg,img\Kartoffel2.jpg,img\Kartoffel7.jpg,img\KartoffelCS.jpg,img\KartoffelCS.jpg,m,main,pic-word
+Nest,Schuh,NONE,img\Nest1.jpg,img\Schuh7.jpg,img\Nest1.jpg,img\Schuh7.jpg,img\NestCC.jpg,img\SchuhCS.jpg,n,main,pic-word
+Hemd,Knopf,CAT+ASS,img\Hemd2.jpg,img\Knopf8.jpg,img\Hemd2.jpg,img\Knopf8.jpg,img\HemdCS.jpg,img\KnopfCS.jpg,n,main,pic-word
+Bein,Wein,PHON,img\Bein2.jpg,img\Wein7.jpg,img\Bein2.jpg,img\Wein7.jpg,img\BeinCS.jpg,img\WeinCS.jpg,n,main,pic-word
+Hirsch,Pferd,CAT+ASS,img\Hirsch2.jpg,img\Pferd8.jpg,img\Hirsch2.jpg,img\Pferd8.jpg,img\HirschCS.jpg,img\PferdCS.jpg,n,main,pic-word
+Mehl,Reis,CAT+ASS,img\Mehl2.jpg,img\Reis8.jpg,img\Mehl2.jpg,img\Reis8.jpg,img\MehlCS.jpg,img\ReisCS.jpg,n,main,pic-word
+Rose,Hose,PHON,img\Rose2.jpg,img\Hose8.jpg,img\Rose2.jpg,img\Hose8.jpg,img\RoseCS.jpg,img\HoseCS.jpg,n,main,pic-word
+Hut,Kaffee,NONE,img\Hut1.jpg,img\Kaffee7.jpg,img\Hut1.jpg,img\Kaffee7.jpg,img\HutCC.jpg,img\KaffeeCS.jpg,n,main,pic-word
+Schnitzel,Kartoffel,CAT+ASS,img\Schnitzel2.jpg,img\Kartoffel8.jpg,img\Schnitzel2.jpg,img\Kartoffel8.jpg,img\SchnitzelCS.jpg,img\KartoffelCS.jpg,n,main,pic-word
+Nest,Schuh,NONE,img\Nest2.jpg,img\Schuh8.jpg,img\Nest2.jpg,img\Schuh8.jpg,img\NestCS.jpg,img\SchuhCS.jpg,n,main,pic-word
+Fisch,Fisch,IDEN,img\Fisch2.jpg,img\Fisch8.jpg,img\Fisch2.jpg,img\Fisch8.jpg,img\FischCS.jpg,img\FischCS.jpg,m,main,pic-word
+Zelt,Wein,NONE,img\Zelt2.jpg,img\Wein8.jpg,img\Zelt2.jpg,img\Wein8.jpg,img\ZeltCS.jpg,img\WeinCS.jpg,n,main,pic-word
+Kamm,Dachs,NONE,img\Kamm2.jpg,img\Dachs8.jpg,img\Kamm2.jpg,img\Dachs8.jpg,img\KammCS.jpg,img\DachsCS.jpg,n,main,pic-word
+Zwiebel,Suppe,CAT+ASS,img\Zwiebel2.jpg,img\Suppe8.jpg,img\Zwiebel2.jpg,img\Suppe8.jpg,img\ZwiebelCS.jpg,img\SuppeCS.jpg,n,main,pic-word
+Bus,Strassenbahn,CAT+ASS,img\Bus2.jpg,img\Strassenbahn8.jpg,img\Bus2.jpg,img\Strassenbahn8.jpg,img\BusCS.jpg,img\StrassenbahnCS.jpg,n,main,pic-word
+Hut,Kaffee,NONE,img\Hut2.jpg,img\Kaffee8.jpg,img\Hut2.jpg,img\Kaffee8.jpg,img\HutCS.jpg,img\KaffeeCS.jpg,n,main,pic-word
+Fussball,Traube,NONE,img\Fussball2.jpg,img\Traube8.jpg,img\Fussball2.jpg,img\Traube8.jpg,img\FussballCS.jpg,img\TraubeCS.jpg,n,main,pic-word
