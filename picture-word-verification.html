@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <title>Word-picture verification task</title>
     <script src="jspsych/jspsych.js"></script>
     <script src="jspsych/plugins/jspsych-html-keyboard-response.js"></script>
@@ -22,34 +21,34 @@
     <script src="js/iden_trial_info_l2.js"></script>
     <script src="js/iden_trial_info_l3.js"></script>
     <script src="stimuli.js"></script>
-    <link href="jspsych/css/jspsych.css" rel="stylesheet">
-</head>
+    <link href="jspsych/css/jspsych.css" rel="stylesheet" />
+  </head>
 
-<body></body>
-<script>
+  <body></body>
+  <script>
     for (stimulus of stimuli) {
-        stimulus.cue_image = stimulus.cue_image.replace("1", "CC")
-        stimulus.cue_image = stimulus.cue_image.replace("2", "CS")
-        stimulus.cue_image = stimulus.cue_image.replace("3", "TC")
-        stimulus.cue_image = stimulus.cue_image.replace("4", "TS")
+      stimulus.cue_image = stimulus.cue_image.replace("1", "CC");
+      stimulus.cue_image = stimulus.cue_image.replace("2", "CS");
+      stimulus.cue_image = stimulus.cue_image.replace("3", "TC");
+      stimulus.cue_image = stimulus.cue_image.replace("4", "TS");
     }
 
     // step 2: create a list of unique cues
-    // loop over list of cues. 
-    // For each cue, read each entry with that que and use it to 
+    // loop over list of cues.
+    // For each cue, read each entry with that que and use it to
     // add a corresponding 'stimuli'  entry to the json
     // note: for the first entry, also enter the other elements.
-    let non_unique_targets = []
+    let non_unique_targets = [];
     for (stimulus of stimuli) {
-        non_unique_targets.push(stimulus.target);
+      non_unique_targets.push(stimulus.target);
     }
-    var unique_targets = non_unique_targets.filter((v, i, a) => a.indexOf(v) === i);
+    var unique_targets = non_unique_targets.filter(
+      (v, i, a) => a.indexOf(v) === i
+    );
 
-    let improved_stimuli = []
+    let improved_stimuli = [];
     for (target of unique_targets) {
-    
     }
-
 
     var timeline = [];
     var repeat_prac = false;
@@ -60,237 +59,269 @@
     // get the trial info for this list
     var rel_trial_info;
     if (list == 1) {
-        rel_trial_info = rel_trial_info_l0;
+      rel_trial_info = rel_trial_info_l0;
     } else if (list == 2) {
-        rel_trial_info = rel_trial_info_l1;
+      rel_trial_info = rel_trial_info_l1;
     } else if (list == 3) {
-        rel_trial_info = rel_trial_info_l2;
+      rel_trial_info = rel_trial_info_l2;
     } else {
-        rel_trial_info = rel_trial_info_l3;
+      rel_trial_info = rel_trial_info_l3;
     }
 
     var none_trial_info;
     if (list == 1) {
-        none_trial_info = none_trial_info_l0;
+      none_trial_info = none_trial_info_l0;
     } else if (list == 2) {
-        none_trial_info = none_trial_info_l1;
+      none_trial_info = none_trial_info_l1;
     } else if (list == 3) {
-        none_trial_info = none_trial_info_l2;
+      none_trial_info = none_trial_info_l2;
     } else {
-        none_trial_info = none_trial_info_l3;
+      none_trial_info = none_trial_info_l3;
     }
 
     var iden_trial_info;
     if (list == 1) {
-        iden_trial_info = iden_trial_info_l0;
+      iden_trial_info = iden_trial_info_l0;
     } else if (list == 2) {
-        iden_trial_info = iden_trial_info_l1;
+      iden_trial_info = iden_trial_info_l1;
     } else if (list == 3) {
-        iden_trial_info = iden_trial_info_l2;
+      iden_trial_info = iden_trial_info_l2;
     } else {
-        iden_trial_info = iden_trial_info_l3;
+      iden_trial_info = iden_trial_info_l3;
     }
     // combine related and none/iden trial info arrays into a single array to use for timeline variables
-    var main_trial_info = rel_trial_info.concat(none_trial_info, iden_trial_info);
+    var main_trial_info = rel_trial_info.concat(
+      none_trial_info,
+      iden_trial_info
+    );
     console.log(main_trial_info);
 
     // create list of all image files for preloading
     var all_images = [];
     for (var i = 0; i < practice_trial_info.length; i++) {
-        all_images.push(practice_trial_info[i].target_image);
+      all_images.push(practice_trial_info[i].target_image);
     }
     for (var i = 0; i < main_trial_info.length; i++) {
-        all_images.push(main_trial_info[i].target_image);
+      all_images.push(main_trial_info[i].target_image);
     }
     for (var i = 0; i < practice_trial_info.length; i++) {
-        all_images.push(practice_trial_info[i].cue_image);
+      all_images.push(practice_trial_info[i].cue_image);
     }
     for (var i = 0; i < main_trial_info.length; i++) {
-        all_images.push(main_trial_info[i].cue_image);
+      all_images.push(main_trial_info[i].cue_image);
     }
 
     var instructions = {
-        type: 'instructions',
-        pages: [
-            '<p>In this task, you will hear a spoken word, and then see a written word.</p>' +
-            '<p>You should press the <strong>j</strong> key if the meanings of the two words are <strong>related</strong>.</p>' +
-            '<p>You should press the <strong>f</strong> key if the meanings of the two words are <strong>unrelated</strong>.</p>' +
-            '<p>Click the "Next" button for more instructions.</p>',
-            '<p>Here are some examples of words with <strong>related</strong> meanings:</p>' +
-            '<p>WATER - SWIM</p><p>PETAL - FLOWER</p>' +
-            '<p>In these examples, you would press the <strong>j</strong> key.</p>' +
-            '<p>Here are some examples of words with <strong>unrelated</strong> meanings:' +
-            '<p>APPLE - FANCY</p><p>JUMP - GARAGE</p>' +
-            '<p>In these examples, you would press the <strong>f</strong> key.</p>' +
-            '<p>Click the "Next" button to start.</p>'
-        ],
-        show_clickable_nav: true,
-        post_trial_gap: 1000
+      type: "instructions",
+      pages: [
+        "<p>In this task, you will hear a spoken word, and then see a written word.</p>" +
+          "<p>You should press the <strong>j</strong> key if the meanings of the two words are <strong>related</strong>.</p>" +
+          "<p>You should press the <strong>f</strong> key if the meanings of the two words are <strong>unrelated</strong>.</p>" +
+          '<p>Click the "Next" button for more instructions.</p>',
+        "<p>Here are some examples of words with <strong>related</strong> meanings:</p>" +
+          "<p>WATER - SWIM</p><p>PETAL - FLOWER</p>" +
+          "<p>In these examples, you would press the <strong>j</strong> key.</p>" +
+          "<p>Here are some examples of words with <strong>unrelated</strong> meanings:" +
+          "<p>APPLE - FANCY</p><p>JUMP - GARAGE</p>" +
+          "<p>In these examples, you would press the <strong>f</strong> key.</p>" +
+          '<p>Click the "Next" button to start.</p>',
+      ],
+      show_clickable_nav: true,
+      post_trial_gap: 1000,
     };
 
     var fixation = {
-        type: 'html-keyboard-response',
-        stimulus: '<span style="font-size:40px;">+</span>',
-        choices: jsPsych.NO_KEYS,
-        trial_duration: 600,
-        data: {
-            trial_part: 'fixation',
-            task_part: jsPsych.timelineVariable('task_part')
-        }
+      type: "html-keyboard-response",
+      stimulus: '<span style="font-size:40px;">+</span>',
+      choices: jsPsych.NO_KEYS,
+      trial_duration: 600,
+      data: {
+        trial_part: "fixation",
+        task_part: jsPsych.timelineVariable("task_part"),
+      },
     };
 
     var cue = {
-        type: 'image-keyboard-response',
-        stimulus: jsPsych.timelineVariable('cue_image'),
-        choices: jsPsych.NO_KEYS,
-        trial_duration: 700,
-        post_trial_gap: 300,
-        stimulus_duration: 700,
-        //stimulus_height: 600,
-        //stimulus_width: 800,
-        //response_ends_trial: true,
-        data: {
-            cue: jsPsych.timelineVariable('cue'),
-            target: jsPsych.timelineVariable('target'),
-            condition: jsPsych.timelineVariable('cond'),
-            correct_response: jsPsych.timelineVariable('correct_response'),
-            trial_part: 'cue',
-            task_part: jsPsych.timelineVariable('task_part')
-        }
+      type: "image-keyboard-response",
+      stimulus: jsPsych.timelineVariable("cue_image"),
+      choices: jsPsych.NO_KEYS,
+      trial_duration: 700,
+      post_trial_gap: 300,
+      stimulus_duration: 700,
+      //stimulus_height: 600,
+      //stimulus_width: 800,
+      //response_ends_trial: true,
+      data: {
+        cue: jsPsych.timelineVariable("cue"),
+        target: jsPsych.timelineVariable("target"),
+        condition: jsPsych.timelineVariable("cond"),
+        correct_response: jsPsych.timelineVariable("correct_response"),
+        trial_part: "cue",
+        task_part: jsPsych.timelineVariable("task_part"),
+      },
     };
 
     var target = {
-        type: 'image-keyboard-response',
-        stimulus: jsPsych.timelineVariable('target_image'),
-        //stimulus_height: 600,
-        //stimulus_width: 800,
-        choices: ['m', 'n'],
-        //   response_ends_trial: true,
-        post_trial_gap: 300,
-        data: {
-            cue: jsPsych.timelineVariable('cue'),
-            target: jsPsych.timelineVariable('target'),
-            condition: jsPsych.timelineVariable('cond'),
-            correct_response: jsPsych.timelineVariable('correct_response'),
-            trial_part: 'target',
-            task_part: jsPsych.timelineVariable('task_part')
-        },
-        on_finish: function (data) {
-            var acc = false;
-            if (data.correct_response == jsPsych.pluginAPI.convertKeyCodeToKeyCharacter(data.key_press)) {
-                acc = true;
-            }
-            data.accuracy = acc;
+      type: "image-keyboard-response",
+      stimulus: jsPsych.timelineVariable("target_image"),
+      //stimulus_height: 600,
+      //stimulus_width: 800,
+      choices: ["m", "n"],
+      //   response_ends_trial: true,
+      post_trial_gap: 300,
+      data: {
+        cue: jsPsych.timelineVariable("cue"),
+        target: jsPsych.timelineVariable("target"),
+        condition: jsPsych.timelineVariable("cond"),
+        correct_response: jsPsych.timelineVariable("correct_response"),
+        trial_part: "target",
+        task_part: jsPsych.timelineVariable("task_part"),
+      },
+      on_finish: function (data) {
+        var acc = false;
+        if (
+          data.correct_response ==
+          jsPsych.pluginAPI.convertKeyCodeToKeyCharacter(data.key_press)
+        ) {
+          acc = true;
         }
+        data.accuracy = acc;
+      },
     };
 
     var feedback = {
-        type: 'html-keyboard-response',
-        stimulus: function () {
-            var feedback_text = '<span style="color:red;font-size:30px;">Incorrect.</span>';
-            var last_resp_acc = jsPsych.data.getLastTrialData().values()[0].accuracy;
-            if (last_resp_acc == true) {
-                feedback_text = '<span style="color:green;font-size:30px;">Correct!</span>'
-            }
-            return feedback_text;
-        },
-        choices: jsPsych.NO_KEYS,
-        trial_duration: 1500
+      type: "html-keyboard-response",
+      stimulus: function () {
+        var feedback_text =
+          '<span style="color:red;font-size:30px;">Incorrect.</span>';
+        var last_resp_acc = jsPsych.data
+          .getLastTrialData()
+          .values()[0].accuracy;
+        if (last_resp_acc == true) {
+          feedback_text =
+            '<span style="color:green;font-size:30px;">Correct!</span>';
+        }
+        return feedback_text;
+      },
+      choices: jsPsych.NO_KEYS,
+      trial_duration: 1500,
     };
 
     var prac_procedure = {
-        //  type: 'image-keyboard-response', 
-        //  choices: ['m','n'], 
-        timeline: [fixation, cue, target, feedback],
-        timeline_variables: practice_trial_info,
-        randomize_order: true
+      //  type: 'image-keyboard-response',
+      //  choices: ['m','n'],
+      timeline: [fixation, cue, target, feedback],
+      timeline_variables: practice_trial_info,
+      randomize_order: true,
     };
 
     var repeat_prac_message = {
-        type: 'html-button-response',
-        stimulus: '<p>You did not make enough correct responses to continue.</p>' +
-            '<p>Now you will have a chance to repeat the instructions and practice trials again.</p>',
-        choices: ['Next']
+      type: "html-button-response",
+      stimulus:
+        "<p>You did not make enough correct responses to continue.</p>" +
+        "<p>Now you will have a chance to repeat the instructions and practice trials again.</p>",
+      choices: ["Next"],
     };
 
     var repeat_prac_conditional = {
-        timeline: [repeat_prac_message],
-        conditional_function: function () {
-            var last_prac_trials = jsPsych.data.get().filter({ trial_part: 'target' }).last(practice_trial_info.length);
-            var n_correct = last_prac_trials.filter({ accuracy: true }).count();
-            var prop_corr = n_correct / practice_trial_info.length;
-            if (prop_corr < 0.6) {
-                repeat_prac = true;
-                return true;
-            } else {
-                repeat_prac = false;
-                return false;
-            }
+      timeline: [repeat_prac_message],
+      conditional_function: function () {
+        var last_prac_trials = jsPsych.data
+          .get()
+          .filter({ trial_part: "target" })
+          .last(practice_trial_info.length);
+        var n_correct = last_prac_trials.filter({ accuracy: true }).count();
+        var prop_corr = n_correct / practice_trial_info.length;
+        if (prop_corr < 0.6) {
+          repeat_prac = true;
+          return true;
+        } else {
+          repeat_prac = false;
+          return false;
         }
-    }
+      },
+    };
 
     var instructions_prac_loop = {
-        timeline: [instructions, prac_procedure, repeat_prac_conditional],
-        loop_function: function () {
-            if (repeat_prac == true) {
-                return true;
-            } else {
-                return false;
-            }
+      timeline: [instructions, prac_procedure, repeat_prac_conditional],
+      loop_function: function () {
+        if (repeat_prac == true) {
+          return true;
+        } else {
+          return false;
         }
-    }
+      },
+    };
     timeline.push(instructions_prac_loop);
 
     var start_task = {
-        type: 'html-button-response',
-        stimulus: "<p>Great, you're ready to start the main task.</p>" +
-            "<p>You will no longer see feedback about your responses.</p><p>Click the 'Next' button to start.</p>",
-        choices: ['Next'],
-        post_trial_gap: 1000
+      type: "html-button-response",
+      stimulus:
+        "<p>Great, you're ready to start the main task.</p>" +
+        "<p>You will no longer see feedback about your responses.</p><p>Click the 'Next' button to start.</p>",
+      choices: ["Next"],
+      post_trial_gap: 1000,
     };
     timeline.push(start_task);
 
     var main_procedure = {
-        timeline: [fixation, cue, target],
-        timeline_variables: main_trial_info,
-        randomize_order: true
+      timeline: [fixation, cue, target],
+      timeline_variables: main_trial_info,
+      randomize_order: true,
     };
     timeline.push(main_procedure);
 
     // helper function for getting the mean RT and accuracy from different condtions
     // and generating the feedback text
     function generate_feedback_string(condition, condition_title) {
-        var data_subset = jsPsych.data.get().filter({ trial_part: 'target', condition: 'cond' });
-        var mean_rt = data_subset.select('rt').mean();
-        var acc = data_subset.filter({ accuracy: true }).count() / data_subset.count();
-        return '<p><u>' + condition_title + '</u><br>Accuracy: ' + Math.round(acc * 100) + '%<br>Mean RT: ' + Math.round(mean_rt) + ' ms</p>';
+      var data_subset = jsPsych.data
+        .get()
+        .filter({ trial_part: "target", condition: "cond" });
+      var mean_rt = data_subset.select("rt").mean();
+      var acc =
+        data_subset.filter({ accuracy: true }).count() / data_subset.count();
+      return (
+        "<p><u>" +
+        condition_title +
+        "</u><br>Accuracy: " +
+        Math.round(acc * 100) +
+        "%<br>Mean RT: " +
+        Math.round(mean_rt) +
+        " ms</p>"
+      );
     }
 
     var performance_summary = {
-        type: 'html-keyboard-response',
-        stimulus: function () {
-            var feedback_string = "<p>Great! You're done with that task.</p>";
-            feedback_string += generate_feedback_string('sem', 'Semantically Related Pairs');
-            feedback_string += generate_feedback_string('phon', 'Phonologically Related Pairs');
-            feedback_string += generate_feedback_string('iden', 'Identical Pairs');
-            feedback_string += generate_feedback_string('none', 'Unrelated Pairs');
-            feedback_string += '<p>Press the space bar to finish.</p>'
-            return feedback_string;
-        },
-        choices: ['space']
+      type: "html-keyboard-response",
+      stimulus: function () {
+        var feedback_string = "<p>Great! You're done with that task.</p>";
+        feedback_string += generate_feedback_string(
+          "sem",
+          "Semantically Related Pairs"
+        );
+        feedback_string += generate_feedback_string(
+          "phon",
+          "Phonologically Related Pairs"
+        );
+        feedback_string += generate_feedback_string("iden", "Identical Pairs");
+        feedback_string += generate_feedback_string("none", "Unrelated Pairs");
+        feedback_string += "<p>Press the space bar to finish.</p>";
+        return feedback_string;
+      },
+      choices: ["space"],
     };
     timeline.push(performance_summary);
 
     jsPsych.init({
-        timeline: timeline,
-        preload_images: all_images,
-        show_preload_progress_bar: true,
-        use_webaudio: false,
-        override_safe_mode: true,
-        on_finish: function () {
-            jsPsych.data.displayData();
-        }
-    })
-
-</script>
-<html>
+      timeline: timeline,
+      preload_images: all_images,
+      show_preload_progress_bar: true,
+      use_webaudio: false,
+      override_safe_mode: true,
+      on_finish: function () {
+        jsPsych.data.displayData();
+      },
+    });
+  </script>
+  <html></html>
+</html>
