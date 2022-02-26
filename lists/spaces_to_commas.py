@@ -12,8 +12,9 @@ input_files = ["output1.csv", "output2.csv",
 def replace_spaces(inFile, outFile):
     fin = open(inFile, "rt")
     fout = open(outFile, "wt")
+    fout.write("cue,target,condition,occurence\n")
     for line in fin:
-        fout.write(re.sub('\s+', ',', line))
+        fout.write(re.sub(' +', ',', line))
     fin.close()
     fout.close()
 
