@@ -8,22 +8,19 @@ input_prefix = "in/"
 output_prefix = "out/"
 input_files = ["outputF1.txt", "outputF2.txt", "outputF3.txt", "outputF4.txt"]
 
-csv.register_dialect('tab-seperated', delimiter='\t')
+csv.register_dialect('comma-seperated', delimiter=',')
+
 
 def csv_to_json(csvFilePath, jsonFilePath):
     jsonArray = []
-
     # read csv file
     with open(csvFilePath, encoding='utf-8') as csvf:
-        
         # load csv file data using csv library's dictionary reader
-        csvReader = csv.DictReader(csvf, dialect='tab-seperated')
-
+        csvReader = csv.DictReader(csvf, dialect='comma-seperated')
         # convert each csv row into python dict
         for row in csvReader:
             # add this python dict to json array
             jsonArray.append(row)
-
     # convert python jsonArray to JSON String and write to file
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         jsonString = json.dumps(jsonArray, indent=4)

@@ -1,1597 +1,1922 @@
 [
     {
-        "Kaffee": "Lauch",
-        "IDEN": "IDEN",
-        "1": "1"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "NONE",
-        "1": "1"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "NONE",
-        "1": "1"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "CAT+ASS",
-        "1": "1"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "NONE",
-        "1": "1"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "PHON",
-        "1": "1"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "NONE",
-        "1": "1"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "PHON",
-        "1": "1"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "PHON",
-        "1": "1"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "CAT+ASS",
-        "1": "1"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "PHON",
-        "1": "2"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "PHON",
-        "1": "2"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "IDEN",
-        "1": "1"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "IDEN",
-        "1": "2"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "NONE",
-        "1": "1"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "CAT+ASS",
-        "1": "1"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "PHON",
-        "1": "2"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "IDEN",
-        "1": "3"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "NONE",
-        "1": "2"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "IDEN",
-        "1": "2"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "IDEN",
-        "1": "3"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "CAT+ASS",
-        "1": "1"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "PHON",
-        "1": "4"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "IDEN",
-        "1": "1"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "IDEN",
-        "1": "4"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "CAT+ASS",
-        "1": "1"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "IDEN",
-        "1": "2"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "NONE",
-        "1": "3"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "NONE",
-        "1": "3"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "PHON",
-        "1": "2"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "IDEN",
-        "1": "5"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "CAT+ASS",
-        "1": "3"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "PHON",
-        "1": "6"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "NONE",
-        "1": "1"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "IDEN",
-        "1": "2"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "NONE",
-        "1": "3"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "CAT+ASS",
-        "1": "1"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "CAT+ASS",
-        "1": "3"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "NONE",
-        "1": "5"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "CAT+ASS",
-        "1": "6"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "NONE",
-        "1": "4"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "IDEN",
-        "1": "6"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "PHON",
-        "1": "2"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "NONE",
-        "1": "2"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "IDEN",
-        "1": "5"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "PHON",
-        "1": "6"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "PHON",
-        "1": "7"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "PHON",
-        "1": "4"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "PHON",
-        "1": "3"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "NONE",
-        "1": "1"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "NONE",
-        "1": "6"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "CAT+ASS",
-        "1": "2"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "IDEN",
-        "1": "5"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "NONE",
-        "1": "4"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "NONE",
-        "1": "5"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "NONE",
-        "1": "8"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "IDEN",
-        "1": "8"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "NONE",
-        "1": "7"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "PHON",
-        "1": "6"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "IDEN",
-        "1": "5"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "IDEN",
-        "1": "6"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "IDEN",
-        "1": "2"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "PHON",
-        "1": "6"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "PHON",
-        "1": "8"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "PHON",
-        "1": "6"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "NONE",
-        "1": "6"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "NONE",
-        "1": "3"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "CAT+ASS",
-        "1": "3"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "PHON",
-        "1": "4"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "CAT+ASS",
-        "1": "4"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "CAT+ASS",
-        "1": "7"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "NONE",
-        "1": "7"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "CAT+ASS",
-        "1": "6"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "PHON",
-        "1": "4"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "NONE",
-        "1": "3"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "NONE",
-        "1": "5"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "CAT+ASS",
-        "1": "9"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "NONE",
-        "1": "5"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "CAT+ASS",
-        "1": "7"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "IDEN",
-        "1": "6"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "CAT+ASS",
-        "1": "5"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "PHON",
-        "1": "6"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "IDEN",
-        "1": "6"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "PHON",
-        "1": "7"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "NONE",
-        "1": "7"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "CAT+ASS",
-        "1": "9"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "NONE",
-        "1": "8"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "NONE",
-        "1": "7"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "IDEN",
-        "1": "9"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "NONE",
-        "1": "4"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "IDEN",
-        "1": "5"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "PHON",
-        "1": "4"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "IDEN",
-        "1": "9"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "NONE",
-        "1": "10"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "PHON",
-        "1": "5"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "PHON",
-        "1": "7"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "IDEN",
-        "1": "6"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "NONE",
-        "1": "9"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "IDEN",
-        "1": "6"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "PHON",
-        "1": "9"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "NONE",
-        "1": "11"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "NONE",
-        "1": "9"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "PHON",
-        "1": "10"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "NONE",
-        "1": "8"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "NONE",
-        "1": "7"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "IDEN",
-        "1": "10"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "PHON",
-        "1": "7"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "CAT+ASS",
-        "1": "6"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "NONE",
-        "1": "6"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "PHON",
-        "1": "8"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "IDEN",
-        "1": "10"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "PHON",
-        "1": "8"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "NONE",
-        "1": "7"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "PHON",
-        "1": "9"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "CAT+ASS",
-        "1": "9"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "IDEN",
-        "1": "9"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "NONE",
-        "1": "10"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "IDEN",
-        "1": "9"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "CAT+ASS",
-        "1": "6"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "PHON",
-        "1": "9"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "PHON",
-        "1": "8"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "IDEN",
-        "1": "10"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "CAT+ASS",
-        "1": "10"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "CAT+ASS",
-        "1": "11"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "PHON",
-        "1": "10"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "PHON",
-        "1": "10"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "NONE",
-        "1": "10"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "IDEN",
-        "1": "5"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "NONE",
-        "1": "9"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "NONE",
-        "1": "11"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "CAT+ASS",
-        "1": "9"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "CAT+ASS",
-        "1": "10"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "IDEN",
-        "1": "9"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "IDEN",
-        "1": "8"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "PHON",
-        "1": "6"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "CAT+ASS",
-        "1": "10"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "IDEN",
-        "1": "11"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "IDEN",
-        "1": "12"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "NONE",
-        "1": "11"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "NONE",
-        "1": "11"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "IDEN",
-        "1": "11"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "NONE",
-        "1": "9"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "IDEN",
-        "1": "11"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "CAT+ASS",
-        "1": "11"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "NONE",
-        "1": "10"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "PHON",
-        "1": "10"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "NONE",
-        "1": "11"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "PHON",
-        "1": "10"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "NONE",
-        "1": "8"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "CAT+ASS",
-        "1": "11"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "PHON",
-        "1": "11"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "NONE",
-        "1": "11"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "IDEN",
-        "1": "7"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "CAT+ASS",
-        "1": "12"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "PHON",
-        "1": "8"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "CAT+ASS",
-        "1": "13"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "NONE",
-        "1": "10"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "NONE",
-        "1": "9"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "CAT+ASS",
-        "1": "8"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "NONE",
-        "1": "13"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "PHON",
-        "1": "9"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "NONE",
-        "1": "13"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "CAT+ASS",
-        "1": "11"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "CAT+ASS",
-        "1": "9"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "PHON",
-        "1": "12"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "IDEN",
-        "1": "9"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "CAT+ASS",
-        "1": "10"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "IDEN",
-        "1": "12"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "NONE",
-        "1": "10"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "PHON",
-        "1": "12"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "CAT+ASS",
-        "1": "11"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "PHON",
-        "1": "13"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "PHON",
-        "1": "10"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "IDEN",
-        "1": "11"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "PHON",
-        "1": "12"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "NONE",
-        "1": "13"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "IDEN",
-        "1": "11"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "NONE",
-        "1": "13"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "IDEN",
-        "1": "11"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "CAT+ASS",
-        "1": "10"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "PHON",
-        "1": "12"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "CAT+ASS",
-        "1": "14"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "NONE",
-        "1": "11"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "PHON",
-        "1": "11"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "CAT+ASS",
-        "1": "14"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "CAT+ASS",
-        "1": "13"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "IDEN",
-        "1": "15"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "NONE",
-        "1": "13"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "IDEN",
-        "1": "12"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "PHON",
-        "1": "15"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "CAT+ASS",
-        "1": "14"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "CAT+ASS",
-        "1": "13"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "PHON",
-        "1": "15"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "NONE",
-        "1": "13"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "NONE",
-        "1": "15"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "PHON",
-        "1": "14"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "NONE",
-        "1": "12"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "NONE",
-        "1": "15"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "PHON",
-        "1": "14"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Lauch",
-        "IDEN": "PHON",
-        "1": "16"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "CAT+ASS",
-        "1": "15"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "NONE",
-        "1": "15"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "NONE",
-        "1": "14"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "IDEN",
-        "1": "13"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "IDEN",
-        "1": "15"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "PHON",
-        "1": "13"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "PHON",
-        "1": "15"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Hose",
-        "IDEN": "IDEN",
-        "1": "16"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Fisch",
-        "IDEN": "PHON",
-        "1": "16"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "IDEN",
-        "1": "15"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "CAT+ASS",
-        "1": "12"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "NONE",
-        "1": "14"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "NONE",
-        "1": "14"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Rakete",
-        "IDEN": "IDEN",
-        "1": "16"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "CAT+ASS",
-        "1": "15"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "IDEN",
-        "1": "14"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "PHON",
-        "1": "13"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "CAT+ASS",
-        "1": "15"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "NONE",
-        "1": "15"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "PHON",
-        "1": "15"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "CAT+ASS",
-        "1": "15"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "CAT+ASS",
-        "1": "14"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "IDEN",
-        "1": "15"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "CAT+ASS",
-        "1": "15"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "CAT+ASS",
-        "1": "14"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Wein",
-        "IDEN": "IDEN",
-        "1": "16"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "IDEN",
-        "1": "15"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Wal",
-        "IDEN": "CAT+ASS",
-        "1": "16"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Kartoffel",
-        "IDEN": "IDEN",
-        "1": "16"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Schuh",
-        "IDEN": "PHON",
-        "1": "16"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Schwein",
-        "IDEN": "CAT+ASS",
-        "1": "16"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Dachs",
-        "IDEN": "CAT+ASS",
-        "1": "16"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "NONE",
-        "1": "15"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "IDEN",
-        "1": "15"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Reis",
-        "IDEN": "PHON",
-        "1": "16"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Kaffee": "Tasche",
-        "IDEN": "CAT+ASS",
-        "1": "16"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Knopf",
-        "IDEN": "NONE",
-        "1": "16"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Pferd",
-        "IDEN": "NONE",
-        "1": "16"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Traube",
-        "IDEN": "PHON",
-        "1": "16"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Strassenbahn",
-        "IDEN": "NONE",
-        "1": "16"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Kaffee",
-        "IDEN": "PHON",
-        "1": "16"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Flugzeug",
-        "IDEN": "PHON",
-        "1": "16"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Suppe",
-        "IDEN": "CAT+ASS",
-        "1": "16"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Kaffee": "Tee",
-        "IDEN": "CAT+ASS",
-        "1": "16"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
+    },
+    {
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     }
 ]

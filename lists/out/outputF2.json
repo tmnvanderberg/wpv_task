@@ -1,1916 +1,1922 @@
 [
     {
-        "Huhn": "Fisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "IDEN",
-        "1": "1"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Schwert",
-        "Strassenbahn": "Pferd",
-        "NONE": "PHON",
-        "1": "1"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Hemd",
-        "Strassenbahn": "Knopf",
-        "NONE": "CAT+ASS",
-        "1": "1"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Milch",
-        "Strassenbahn": "Kaffee",
-        "NONE": "CAT+ASS",
-        "1": "1"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Rose",
-        "Strassenbahn": "Hose",
-        "NONE": "PHON",
-        "1": "1"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Eis",
-        "Strassenbahn": "Reis",
-        "NONE": "PHON",
-        "1": "1"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Kleid",
-        "Strassenbahn": "Schuh",
-        "NONE": "CAT+ASS",
-        "1": "1"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Schlagzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "PHON",
-        "1": "1"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Schwan",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "PHON",
-        "1": "2"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Schnitzel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "CAT+ASS",
-        "1": "1"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Dachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "IDEN",
-        "1": "1"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Kaffee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "IDEN",
-        "1": "2"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Zelt",
-        "Strassenbahn": "Wein",
-        "NONE": "NONE",
-        "1": "1"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Lauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "IDEN",
-        "1": "1"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Kuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "PHON",
-        "1": "2"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Affe",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "NONE",
-        "1": "2"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Schraube",
-        "Strassenbahn": "Traube",
-        "NONE": "PHON",
-        "1": "1"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Horn",
-        "Strassenbahn": "Reis",
-        "NONE": "NONE",
-        "1": "2"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Anzug",
-        "Strassenbahn": "Hose",
-        "NONE": "CAT+ASS",
-        "1": "2"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Wal",
-        "Strassenbahn": "Wal",
-        "NONE": "IDEN",
-        "1": "1"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Saft",
-        "Strassenbahn": "Wein",
-        "NONE": "CAT+ASS",
-        "1": "2"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Hammer",
-        "Strassenbahn": "Suppe",
-        "NONE": "NONE",
-        "1": "1"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Schuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "IDEN",
-        "1": "3"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Zahn",
-        "Strassenbahn": "Pferd",
-        "NONE": "NONE",
-        "1": "2"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Wachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "PHON",
-        "1": "2"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Kartoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "IDEN",
-        "1": "2"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Schwan",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "PHON",
-        "1": "3"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Tapete",
-        "Strassenbahn": "Rakete",
-        "NONE": "PHON",
-        "1": "1"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Kaffee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "IDEN",
-        "1": "3"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Bein",
-        "Strassenbahn": "Wein",
-        "NONE": "PHON",
-        "1": "3"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Reis",
-        "Strassenbahn": "Reis",
-        "NONE": "IDEN",
-        "1": "3"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Schwert",
-        "Strassenbahn": "Pferd",
-        "NONE": "PHON",
-        "1": "3"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Bauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "PHON",
-        "1": "2"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Kartoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "IDEN",
-        "1": "3"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Bus",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "CAT+ASS",
-        "1": "4"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Hemd",
-        "Strassenbahn": "Knopf",
-        "NONE": "CAT+ASS",
-        "1": "2"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Klee",
-        "Strassenbahn": "Tee",
-        "NONE": "PHON",
-        "1": "1"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Tapete",
-        "Strassenbahn": "Rakete",
-        "NONE": "PHON",
-        "1": "2"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Stiefel",
-        "Strassenbahn": "Tasche",
-        "NONE": "CAT+ASS",
-        "1": "1"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Puppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "PHON",
-        "1": "2"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Mehl",
-        "Strassenbahn": "Reis",
-        "NONE": "CAT+ASS",
-        "1": "4"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Hirsch",
-        "Strassenbahn": "Pferd",
-        "NONE": "CAT+ASS",
-        "1": "4"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Schnee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Gras",
-        "Strassenbahn": "Knopf",
-        "NONE": "NONE",
-        "1": "3"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Kartoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "IDEN",
-        "1": "4"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Schwein",
-        "Strassenbahn": "Schwein",
-        "NONE": "IDEN",
-        "1": "1"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Huhn": "L\u00f6ffel",
-        "Strassenbahn": "Tasche",
-        "NONE": "NONE",
-        "1": "2"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Huhn": "Fahrrad",
-        "Strassenbahn": "Hose",
-        "NONE": "NONE",
-        "1": "3"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Schuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "IDEN",
-        "1": "4"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Gurke",
-        "Strassenbahn": "Wal",
-        "NONE": "NONE",
-        "1": "2"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Apfel",
-        "Strassenbahn": "Traube",
-        "NONE": "CAT+ASS",
-        "1": "2"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Milch",
-        "Strassenbahn": "Kaffee",
-        "NONE": "CAT+ASS",
-        "1": "5"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Pelikan",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "NONE",
-        "1": "5"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Baer",
-        "Strassenbahn": "Dachs",
-        "NONE": "CAT+ASS",
-        "1": "3"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Ziege",
-        "Strassenbahn": "Schwein",
-        "NONE": "CAT+ASS",
-        "1": "2"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Rose",
-        "Strassenbahn": "Hose",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Huhn",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "NONE",
-        "1": "5"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Schiff",
-        "Strassenbahn": "Lauch",
-        "NONE": "NONE",
-        "1": "3"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Hund",
-        "Strassenbahn": "Fisch",
-        "NONE": "CAT+ASS",
-        "1": "2"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Reis",
-        "Strassenbahn": "Reis",
-        "NONE": "IDEN",
-        "1": "5"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Suppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "IDEN",
-        "1": "3"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Wachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Nest",
-        "Strassenbahn": "Schuh",
-        "NONE": "NONE",
-        "1": "5"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Anzug",
-        "Strassenbahn": "Hose",
-        "NONE": "CAT+ASS",
-        "1": "5"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Pfanne",
-        "Strassenbahn": "Schwein",
-        "NONE": "NONE",
-        "1": "3"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Traube",
-        "Strassenbahn": "Traube",
-        "NONE": "IDEN",
-        "1": "3"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Brot",
-        "Strassenbahn": "Fisch",
-        "NONE": "NONE",
-        "1": "3"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Zahn",
-        "Strassenbahn": "Pferd",
-        "NONE": "NONE",
-        "1": "5"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Tapete",
-        "Strassenbahn": "Rakete",
-        "NONE": "PHON",
-        "1": "3"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Dachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "IDEN",
-        "1": "5"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Mehl",
-        "Strassenbahn": "Reis",
-        "NONE": "CAT+ASS",
-        "1": "6"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Otter",
-        "Strassenbahn": "Wal",
-        "NONE": "CAT+ASS",
-        "1": "3"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Bein",
-        "Strassenbahn": "Wein",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Schlagzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "PHON",
-        "1": "3"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Fisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "IDEN",
-        "1": "4"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Pferd",
-        "Strassenbahn": "Pferd",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Huhn": "L\u00f6ffel",
-        "Strassenbahn": "Tasche",
-        "NONE": "NONE",
-        "1": "3"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Rakete",
-        "Strassenbahn": "Rakete",
-        "NONE": "IDEN",
-        "1": "4"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Mehl",
-        "Strassenbahn": "Reis",
-        "NONE": "CAT+ASS",
-        "1": "7"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Schiff",
-        "Strassenbahn": "Lauch",
-        "NONE": "NONE",
-        "1": "4"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Wein",
-        "Strassenbahn": "Wein",
-        "NONE": "IDEN",
-        "1": "5"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Flugzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "IDEN",
-        "1": "4"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Hund",
-        "Strassenbahn": "Fisch",
-        "NONE": "CAT+ASS",
-        "1": "5"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Schwert",
-        "Strassenbahn": "Pferd",
-        "NONE": "PHON",
-        "1": "7"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Puppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Hut",
-        "Strassenbahn": "Kaffee",
-        "NONE": "NONE",
-        "1": "6"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Schuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Wal",
-        "Strassenbahn": "Wal",
-        "NONE": "IDEN",
-        "1": "4"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Zelt",
-        "Strassenbahn": "Wein",
-        "NONE": "NONE",
-        "1": "6"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Strassenbahn",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Fisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Schnitzel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "CAT+ASS",
-        "1": "6"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Pfanne",
-        "Strassenbahn": "Schwein",
-        "NONE": "NONE",
-        "1": "4"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Flasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Kleid",
-        "Strassenbahn": "Schuh",
-        "NONE": "CAT+ASS",
-        "1": "7"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Pedal",
-        "Strassenbahn": "Wal",
-        "NONE": "PHON",
-        "1": "5"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Wein",
-        "Strassenbahn": "Wein",
-        "NONE": "IDEN",
-        "1": "7"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Eis",
-        "Strassenbahn": "Reis",
-        "NONE": "PHON",
-        "1": "8"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Schraube",
-        "Strassenbahn": "Traube",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Pelikan",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "NONE",
-        "1": "7"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Pfanne",
-        "Strassenbahn": "Schwein",
-        "NONE": "NONE",
-        "1": "5"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Flasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "PHON",
-        "1": "5"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Schwan",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "PHON",
-        "1": "7"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Milch",
-        "Strassenbahn": "Kaffee",
-        "NONE": "CAT+ASS",
-        "1": "7"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Otter",
-        "Strassenbahn": "Wal",
-        "NONE": "CAT+ASS",
-        "1": "6"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Eis",
-        "Strassenbahn": "Reis",
-        "NONE": "PHON",
-        "1": "9"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Fussball",
-        "Strassenbahn": "Traube",
-        "NONE": "NONE",
-        "1": "5"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Baer",
-        "Strassenbahn": "Dachs",
-        "NONE": "CAT+ASS",
-        "1": "6"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Schornstein",
-        "Strassenbahn": "Schwein",
-        "NONE": "PHON",
-        "1": "6"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Huhn": "L\u00f6ffel",
-        "Strassenbahn": "Tasche",
-        "NONE": "NONE",
-        "1": "6"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Bus",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "CAT+ASS",
-        "1": "8"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Tisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "PHON",
-        "1": "7"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Saft",
-        "Strassenbahn": "Wein",
-        "NONE": "CAT+ASS",
-        "1": "8"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Horn",
-        "Strassenbahn": "Reis",
-        "NONE": "NONE",
-        "1": "10"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Hammer",
-        "Strassenbahn": "Suppe",
-        "NONE": "NONE",
-        "1": "5"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Knopf",
-        "Strassenbahn": "Knopf",
-        "NONE": "IDEN",
-        "1": "4"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Hubschrauber",
-        "Strassenbahn": "Rakete",
-        "NONE": "CAT+ASS",
-        "1": "5"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Hose",
-        "Strassenbahn": "Hose",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Tasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "IDEN",
-        "1": "7"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Brot",
-        "Strassenbahn": "Fisch",
-        "NONE": "NONE",
-        "1": "8"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Klee",
-        "Strassenbahn": "Tee",
-        "NONE": "PHON",
-        "1": "2"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Reis",
-        "Strassenbahn": "Reis",
-        "NONE": "IDEN",
-        "1": "11"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Huhn": "Suppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Hirsch",
-        "Strassenbahn": "Pferd",
-        "NONE": "CAT+ASS",
-        "1": "8"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Kaffee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "IDEN",
-        "1": "8"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Traube",
-        "Strassenbahn": "Traube",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Hemd",
-        "Strassenbahn": "Knopf",
-        "NONE": "CAT+ASS",
-        "1": "5"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Fisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "IDEN",
-        "1": "9"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Bier",
-        "Strassenbahn": "Tee",
-        "NONE": "CAT+ASS",
-        "1": "3"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Anzug",
-        "Strassenbahn": "Hose",
-        "NONE": "CAT+ASS",
-        "1": "7"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "3"
     },
     {
-        "Huhn": "Schornstein",
-        "Strassenbahn": "Schwein",
-        "NONE": "PHON",
-        "1": "7"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Kamm",
-        "Strassenbahn": "Dachs",
-        "NONE": "NONE",
-        "1": "7"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Strassenbahn",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "IDEN",
-        "1": "9"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Wein",
-        "Strassenbahn": "Wein",
-        "NONE": "IDEN",
-        "1": "9"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Schnee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "PHON",
-        "1": "9"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Tisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "PHON",
-        "1": "10"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Knopf",
-        "Strassenbahn": "Knopf",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Tasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "IDEN",
-        "1": "8"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Pfanne",
-        "Strassenbahn": "Schwein",
-        "NONE": "NONE",
-        "1": "8"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Flugzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "IDEN",
-        "1": "5"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Klee",
-        "Strassenbahn": "Tee",
-        "NONE": "PHON",
-        "1": "4"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Zwiebel",
-        "Strassenbahn": "Suppe",
-        "NONE": "CAT+ASS",
-        "1": "7"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Huhn": "Kuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "PHON",
-        "1": "8"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Traube",
-        "Strassenbahn": "Traube",
-        "NONE": "IDEN",
-        "1": "7"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Knopf",
-        "Strassenbahn": "Knopf",
-        "NONE": "IDEN",
-        "1": "7"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Eis",
-        "Strassenbahn": "Reis",
-        "NONE": "PHON",
-        "1": "12"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Dachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "IDEN",
-        "1": "8"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Ballon",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "CAT+ASS",
-        "1": "6"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Tee",
-        "Strassenbahn": "Tee",
-        "NONE": "IDEN",
-        "1": "5"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Saft",
-        "Strassenbahn": "Wein",
-        "NONE": "CAT+ASS",
-        "1": "10"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Kohl",
-        "Strassenbahn": "Lauch",
-        "NONE": "CAT+ASS",
-        "1": "5"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Rakete",
-        "Strassenbahn": "Rakete",
-        "NONE": "IDEN",
-        "1": "6"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Huhn": "Apfel",
-        "Strassenbahn": "Traube",
-        "NONE": "CAT+ASS",
-        "1": "8"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Kleid",
-        "Strassenbahn": "Schuh",
-        "NONE": "CAT+ASS",
-        "1": "9"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Topf",
-        "Strassenbahn": "Knopf",
-        "NONE": "PHON",
-        "1": "8"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Stiefel",
-        "Strassenbahn": "Tasche",
-        "NONE": "CAT+ASS",
-        "1": "9"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Zwiebel",
-        "Strassenbahn": "Suppe",
-        "NONE": "CAT+ASS",
-        "1": "8"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Flugzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "IDEN",
-        "1": "7"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Kohl",
-        "Strassenbahn": "Lauch",
-        "NONE": "CAT+ASS",
-        "1": "6"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Elefant",
-        "Strassenbahn": "Rakete",
-        "NONE": "NONE",
-        "1": "7"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Fussball",
-        "Strassenbahn": "Traube",
-        "NONE": "NONE",
-        "1": "9"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Otter",
-        "Strassenbahn": "Wal",
-        "NONE": "CAT+ASS",
-        "1": "7"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Nest",
-        "Strassenbahn": "Schuh",
-        "NONE": "NONE",
-        "1": "10"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Kamm",
-        "Strassenbahn": "Dachs",
-        "NONE": "NONE",
-        "1": "9"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Hund",
-        "Strassenbahn": "Fisch",
-        "NONE": "CAT+ASS",
-        "1": "11"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Rose",
-        "Strassenbahn": "Hose",
-        "NONE": "PHON",
-        "1": "8"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Schornstein",
-        "Strassenbahn": "Schwein",
-        "NONE": "PHON",
-        "1": "9"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Kartoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "IDEN",
-        "1": "8"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Schiff",
-        "Strassenbahn": "Lauch",
-        "NONE": "NONE",
-        "1": "7"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Gurke",
-        "Strassenbahn": "Wal",
-        "NONE": "NONE",
-        "1": "8"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Kuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Kaffee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "IDEN",
-        "1": "10"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Tisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "PHON",
-        "1": "12"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Rakete",
-        "Strassenbahn": "Rakete",
-        "NONE": "IDEN",
-        "1": "8"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Knopf",
-        "Strassenbahn": "Knopf",
-        "NONE": "IDEN",
-        "1": "9"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Pantoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "PHON",
-        "1": "9"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Zahn",
-        "Strassenbahn": "Pferd",
-        "NONE": "NONE",
-        "1": "9"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Pedal",
-        "Strassenbahn": "Wal",
-        "NONE": "PHON",
-        "1": "9"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Kuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "PHON",
-        "1": "12"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Mehl",
-        "Strassenbahn": "Reis",
-        "NONE": "CAT+ASS",
-        "1": "13"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Huhn": "L\u00f6ffel",
-        "Strassenbahn": "Tasche",
-        "NONE": "NONE",
-        "1": "10"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Hubschrauber",
-        "Strassenbahn": "Rakete",
-        "NONE": "CAT+ASS",
-        "1": "9"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Topf",
-        "Strassenbahn": "Knopf",
-        "NONE": "PHON",
-        "1": "10"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Bier",
-        "Strassenbahn": "Tee",
-        "NONE": "CAT+ASS",
-        "1": "6"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Schwein",
-        "Strassenbahn": "Schwein",
-        "NONE": "IDEN",
-        "1": "10"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Huhn": "Wal",
-        "Strassenbahn": "Wal",
-        "NONE": "IDEN",
-        "1": "10"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Schraube",
-        "Strassenbahn": "Traube",
-        "NONE": "PHON",
-        "1": "10"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Schwert",
-        "Strassenbahn": "Pferd",
-        "NONE": "PHON",
-        "1": "10"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Ballon",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "CAT+ASS",
-        "1": "8"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Reis",
-        "Strassenbahn": "Reis",
-        "NONE": "IDEN",
-        "1": "14"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Pantoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "PHON",
-        "1": "10"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Tee",
-        "Strassenbahn": "Tee",
-        "NONE": "IDEN",
-        "1": "7"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Topf",
-        "Strassenbahn": "Knopf",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Huhn": "Otter",
-        "Strassenbahn": "Wal",
-        "NONE": "CAT+ASS",
-        "1": "11"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Schraube",
-        "Strassenbahn": "Traube",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Bein",
-        "Strassenbahn": "Wein",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Schuh",
-        "Strassenbahn": "Schuh",
-        "NONE": "IDEN",
-        "1": "13"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Kamm",
-        "Strassenbahn": "Dachs",
-        "NONE": "NONE",
-        "1": "10"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Pferd",
-        "Strassenbahn": "Pferd",
-        "NONE": "IDEN",
-        "1": "11"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Hund",
-        "Strassenbahn": "Fisch",
-        "NONE": "CAT+ASS",
-        "1": "13"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Tasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "IDEN",
-        "1": "11"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Pedal",
-        "Strassenbahn": "Wal",
-        "NONE": "PHON",
-        "1": "12"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Puppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "PHON",
-        "1": "9"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Wein",
-        "Strassenbahn": "Wein",
-        "NONE": "IDEN",
-        "1": "12"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Tee",
-        "Strassenbahn": "Tee",
-        "NONE": "IDEN",
-        "1": "8"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Kohl",
-        "Strassenbahn": "Lauch",
-        "NONE": "CAT+ASS",
-        "1": "8"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Kleid",
-        "Strassenbahn": "Schuh",
-        "NONE": "CAT+ASS",
-        "1": "14"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Huhn": "Rakete",
-        "Strassenbahn": "Rakete",
-        "NONE": "IDEN",
-        "1": "10"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Stiefel",
-        "Strassenbahn": "Tasche",
-        "NONE": "CAT+ASS",
-        "1": "12"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Bus",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "CAT+ASS",
-        "1": "10"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Horn",
-        "Strassenbahn": "Reis",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Schornstein",
-        "Strassenbahn": "Schwein",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Pantoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Hammer",
-        "Strassenbahn": "Suppe",
-        "NONE": "NONE",
-        "1": "10"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Maus",
-        "Strassenbahn": "Tee",
-        "NONE": "NONE",
-        "1": "9"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Schnee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Flasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "PHON",
-        "1": "13"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Bus",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "CAT+ASS",
-        "1": "11"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Ballon",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "CAT+ASS",
-        "1": "9"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Fussball",
-        "Strassenbahn": "Traube",
-        "NONE": "NONE",
-        "1": "12"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Pelikan",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "NONE",
-        "1": "12"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Suppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "IDEN",
-        "1": "11"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Ziege",
-        "Strassenbahn": "Schwein",
-        "NONE": "CAT+ASS",
-        "1": "12"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Milch",
-        "Strassenbahn": "Kaffee",
-        "NONE": "CAT+ASS",
-        "1": "12"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Lauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "IDEN",
-        "1": "9"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Schwan",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "PHON",
-        "1": "12"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Hirsch",
-        "Strassenbahn": "Pferd",
-        "NONE": "CAT+ASS",
-        "1": "12"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Bier",
-        "Strassenbahn": "Tee",
-        "NONE": "CAT+ASS",
-        "1": "10"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Schlagzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "PHON",
-        "1": "10"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Zwiebel",
-        "Strassenbahn": "Suppe",
-        "NONE": "CAT+ASS",
-        "1": "12"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Kamm",
-        "Strassenbahn": "Dachs",
-        "NONE": "NONE",
-        "1": "11"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Apfel",
-        "Strassenbahn": "Traube",
-        "NONE": "CAT+ASS",
-        "1": "13"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Zelt",
-        "Strassenbahn": "Wein",
-        "NONE": "NONE",
-        "1": "13"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Strassenbahn",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "IDEN",
-        "1": "13"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Gras",
-        "Strassenbahn": "Knopf",
-        "NONE": "NONE",
-        "1": "12"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Klee",
-        "Strassenbahn": "Tee",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Pantoffel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "PHON",
-        "1": "13"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Zwiebel",
-        "Strassenbahn": "Suppe",
-        "NONE": "CAT+ASS",
-        "1": "13"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Ziege",
-        "Strassenbahn": "Schwein",
-        "NONE": "CAT+ASS",
-        "1": "13"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Affe",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "NONE",
-        "1": "11"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Tapete",
-        "Strassenbahn": "Rakete",
-        "NONE": "PHON",
-        "1": "11"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Huhn",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Gras",
-        "Strassenbahn": "Knopf",
-        "NONE": "NONE",
-        "1": "13"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Kohl",
-        "Strassenbahn": "Lauch",
-        "NONE": "CAT+ASS",
-        "1": "10"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Bier",
-        "Strassenbahn": "Tee",
-        "NONE": "CAT+ASS",
-        "1": "12"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Wachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "PHON",
-        "1": "12"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Schwein",
-        "Strassenbahn": "Schwein",
-        "NONE": "IDEN",
-        "1": "14"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Hose",
-        "Strassenbahn": "Hose",
-        "NONE": "IDEN",
-        "1": "9"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Elefant",
-        "Strassenbahn": "Rakete",
-        "NONE": "NONE",
-        "1": "12"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Huhn": "Puppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "PHON",
-        "1": "14"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Pferd",
-        "Strassenbahn": "Pferd",
-        "NONE": "IDEN",
-        "1": "13"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Nest",
-        "Strassenbahn": "Schuh",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Strassenbahn",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "IDEN",
-        "1": "15"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Wal",
-        "Strassenbahn": "Wal",
-        "NONE": "IDEN",
-        "1": "13"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Schiff",
-        "Strassenbahn": "Lauch",
-        "NONE": "NONE",
-        "1": "11"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Flugzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "IDEN",
-        "1": "12"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Hubschrauber",
-        "Strassenbahn": "Rakete",
-        "NONE": "CAT+ASS",
-        "1": "13"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Hose",
-        "Strassenbahn": "Hose",
-        "NONE": "IDEN",
-        "1": "10"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Hut",
-        "Strassenbahn": "Kaffee",
-        "NONE": "NONE",
-        "1": "13"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Huhn": "Nest",
-        "Strassenbahn": "Schuh",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Topf",
-        "Strassenbahn": "Knopf",
-        "NONE": "PHON",
-        "1": "14"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Gurke",
-        "Strassenbahn": "Wal",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Brot",
-        "Strassenbahn": "Fisch",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Schwein",
-        "Strassenbahn": "Schwein",
-        "NONE": "IDEN",
-        "1": "15"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Elefant",
-        "Strassenbahn": "Rakete",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Zahn",
-        "Strassenbahn": "Pferd",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Schnee",
-        "Strassenbahn": "Kaffee",
-        "NONE": "PHON",
-        "1": "14"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Fahrrad",
-        "Strassenbahn": "Hose",
-        "NONE": "NONE",
-        "1": "11"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Baer",
-        "Strassenbahn": "Dachs",
-        "NONE": "CAT+ASS",
-        "1": "13"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Huhn": "Hemd",
-        "Strassenbahn": "Knopf",
-        "NONE": "CAT+ASS",
-        "1": "15"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Zelt",
-        "Strassenbahn": "Wein",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Bauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "PHON",
-        "1": "12"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Elefant",
-        "Strassenbahn": "Rakete",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Ziege",
-        "Strassenbahn": "Schwein",
-        "NONE": "CAT+ASS",
-        "1": "16"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Apfel",
-        "Strassenbahn": "Traube",
-        "NONE": "CAT+ASS",
-        "1": "14"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Huhn",
-        "Strassenbahn": "Strassenbahn",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Anzug",
-        "Strassenbahn": "Hose",
-        "NONE": "CAT+ASS",
-        "1": "12"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Tasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "IDEN",
-        "1": "14"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Huhn": "Tisch",
-        "Strassenbahn": "Fisch",
-        "NONE": "PHON",
-        "1": "15"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Tee",
-        "Strassenbahn": "Tee",
-        "NONE": "IDEN",
-        "1": "13"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Hubschrauber",
-        "Strassenbahn": "Rakete",
-        "NONE": "CAT+ASS",
-        "1": "16"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Hut",
-        "Strassenbahn": "Kaffee",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Gurke",
-        "Strassenbahn": "Wal",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Schlagzeug",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "PHON",
-        "1": "13"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Wachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "PHON",
-        "1": "14"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Fussball",
-        "Strassenbahn": "Traube",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Bauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "PHON",
-        "1": "13"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Maus",
-        "Strassenbahn": "Tee",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Schnitzel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "CAT+ASS",
-        "1": "14"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Hose",
-        "Strassenbahn": "Hose",
-        "NONE": "IDEN",
-        "1": "13"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Pedal",
-        "Strassenbahn": "Wal",
-        "NONE": "PHON",
-        "1": "16"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Huhn": "Ballon",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "CAT+ASS",
-        "1": "14"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Dachs",
-        "Strassenbahn": "Dachs",
-        "NONE": "IDEN",
-        "1": "15"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Traube",
-        "Strassenbahn": "Traube",
-        "NONE": "IDEN",
-        "1": "16"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Bein",
-        "Strassenbahn": "Wein",
-        "NONE": "PHON",
-        "1": "15"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Stiefel",
-        "Strassenbahn": "Tasche",
-        "NONE": "CAT+ASS",
-        "1": "15"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Lauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "IDEN",
-        "1": "14"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Pferd",
-        "Strassenbahn": "Pferd",
-        "NONE": "IDEN",
-        "1": "15"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Fahrrad",
-        "Strassenbahn": "Hose",
-        "NONE": "NONE",
-        "1": "14"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Gras",
-        "Strassenbahn": "Knopf",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Huhn": "Schnitzel",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "CAT+ASS",
-        "1": "15"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Affe",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Saft",
-        "Strassenbahn": "Wein",
-        "NONE": "CAT+ASS",
-        "1": "16"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Hammer",
-        "Strassenbahn": "Suppe",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Bauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "PHON",
-        "1": "15"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Flasche",
-        "Strassenbahn": "Tasche",
-        "NONE": "PHON",
-        "1": "16"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Maus",
-        "Strassenbahn": "Tee",
-        "NONE": "NONE",
-        "1": "15"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Rose",
-        "Strassenbahn": "Hose",
-        "NONE": "PHON",
-        "1": "15"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Brot",
-        "Strassenbahn": "Fisch",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Huhn": "Horn",
-        "Strassenbahn": "Reis",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Hirsch",
-        "Strassenbahn": "Pferd",
-        "NONE": "CAT+ASS",
-        "1": "16"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Hut",
-        "Strassenbahn": "Kaffee",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Affe",
-        "Strassenbahn": "Flugzeug",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Baer",
-        "Strassenbahn": "Dachs",
-        "NONE": "CAT+ASS",
-        "1": "16"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Lauch",
-        "Strassenbahn": "Lauch",
-        "NONE": "IDEN",
-        "1": "16"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Pelikan",
-        "Strassenbahn": "Kartoffel",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Suppe",
-        "Strassenbahn": "Suppe",
-        "NONE": "IDEN",
-        "1": "16"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Maus",
-        "Strassenbahn": "Tee",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Huhn": "Fahrrad",
-        "Strassenbahn": "Hose",
-        "NONE": "NONE",
-        "1": "16"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "16"
+    },
+    {
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "16"
     }
 ]
