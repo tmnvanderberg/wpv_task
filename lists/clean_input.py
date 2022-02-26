@@ -12,9 +12,11 @@ input_files = ["output1.csv", "output2.csv",
 def replace_spaces(inFile, outFile):
     fin = open(inFile, "rt")
     fout = open(outFile, "wt")
-    fout.write("cue,target,condition,occurence\n")
+    # add headers
+    fout.write("cue,target,cond,occurence\n")
+    # replace spaces with commas and transform to lowercase
     for line in fin:
-        fout.write(re.sub(' +', ',', line))
+        fout.write(re.sub(' +', ',', line.lower()))
     fin.close()
     fout.close()
 
