@@ -41,5 +41,5 @@ image steps:
 # general order
 - add correct response
 - add trial part
-- add cond
+- add cond 
 

@@ -20,41 +20,28 @@
     <script src="js/iden_trial_info_l1.js"></script>
     <script src="js/iden_trial_info_l2.js"></script>
     <script src="js/iden_trial_info_l3.js"></script>
-    <script
-      type="text/javascript"
-      language="javascript"
-      src="lists/in/list1.json"
-    ></script>
-
-    <script src="stimuli.js"></script>
+    <!-- <script src="lists/in/list1.js"></script> -->
     <link href="jspsych/css/jspsych.css" rel="stylesheet" />
   </head>
 
   <body></body>
   <script>
-    for (stimulus of stimuli) {
-      stimulus.cue_image = stimulus.cue_image.replace("1", "CC");
-      stimulus.cue_image = stimulus.cue_image.replace("2", "CS");
-      stimulus.cue_image = stimulus.cue_image.replace("3", "TC");
-      stimulus.cue_image = stimulus.cue_image.replace("4", "TS");
-    }
-
     // step 2: create a list of unique cues
     // loop over list of cues.
     // For each cue, read each entry with that que and use it to
     // add a corresponding 'stimuli'  entry to the json
     // note: for the first entry, also enter the other elements.
-    let non_unique_targets = [];
-    for (stimulus of stimuli) {
-      non_unique_targets.push(stimulus.target);
-    }
-    var unique_targets = non_unique_targets.filter(
-      (v, i, a) => a.indexOf(v) === i
-    );
-    console.log(unique_targets);
-    let improved_stimuli = [];
-    for (target of unique_targets) {
-    }
+    // let non_unique_targets = [];
+    // for (stimulus of stimuli) {
+    //   non_unique_targets.push(stimulus.target);
+    // }
+    // var unique_targets = non_unique_targets.filter(
+    //   (v, i, a) => a.indexOf(v) === i
+    // );
+    // console.log(unique_targets);
+    // let improved_stimuli = [];
+    // for (target of unique_targets) {
+    // }
 
     var timeline = [];
     var repeat_prac = false;

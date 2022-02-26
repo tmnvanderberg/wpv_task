@@ -1,4 +1,4 @@
-[
+const stimuli = [
   {
     cue: "Horn",
     target: "Reis",
