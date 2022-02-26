@@ -1,320 +1,321 @@
-Tee	Tee	IDEN	1
-Pedal	Wal	PHON	1
-Affe	Flugzeug	NONE	1
-Kuh	Schuh	PHON	1
-Rose	Hose	PHON	1
-Zwiebel	Suppe	CAT+ASS	1
-Hund	Fisch	CAT+ASS	1
-Gras	Knopf	NONE	1
-Schiff	Lauch	NONE	1
-Schwert	Pferd	PHON	1
-Klee	Tee	PHON	2
-Schnitzel	Kartoffel	CAT+ASS	1
-Bus	Strassenbahn	CAT+ASS	1
-Eis	Reis	PHON	1
-Zwiebel	Suppe	CAT+ASS	2
-Hubschrauber	Rakete	CAT+ASS	1
-Schornstein	Schwein	PHON	1
-Pferd	Pferd	IDEN	2
-Milch	Kaffee	CAT+ASS	1
-Hund	Fisch	CAT+ASS	2
-Gras	Knopf	NONE	2
-Zelt	Wein	NONE	1
-Pantoffel	Kartoffel	PHON	2
-Schiff	Lauch	NONE	2
-Schwein	Schwein	IDEN	2
-Schwert	Pferd	PHON	3
-Anzug	Hose	CAT+ASS	2
-Brot	Fisch	NONE	3
-Wal	Wal	IDEN	2
-Mehl	Reis	CAT+ASS	2
-Hubschrauber	Rakete	CAT+ASS	2
-Schiff	Lauch	NONE	3
-Flugzeug	Flugzeug	IDEN	2
-Klee	Tee	PHON	3
-Stiefel	Tasche	CAT+ASS	1
-Hund	Fisch	CAT+ASS	4
-Pantoffel	Kartoffel	PHON	3
-Milch	Kaffee	CAT+ASS	2
-Hirsch	Pferd	CAT+ASS	4
-Kamm	Dachs	NONE	1
-Ballon	Flugzeug	CAT+ASS	3
-Huhn	Strassenbahn	NONE	2
-Wal	Wal	IDEN	3
-Tisch	Fisch	PHON	5
-Lauch	Lauch	IDEN	4
-Kaffee	Kaffee	IDEN	3
-Löffel	Tasche	NONE	2
-Kamm	Dachs	NONE	2
-Schuh	Schuh	IDEN	2
-Pelikan	Kartoffel	NONE	4
-Flugzeug	Flugzeug	IDEN	4
-Fisch	Fisch	IDEN	6
-Kohl	Lauch	CAT+ASS	5
-Schnee	Kaffee	PHON	4
-Pfanne	Schwein	NONE	3
-Tapete	Rakete	PHON	3
-Löffel	Tasche	NONE	3
-Pelikan	Kartoffel	NONE	5
-Bier	Tee	CAT+ASS	4
-Fisch	Fisch	IDEN	7
-Lauch	Lauch	IDEN	6
-Milch	Kaffee	CAT+ASS	5
-Kleid	Schuh	CAT+ASS	3
-Schwein	Schwein	IDEN	4
-Wein	Wein	IDEN	2
-Schnitzel	Kartoffel	CAT+ASS	6
-Fahrrad	Hose	NONE	3
-Brot	Fisch	NONE	8
-Suppe	Suppe	IDEN	3
-Kaffee	Kaffee	IDEN	6
-Schiff	Lauch	NONE	7
-Wachs	Dachs	PHON	3
-Tapete	Rakete	PHON	4
-Ballon	Flugzeug	CAT+ASS	5
-Anzug	Hose	CAT+ASS	4
-Tisch	Fisch	PHON	9
-Hammer	Suppe	NONE	4
-Pedal	Wal	PHON	4
-Pelikan	Kartoffel	NONE	7
-Mehl	Reis	CAT+ASS	3
-Lauch	Lauch	IDEN	8
-Hemd	Knopf	CAT+ASS	3
-Klee	Tee	PHON	5
-Löffel	Tasche	NONE	4
-Baer	Dachs	CAT+ASS	4
-Gurke	Wal	NONE	5
-Kartoffel	Kartoffel	IDEN	8
-Traube	Traube	IDEN	1
-Bauch	Lauch	PHON	9
-Eis	Reis	PHON	4
-Ziege	Schwein	CAT+ASS	5
-Schwan	Strassenbahn	PHON	3
-Tapete	Rakete	PHON	5
-Gurke	Wal	NONE	6
-Affe	Flugzeug	NONE	6
-Schraube	Traube	PHON	2
-Bauch	Lauch	PHON	10
-Kleid	Schuh	CAT+ASS	4
-Hirsch	Pferd	CAT+ASS	5
-Schwan	Strassenbahn	PHON	4
-Kartoffel	Kartoffel	IDEN	9
-Otter	Wal	CAT+ASS	7
-Bein	Wein	PHON	3
-Apfel	Traube	CAT+ASS	3
-Kohl	Lauch	CAT+ASS	11
-Reis	Reis	IDEN	5
-Fahrrad	Hose	NONE	5
-Strassenbahn	Strassenbahn	IDEN	5
-Elefant	Rakete	NONE	6
-Nest	Schuh	NONE	5
-Wachs	Dachs	PHON	5
-Apfel	Traube	CAT+ASS	4
-Zelt	Wein	NONE	4
-Kohl	Lauch	CAT+ASS	12
-Rose	Hose	PHON	6
-Pedal	Wal	PHON	8
-Gras	Knopf	NONE	4
-Nest	Schuh	NONE	6
-Tasche	Tasche	IDEN	5
-Kartoffel	Kartoffel	IDEN	10
-Bus	Strassenbahn	CAT+ASS	6
-Bauch	Lauch	PHON	13
-Anzug	Hose	CAT+ASS	7
-Otter	Wal	CAT+ASS	9
-Pfanne	Schwein	NONE	6
-Saft	Wein	CAT+ASS	5
-Ballon	Flugzeug	CAT+ASS	7
-Traube	Traube	IDEN	5
-Huhn	Strassenbahn	NONE	7
-Knopf	Knopf	IDEN	5
-Hose	Hose	IDEN	8
-Pedal	Wal	PHON	10
-Schwert	Pferd	PHON	6
-Maus	Tee	NONE	6
-Ziege	Schwein	CAT+ASS	7
-Baer	Dachs	CAT+ASS	6
-Strassenbahn	Strassenbahn	IDEN	8
-Mehl	Reis	CAT+ASS	6
-Fahrrad	Hose	NONE	9
-Gurke	Wal	NONE	11
-Schraube	Traube	PHON	6
-Bier	Tee	CAT+ASS	7
-Bein	Wein	PHON	6
-Elefant	Rakete	NONE	7
-Huhn	Strassenbahn	NONE	9
-Dachs	Dachs	IDEN	7
-Affe	Flugzeug	NONE	8
-Otter	Wal	CAT+ASS	12
-Zahn	Pferd	NONE	7
-Maus	Tee	NONE	8
-Fisch	Fisch	IDEN	10
-Rakete	Rakete	IDEN	8
-Schnitzel	Kartoffel	CAT+ASS	11
-Schwein	Schwein	IDEN	8
-Schlagzeug	Flugzeug	PHON	9
-Otter	Wal	CAT+ASS	13
-Kleid	Schuh	CAT+ASS	7
-Tee	Tee	IDEN	9
-Traube	Traube	IDEN	7
-Hubschrauber	Rakete	CAT+ASS	9
-Kartoffel	Kartoffel	IDEN	12
-Suppe	Suppe	IDEN	5
-Ziege	Schwein	CAT+ASS	9
-Strassenbahn	Strassenbahn	IDEN	10
-Wal	Wal	IDEN	14
-Kuh	Schuh	PHON	8
-Kaffee	Kaffee	IDEN	7
-Rakete	Rakete	IDEN	10
-Kamm	Dachs	NONE	8
-Schlagzeug	Flugzeug	PHON	10
-Schornstein	Schwein	PHON	10
-Maus	Tee	NONE	10
-Bein	Wein	PHON	7
-Mehl	Reis	CAT+ASS	7
-Schraube	Traube	PHON	8
-Puppe	Suppe	PHON	6
-Milch	Kaffee	CAT+ASS	8
-Schlagzeug	Flugzeug	PHON	11
-Ziege	Schwein	CAT+ASS	11
-Zahn	Pferd	NONE	8
-Pantoffel	Kartoffel	PHON	13
-Horn	Reis	NONE	8
-Apfel	Traube	CAT+ASS	9
-Zwiebel	Suppe	CAT+ASS	7
-Topf	Knopf	PHON	6
-Affe	Flugzeug	NONE	12
-Baer	Dachs	CAT+ASS	9
-Hirsch	Pferd	CAT+ASS	9
-Brot	Fisch	NONE	11
-Reis	Reis	IDEN	9
-Schnitzel	Kartoffel	CAT+ASS	14
-Hammer	Suppe	NONE	8
-Topf	Knopf	PHON	7
-Schlagzeug	Flugzeug	PHON	13
-Baer	Dachs	CAT+ASS	10
-Schwert	Pferd	PHON	10
-Hut	Kaffee	NONE	9
-Horn	Reis	NONE	10
-Saft	Wein	CAT+ASS	8
-Puppe	Suppe	PHON	9
-Hemd	Knopf	CAT+ASS	8
-Flasche	Tasche	PHON	6
-Pfanne	Schwein	NONE	12
-Pferd	Pferd	IDEN	11
-Hut	Kaffee	NONE	10
-Horn	Reis	NONE	11
-Tisch	Fisch	PHON	12
-Wachs	Dachs	PHON	11
-Zwiebel	Suppe	CAT+ASS	10
-Wein	Wein	IDEN	9
-Schornstein	Schwein	PHON	13
-Pferd	Pferd	IDEN	12
-Kohl	Lauch	CAT+ASS	14
-Stiefel	Tasche	CAT+ASS	7
-Reis	Reis	IDEN	12
-Anzug	Hose	CAT+ASS	10
-Hammer	Suppe	NONE	11
-Schuh	Schuh	IDEN	9
-Zelt	Wein	NONE	10
-Zahn	Pferd	NONE	13
-Wachs	Dachs	PHON	12
-Flasche	Tasche	PHON	8
-Horn	Reis	NONE	13
-Rose	Hose	PHON	11
-Puppe	Suppe	PHON	12
-Pfanne	Schwein	NONE	14
-Bus	Strassenbahn	CAT+ASS	11
-Apfel	Traube	CAT+ASS	10
-Dachs	Dachs	IDEN	13
-Stiefel	Tasche	CAT+ASS	9
-Schuh	Schuh	IDEN	10
-Hose	Hose	IDEN	12
-Zahn	Pferd	NONE	14
-Schwein	Schwein	IDEN	15
-Bauch	Lauch	PHON	15
-Fussball	Traube	NONE	11
-Hemd	Knopf	CAT+ASS	9
-Wein	Wein	IDEN	11
-Schuh	Schuh	IDEN	11
-Hut	Kaffee	NONE	11
-Hirsch	Pferd	CAT+ASS	15
-Flugzeug	Flugzeug	IDEN	14
-Stiefel	Tasche	CAT+ASS	10
-Schraube	Traube	PHON	12
-Topf	Knopf	PHON	10
-Kamm	Dachs	NONE	14
-Saft	Wein	CAT+ASS	12
-Nest	Schuh	NONE	12
-Pferd	Pferd	IDEN	16
-Schnee	Kaffee	PHON	12
-Flasche	Tasche	PHON	11
-Fisch	Fisch	IDEN	13
-Topf	Knopf	PHON	11
-Puppe	Suppe	PHON	13
-Tee	Tee	IDEN	11
-Kuh	Schuh	PHON	13
-Schornstein	Schwein	PHON	16
-Kaffee	Kaffee	IDEN	13
-Huhn	Strassenbahn	NONE	12
-Zelt	Wein	NONE	13
-Knopf	Knopf	IDEN	12
-Rakete	Rakete	IDEN	11
-Ballon	Flugzeug	CAT+ASS	15
-Kuh	Schuh	PHON	14
-Tasche	Tasche	IDEN	12
-Fussball	Traube	NONE	13
-Brot	Fisch	NONE	14
-Schnee	Kaffee	PHON	14
-Hose	Hose	IDEN	13
-Gras	Knopf	NONE	13
-Elefant	Rakete	NONE	12
-Bus	Strassenbahn	CAT+ASS	13
-Tasche	Tasche	IDEN	13
-Traube	Traube	IDEN	14
-Eis	Reis	PHON	14
-Wein	Wein	IDEN	14
-Hut	Kaffee	NONE	15
-Gurke	Wal	NONE	15
-Hubschrauber	Rakete	CAT+ASS	13
-Strassenbahn	Strassenbahn	IDEN	14
-Hose	Hose	IDEN	14
-Fussball	Traube	NONE	15
-Pelikan	Kartoffel	NONE	15
-Hund	Fisch	CAT+ASS	15
-Bier	Tee	CAT+ASS	12
-Nest	Schuh	NONE	15
-Elefant	Rakete	NONE	14
-Schwan	Strassenbahn	PHON	15
-Dachs	Dachs	IDEN	15
-Fahrrad	Hose	NONE	15
-Flasche	Tasche	PHON	14
-Knopf	Knopf	IDEN	14
-Bier	Tee	CAT+ASS	13
-Hammer	Suppe	NONE	14
-Kleid	Schuh	CAT+ASS	16
-Rakete	Rakete	IDEN	15
-Lauch	Lauch	IDEN	16
-Schnee	Kaffee	PHON	16
-Eis	Reis	PHON	15
-Tasche	Tasche	IDEN	15
-Klee	Tee	PHON	14
-Dachs	Dachs	IDEN	16
-Hemd	Knopf	CAT+ASS	15
-Fussball	Traube	NONE	16
-Tapete	Rakete	PHON	16
-Suppe	Suppe	IDEN	15
-Pantoffel	Kartoffel	PHON	16
-Flugzeug	Flugzeug	IDEN	16
-Löffel	Tasche	NONE	16
-Saft	Wein	CAT+ASS	15
-Tee	Tee	IDEN	15
-Tisch	Fisch	PHON	16
-Reis	Reis	IDEN	16
-Wal	Wal	IDEN	16
-Rose	Hose	PHON	16
-Knopf	Knopf	IDEN	16
-Schwan	Strassenbahn	PHON	16
-Bein	Wein	PHON	16
-Suppe	Suppe	IDEN	16
-Maus	Tee	NONE	16
+Cue,Target,Condition,Occurence
+Tee,Tee,IDEN,1
+Pedal,Wal,PHON,1
+Affe,Flugzeug,NONE,1
+Kuh,Schuh,PHON,1
+Rose,Hose,PHON,1
+Zwiebel,Suppe,CAT+ASS,1
+Hund,Fisch,CAT+ASS,1
+Gras,Knopf,NONE,1
+Schiff,Lauch,NONE,1
+Schwert,Pferd,PHON,1
+Klee,Tee,PHON,2
+Schnitzel,Kartoffel,CAT+ASS,1
+Bus,Strassenbahn,CAT+ASS,1
+Eis,Reis,PHON,1
+Zwiebel,Suppe,CAT+ASS,2
+Hubschrauber,Rakete,CAT+ASS,1
+Schornstein,Schwein,PHON,1
+Pferd,Pferd,IDEN,2
+Milch,Kaffee,CAT+ASS,1
+Hund,Fisch,CAT+ASS,2
+Gras,Knopf,NONE,2
+Zelt,Wein,NONE,1
+Pantoffel,Kartoffel,PHON,2
+Schiff,Lauch,NONE,2
+Schwein,Schwein,IDEN,2
+Schwert,Pferd,PHON,3
+Anzug,Hose,CAT+ASS,2
+Brot,Fisch,NONE,3
+Wal,Wal,IDEN,2
+Mehl,Reis,CAT+ASS,2
+Hubschrauber,Rakete,CAT+ASS,2
+Schiff,Lauch,NONE,3
+Flugzeug,Flugzeug,IDEN,2
+Klee,Tee,PHON,3
+Stiefel,Tasche,CAT+ASS,1
+Hund,Fisch,CAT+ASS,4
+Pantoffel,Kartoffel,PHON,3
+Milch,Kaffee,CAT+ASS,2
+Hirsch,Pferd,CAT+ASS,4
+Kamm,Dachs,NONE,1
+Ballon,Flugzeug,CAT+ASS,3
+Huhn,Strassenbahn,NONE,2
+Wal,Wal,IDEN,3
+Tisch,Fisch,PHON,5
+Lauch,Lauch,IDEN,4
+Kaffee,Kaffee,IDEN,3
+Löffel,Tasche,NONE,2
+Kamm,Dachs,NONE,2
+Schuh,Schuh,IDEN,2
+Pelikan,Kartoffel,NONE,4
+Flugzeug,Flugzeug,IDEN,4
+Fisch,Fisch,IDEN,6
+Kohl,Lauch,CAT+ASS,5
+Schnee,Kaffee,PHON,4
+Pfanne,Schwein,NONE,3
+Tapete,Rakete,PHON,3
+Löffel,Tasche,NONE,3
+Pelikan,Kartoffel,NONE,5
+Bier,Tee,CAT+ASS,4
+Fisch,Fisch,IDEN,7
+Lauch,Lauch,IDEN,6
+Milch,Kaffee,CAT+ASS,5
+Kleid,Schuh,CAT+ASS,3
+Schwein,Schwein,IDEN,4
+Wein,Wein,IDEN,2
+Schnitzel,Kartoffel,CAT+ASS,6
+Fahrrad,Hose,NONE,3
+Brot,Fisch,NONE,8
+Suppe,Suppe,IDEN,3
+Kaffee,Kaffee,IDEN,6
+Schiff,Lauch,NONE,7
+Wachs,Dachs,PHON,3
+Tapete,Rakete,PHON,4
+Ballon,Flugzeug,CAT+ASS,5
+Anzug,Hose,CAT+ASS,4
+Tisch,Fisch,PHON,9
+Hammer,Suppe,NONE,4
+Pedal,Wal,PHON,4
+Pelikan,Kartoffel,NONE,7
+Mehl,Reis,CAT+ASS,3
+Lauch,Lauch,IDEN,8
+Hemd,Knopf,CAT+ASS,3
+Klee,Tee,PHON,5
+Löffel,Tasche,NONE,4
+Baer,Dachs,CAT+ASS,4
+Gurke,Wal,NONE,5
+Kartoffel,Kartoffel,IDEN,8
+Traube,Traube,IDEN,1
+Bauch,Lauch,PHON,9
+Eis,Reis,PHON,4
+Ziege,Schwein,CAT+ASS,5
+Schwan,Strassenbahn,PHON,3
+Tapete,Rakete,PHON,5
+Gurke,Wal,NONE,6
+Affe,Flugzeug,NONE,6
+Schraube,Traube,PHON,2
+Bauch,Lauch,PHON,10
+Kleid,Schuh,CAT+ASS,4
+Hirsch,Pferd,CAT+ASS,5
+Schwan,Strassenbahn,PHON,4
+Kartoffel,Kartoffel,IDEN,9
+Otter,Wal,CAT+ASS,7
+Bein,Wein,PHON,3
+Apfel,Traube,CAT+ASS,3
+Kohl,Lauch,CAT+ASS,11
+Reis,Reis,IDEN,5
+Fahrrad,Hose,NONE,5
+Strassenbahn,Strassenbahn,IDEN,5
+Elefant,Rakete,NONE,6
+Nest,Schuh,NONE,5
+Wachs,Dachs,PHON,5
+Apfel,Traube,CAT+ASS,4
+Zelt,Wein,NONE,4
+Kohl,Lauch,CAT+ASS,12
+Rose,Hose,PHON,6
+Pedal,Wal,PHON,8
+Gras,Knopf,NONE,4
+Nest,Schuh,NONE,6
+Tasche,Tasche,IDEN,5
+Kartoffel,Kartoffel,IDEN,10
+Bus,Strassenbahn,CAT+ASS,6
+Bauch,Lauch,PHON,13
+Anzug,Hose,CAT+ASS,7
+Otter,Wal,CAT+ASS,9
+Pfanne,Schwein,NONE,6
+Saft,Wein,CAT+ASS,5
+Ballon,Flugzeug,CAT+ASS,7
+Traube,Traube,IDEN,5
+Huhn,Strassenbahn,NONE,7
+Knopf,Knopf,IDEN,5
+Hose,Hose,IDEN,8
+Pedal,Wal,PHON,10
+Schwert,Pferd,PHON,6
+Maus,Tee,NONE,6
+Ziege,Schwein,CAT+ASS,7
+Baer,Dachs,CAT+ASS,6
+Strassenbahn,Strassenbahn,IDEN,8
+Mehl,Reis,CAT+ASS,6
+Fahrrad,Hose,NONE,9
+Gurke,Wal,NONE,11
+Schraube,Traube,PHON,6
+Bier,Tee,CAT+ASS,7
+Bein,Wein,PHON,6
+Elefant,Rakete,NONE,7
+Huhn,Strassenbahn,NONE,9
+Dachs,Dachs,IDEN,7
+Affe,Flugzeug,NONE,8
+Otter,Wal,CAT+ASS,12
+Zahn,Pferd,NONE,7
+Maus,Tee,NONE,8
+Fisch,Fisch,IDEN,10
+Rakete,Rakete,IDEN,8
+Schnitzel,Kartoffel,CAT+ASS,11
+Schwein,Schwein,IDEN,8
+Schlagzeug,Flugzeug,PHON,9
+Otter,Wal,CAT+ASS,13
+Kleid,Schuh,CAT+ASS,7
+Tee,Tee,IDEN,9
+Traube,Traube,IDEN,7
+Hubschrauber,Rakete,CAT+ASS,9
+Kartoffel,Kartoffel,IDEN,12
+Suppe,Suppe,IDEN,5
+Ziege,Schwein,CAT+ASS,9
+Strassenbahn,Strassenbahn,IDEN,10
+Wal,Wal,IDEN,14
+Kuh,Schuh,PHON,8
+Kaffee,Kaffee,IDEN,7
+Rakete,Rakete,IDEN,10
+Kamm,Dachs,NONE,8
+Schlagzeug,Flugzeug,PHON,10
+Schornstein,Schwein,PHON,10
+Maus,Tee,NONE,10
+Bein,Wein,PHON,7
+Mehl,Reis,CAT+ASS,7
+Schraube,Traube,PHON,8
+Puppe,Suppe,PHON,6
+Milch,Kaffee,CAT+ASS,8
+Schlagzeug,Flugzeug,PHON,11
+Ziege,Schwein,CAT+ASS,11
+Zahn,Pferd,NONE,8
+Pantoffel,Kartoffel,PHON,13
+Horn,Reis,NONE,8
+Apfel,Traube,CAT+ASS,9
+Zwiebel,Suppe,CAT+ASS,7
+Topf,Knopf,PHON,6
+Affe,Flugzeug,NONE,12
+Baer,Dachs,CAT+ASS,9
+Hirsch,Pferd,CAT+ASS,9
+Brot,Fisch,NONE,11
+Reis,Reis,IDEN,9
+Schnitzel,Kartoffel,CAT+ASS,14
+Hammer,Suppe,NONE,8
+Topf,Knopf,PHON,7
+Schlagzeug,Flugzeug,PHON,13
+Baer,Dachs,CAT+ASS,10
+Schwert,Pferd,PHON,10
+Hut,Kaffee,NONE,9
+Horn,Reis,NONE,10
+Saft,Wein,CAT+ASS,8
+Puppe,Suppe,PHON,9
+Hemd,Knopf,CAT+ASS,8
+Flasche,Tasche,PHON,6
+Pfanne,Schwein,NONE,12
+Pferd,Pferd,IDEN,11
+Hut,Kaffee,NONE,10
+Horn,Reis,NONE,11
+Tisch,Fisch,PHON,12
+Wachs,Dachs,PHON,11
+Zwiebel,Suppe,CAT+ASS,10
+Wein,Wein,IDEN,9
+Schornstein,Schwein,PHON,13
+Pferd,Pferd,IDEN,12
+Kohl,Lauch,CAT+ASS,14
+Stiefel,Tasche,CAT+ASS,7
+Reis,Reis,IDEN,12
+Anzug,Hose,CAT+ASS,10
+Hammer,Suppe,NONE,11
+Schuh,Schuh,IDEN,9
+Zelt,Wein,NONE,10
+Zahn,Pferd,NONE,13
+Wachs,Dachs,PHON,12
+Flasche,Tasche,PHON,8
+Horn,Reis,NONE,13
+Rose,Hose,PHON,11
+Puppe,Suppe,PHON,12
+Pfanne,Schwein,NONE,14
+Bus,Strassenbahn,CAT+ASS,11
+Apfel,Traube,CAT+ASS,10
+Dachs,Dachs,IDEN,13
+Stiefel,Tasche,CAT+ASS,9
+Schuh,Schuh,IDEN,10
+Hose,Hose,IDEN,12
+Zahn,Pferd,NONE,14
+Schwein,Schwein,IDEN,15
+Bauch,Lauch,PHON,15
+Fussball,Traube,NONE,11
+Hemd,Knopf,CAT+ASS,9
+Wein,Wein,IDEN,11
+Schuh,Schuh,IDEN,11
+Hut,Kaffee,NONE,11
+Hirsch,Pferd,CAT+ASS,15
+Flugzeug,Flugzeug,IDEN,14
+Stiefel,Tasche,CAT+ASS,10
+Schraube,Traube,PHON,12
+Topf,Knopf,PHON,10
+Kamm,Dachs,NONE,14
+Saft,Wein,CAT+ASS,12
+Nest,Schuh,NONE,12
+Pferd,Pferd,IDEN,16
+Schnee,Kaffee,PHON,12
+Flasche,Tasche,PHON,11
+Fisch,Fisch,IDEN,13
+Topf,Knopf,PHON,11
+Puppe,Suppe,PHON,13
+Tee,Tee,IDEN,11
+Kuh,Schuh,PHON,13
+Schornstein,Schwein,PHON,16
+Kaffee,Kaffee,IDEN,13
+Huhn,Strassenbahn,NONE,12
+Zelt,Wein,NONE,13
+Knopf,Knopf,IDEN,12
+Rakete,Rakete,IDEN,11
+Ballon,Flugzeug,CAT+ASS,15
+Kuh,Schuh,PHON,14
+Tasche,Tasche,IDEN,12
+Fussball,Traube,NONE,13
+Brot,Fisch,NONE,14
+Schnee,Kaffee,PHON,14
+Hose,Hose,IDEN,13
+Gras,Knopf,NONE,13
+Elefant,Rakete,NONE,12
+Bus,Strassenbahn,CAT+ASS,13
+Tasche,Tasche,IDEN,13
+Traube,Traube,IDEN,14
+Eis,Reis,PHON,14
+Wein,Wein,IDEN,14
+Hut,Kaffee,NONE,15
+Gurke,Wal,NONE,15
+Hubschrauber,Rakete,CAT+ASS,13
+Strassenbahn,Strassenbahn,IDEN,14
+Hose,Hose,IDEN,14
+Fussball,Traube,NONE,15
+Pelikan,Kartoffel,NONE,15
+Hund,Fisch,CAT+ASS,15
+Bier,Tee,CAT+ASS,12
+Nest,Schuh,NONE,15
+Elefant,Rakete,NONE,14
+Schwan,Strassenbahn,PHON,15
+Dachs,Dachs,IDEN,15
+Fahrrad,Hose,NONE,15
+Flasche,Tasche,PHON,14
+Knopf,Knopf,IDEN,14
+Bier,Tee,CAT+ASS,13
+Hammer,Suppe,NONE,14
+Kleid,Schuh,CAT+ASS,16
+Rakete,Rakete,IDEN,15
+Lauch,Lauch,IDEN,16
+Schnee,Kaffee,PHON,16
+Eis,Reis,PHON,15
+Tasche,Tasche,IDEN,15
+Klee,Tee,PHON,14
+Dachs,Dachs,IDEN,16
+Hemd,Knopf,CAT+ASS,15
+Fussball,Traube,NONE,16
+Tapete,Rakete,PHON,16
+Suppe,Suppe,IDEN,15
+Pantoffel,Kartoffel,PHON,16
+Flugzeug,Flugzeug,IDEN,16
+Löffel,Tasche,NONE,16
+Saft,Wein,CAT+ASS,15
+Tee,Tee,IDEN,15
+Tisch,Fisch,PHON,16
+Reis,Reis,IDEN,16
+Wal,Wal,IDEN,16
+Rose,Hose,PHON,16
+Knopf,Knopf,IDEN,16
+Schwan,Strassenbahn,PHON,16
+Bein,Wein,PHON,16
+Suppe,Suppe,IDEN,16
+Maus,Tee,NONE,16

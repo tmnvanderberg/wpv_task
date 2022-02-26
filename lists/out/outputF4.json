@@ -1,1916 +1,1922 @@
 [
     {
-        "Ziege": "Hubschrauber",
-        "Schwein": "Rakete",
-        "CAT+ASS": "CAT+ASS",
-        "1": "1"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Schraube",
-        "Schwein": "Traube",
-        "CAT+ASS": "PHON",
-        "1": "1"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Flugzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "IDEN",
-        "1": "1"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Lauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "IDEN",
-        "1": "1"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Huhn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "NONE",
-        "1": "1"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Rose",
-        "Schwein": "Hose",
-        "CAT+ASS": "PHON",
-        "1": "1"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Reis",
-        "Schwein": "Reis",
-        "CAT+ASS": "IDEN",
-        "1": "1"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Brot",
-        "Schwein": "Fisch",
-        "CAT+ASS": "NONE",
-        "1": "1"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Baer",
-        "Schwein": "Dachs",
-        "CAT+ASS": "CAT+ASS",
-        "1": "1"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Bier",
-        "Schwein": "Tee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "1"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Schwein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "IDEN",
-        "1": "2"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Pferd",
-        "Schwein": "Pferd",
-        "CAT+ASS": "IDEN",
-        "1": "1"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Schiff",
-        "Schwein": "Lauch",
-        "CAT+ASS": "NONE",
-        "1": "2"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Anzug",
-        "Schwein": "Hose",
-        "CAT+ASS": "CAT+ASS",
-        "1": "2"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Gras",
-        "Schwein": "Knopf",
-        "CAT+ASS": "NONE",
-        "1": "1"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Tisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "PHON",
-        "1": "2"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Kamm",
-        "Schwein": "Dachs",
-        "CAT+ASS": "NONE",
-        "1": "2"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Bus",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "CAT+ASS",
-        "1": "2"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Milch",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "1"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Schwert",
-        "Schwein": "Pferd",
-        "CAT+ASS": "PHON",
-        "1": "2"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "L\u00f6ffel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "NONE",
-        "1": "1"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Hose",
-        "Schwein": "Hose",
-        "CAT+ASS": "IDEN",
-        "1": "3"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Zwiebel",
-        "Schwein": "Suppe",
-        "CAT+ASS": "CAT+ASS",
-        "1": "1"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Bein",
-        "Schwein": "Wein",
-        "CAT+ASS": "PHON",
-        "1": "1"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Flugzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "IDEN",
-        "1": "2"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Bier",
-        "Schwein": "Tee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "2"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Hemd",
-        "Schwein": "Knopf",
-        "CAT+ASS": "CAT+ASS",
-        "1": "2"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Schwert",
-        "Schwein": "Pferd",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Elefant",
-        "Schwein": "Rakete",
-        "CAT+ASS": "NONE",
-        "1": "2"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Kamm",
-        "Schwein": "Dachs",
-        "CAT+ASS": "NONE",
-        "1": "3"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Puppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "PHON",
-        "1": "2"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Wein",
-        "Schwein": "Wein",
-        "CAT+ASS": "IDEN",
-        "1": "2"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Schlagzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Klee",
-        "Schwein": "Tee",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Strassenbahn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "IDEN",
-        "1": "3"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Knopf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "IDEN",
-        "1": "3"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Schnitzel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "CAT+ASS",
-        "1": "1"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Rakete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "IDEN",
-        "1": "3"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Hammer",
-        "Schwein": "Suppe",
-        "CAT+ASS": "NONE",
-        "1": "3"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Fahrrad",
-        "Schwein": "Hose",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Flasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "PHON",
-        "1": "2"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Tee",
-        "Schwein": "Tee",
-        "CAT+ASS": "IDEN",
-        "1": "4"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Schwan",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "PHON",
-        "1": "4"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Zelt",
-        "Schwein": "Wein",
-        "CAT+ASS": "NONE",
-        "1": "3"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Gras",
-        "Schwein": "Knopf",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Kaffee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "IDEN",
-        "1": "2"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Puppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "PHON",
-        "1": "4"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Bauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Wal",
-        "Schwein": "Wal",
-        "CAT+ASS": "IDEN",
-        "1": "1"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Schlagzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "PHON",
-        "1": "4"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Bus",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "CAT+ASS",
-        "1": "5"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Wachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "PHON",
-        "1": "4"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Saft",
-        "Schwein": "Wein",
-        "CAT+ASS": "CAT+ASS",
-        "1": "4"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Hut",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "NONE",
-        "1": "3"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Ziege": "L\u00f6ffel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "NONE",
-        "1": "3"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Fisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "IDEN",
-        "1": "3"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Schiff",
-        "Schwein": "Lauch",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Elefant",
-        "Schwein": "Rakete",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Ballon",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "CAT+ASS",
-        "1": "5"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Hirsch",
-        "Schwein": "Pferd",
-        "CAT+ASS": "CAT+ASS",
-        "1": "4"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Puppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Schnee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "PHON",
-        "1": "4"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "L\u00f6ffel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Schnitzel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "CAT+ASS",
-        "1": "2"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Wachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Tapete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Ballon",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "CAT+ASS",
-        "1": "6"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Bauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Suppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Schnee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Tisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "PHON",
-        "1": "4"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Maus",
-        "Schwein": "Tee",
-        "CAT+ASS": "NONE",
-        "1": "5"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Pantoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Baer",
-        "Schwein": "Dachs",
-        "CAT+ASS": "CAT+ASS",
-        "1": "6"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Ballon",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "CAT+ASS",
-        "1": "7"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Schwert",
-        "Schwein": "Pferd",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Zwiebel",
-        "Schwein": "Suppe",
-        "CAT+ASS": "CAT+ASS",
-        "1": "7"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Rakete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Hose",
-        "Schwein": "Hose",
-        "CAT+ASS": "IDEN",
-        "1": "5"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Mehl",
-        "Schwein": "Reis",
-        "CAT+ASS": "CAT+ASS",
-        "1": "2"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Topf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Schornstein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Affe",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Zahn",
-        "Schwein": "Pferd",
-        "CAT+ASS": "NONE",
-        "1": "6"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Tisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Kaffee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Kartoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "IDEN",
-        "1": "4"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Eis",
-        "Schwein": "Reis",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Hemd",
-        "Schwein": "Knopf",
-        "CAT+ASS": "CAT+ASS",
-        "1": "6"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Wein",
-        "Schwein": "Wein",
-        "CAT+ASS": "IDEN",
-        "1": "5"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Tapete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "PHON",
-        "1": "7"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Bier",
-        "Schwein": "Tee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "6"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Fisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Hut",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "NONE",
-        "1": "7"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Kartoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "IDEN",
-        "1": "5"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Eis",
-        "Schwein": "Reis",
-        "CAT+ASS": "PHON",
-        "1": "4"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Gurke",
-        "Schwein": "Wal",
-        "CAT+ASS": "NONE",
-        "1": "2"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Fussball",
-        "Schwein": "Traube",
-        "CAT+ASS": "NONE",
-        "1": "2"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Schwert",
-        "Schwein": "Pferd",
-        "CAT+ASS": "PHON",
-        "1": "7"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Kleid",
-        "Schwein": "Schuh",
-        "CAT+ASS": "CAT+ASS",
-        "1": "1"
+        "Cue": "Schwert",
+        "Target": "Pferd",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Brot",
-        "Schwein": "Fisch",
-        "CAT+ASS": "NONE",
-        "1": "7"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "1"
     },
     {
-        "Ziege": "Elefant",
-        "Schwein": "Rakete",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Schnitzel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "CAT+ASS",
-        "1": "6"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Pfanne",
-        "Schwein": "Schwein",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Otter",
-        "Schwein": "Wal",
-        "CAT+ASS": "CAT+ASS",
-        "1": "3"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Schraube",
-        "Schwein": "Traube",
-        "CAT+ASS": "PHON",
-        "1": "3"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Milch",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "8"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Kleid",
-        "Schwein": "Schuh",
-        "CAT+ASS": "CAT+ASS",
-        "1": "2"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Schiff",
-        "Schwein": "Lauch",
-        "CAT+ASS": "NONE",
-        "1": "6"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "2"
     },
     {
-        "Ziege": "Rose",
-        "Schwein": "Hose",
-        "CAT+ASS": "PHON",
-        "1": "6"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Tasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "IDEN",
-        "1": "5"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Ziege",
-        "Schwein": "Schwein",
-        "CAT+ASS": "CAT+ASS",
-        "1": "5"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Saft",
-        "Schwein": "Wein",
-        "CAT+ASS": "CAT+ASS",
-        "1": "6"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Traube",
-        "Schwein": "Traube",
-        "CAT+ASS": "IDEN",
-        "1": "4"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Tapete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "PHON",
-        "1": "9"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Schuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "IDEN",
-        "1": "3"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Klee",
-        "Schwein": "Tee",
-        "CAT+ASS": "PHON",
-        "1": "7"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "3"
     },
     {
-        "Ziege": "Schwan",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "PHON",
-        "1": "6"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Hemd",
-        "Schwein": "Knopf",
-        "CAT+ASS": "CAT+ASS",
-        "1": "7"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Pfanne",
-        "Schwein": "Schwein",
-        "CAT+ASS": "NONE",
-        "1": "6"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Wein",
-        "Schwein": "Wein",
-        "CAT+ASS": "IDEN",
-        "1": "7"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Wachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "PHON",
-        "1": "7"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Kartoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "IDEN",
-        "1": "7"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Nest",
-        "Schwein": "Schuh",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Tasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Schwan",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "PHON",
-        "1": "7"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Hubschrauber",
-        "Schwein": "Rakete",
-        "CAT+ASS": "CAT+ASS",
-        "1": "10"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Apfel",
-        "Schwein": "Traube",
-        "CAT+ASS": "CAT+ASS",
-        "1": "5"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Bein",
-        "Schwein": "Wein",
-        "CAT+ASS": "PHON",
-        "1": "8"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Pferd",
-        "Schwein": "Pferd",
-        "CAT+ASS": "IDEN",
-        "1": "8"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Schwein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "IDEN",
-        "1": "7"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Kuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Hammer",
-        "Schwein": "Suppe",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Brot",
-        "Schwein": "Fisch",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Reis",
-        "Schwein": "Reis",
-        "CAT+ASS": "IDEN",
-        "1": "5"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Maus",
-        "Schwein": "Tee",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Baer",
-        "Schwein": "Dachs",
-        "CAT+ASS": "CAT+ASS",
-        "1": "8"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Hirsch",
-        "Schwein": "Pferd",
-        "CAT+ASS": "CAT+ASS",
-        "1": "9"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Huhn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Schuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Knopf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "IDEN",
-        "1": "8"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Hund",
-        "Schwein": "Fisch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "9"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Suppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "IDEN",
-        "1": "9"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Reis",
-        "Schwein": "Reis",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Wachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "PHON",
-        "1": "9"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Lauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "IDEN",
-        "1": "7"
+        "Cue": "Wachs",
+        "Target": "Dachs",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Gurke",
-        "Schwein": "Wal",
-        "CAT+ASS": "NONE",
-        "1": "4"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Zahn",
-        "Schwein": "Pferd",
-        "CAT+ASS": "NONE",
-        "1": "10"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "4"
     },
     {
-        "Ziege": "Rakete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "IDEN",
-        "1": "11"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Zelt",
-        "Schwein": "Wein",
-        "CAT+ASS": "NONE",
-        "1": "9"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Fussball",
-        "Schwein": "Traube",
-        "CAT+ASS": "NONE",
-        "1": "6"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Eis",
-        "Schwein": "Reis",
-        "CAT+ASS": "PHON",
-        "1": "7"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Dachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Stiefel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "CAT+ASS",
-        "1": "7"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Kaffee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "IDEN",
-        "1": "9"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Hirsch",
-        "Schwein": "Pferd",
-        "CAT+ASS": "CAT+ASS",
-        "1": "11"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Huhn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "NONE",
-        "1": "9"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Bein",
-        "Schwein": "Wein",
-        "CAT+ASS": "PHON",
-        "1": "10"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Traube",
-        "Schwein": "Traube",
-        "CAT+ASS": "IDEN",
-        "1": "7"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Horn",
-        "Schwein": "Reis",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Pelikan",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "NONE",
-        "1": "8"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Kleid",
-        "Schwein": "Schuh",
-        "CAT+ASS": "CAT+ASS",
-        "1": "7"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Klee",
-        "Schwein": "Tee",
-        "CAT+ASS": "PHON",
-        "1": "9"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Schornstein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "PHON",
-        "1": "8"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Gras",
-        "Schwein": "Knopf",
-        "CAT+ASS": "NONE",
-        "1": "9"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Elefant",
-        "Schwein": "Rakete",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Pedal",
-        "Schwein": "Wal",
-        "CAT+ASS": "PHON",
-        "1": "5"
+        "Cue": "Elefant",
+        "Target": "Rakete",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Anzug",
-        "Schwein": "Hose",
-        "CAT+ASS": "CAT+ASS",
-        "1": "7"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "5"
     },
     {
-        "Ziege": "Hut",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "NONE",
-        "1": "10"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Apfel",
-        "Schwein": "Traube",
-        "CAT+ASS": "CAT+ASS",
-        "1": "8"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Tee",
-        "Schwein": "Tee",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Pfanne",
-        "Schwein": "Schwein",
-        "CAT+ASS": "NONE",
-        "1": "9"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Kamm",
-        "Schwein": "Dachs",
-        "CAT+ASS": "NONE",
-        "1": "11"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Lauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "IDEN",
-        "1": "8"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Wal",
-        "Schwein": "Wal",
-        "CAT+ASS": "IDEN",
-        "1": "6"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Horn",
-        "Schwein": "Reis",
-        "CAT+ASS": "NONE",
-        "1": "9"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "6"
     },
     {
-        "Ziege": "Kaffee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "IDEN",
-        "1": "11"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Traube",
-        "Schwein": "Traube",
-        "CAT+ASS": "IDEN",
-        "1": "9"
+        "Cue": "Kaffee",
+        "Target": "Kaffee",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Saft",
-        "Schwein": "Wein",
-        "CAT+ASS": "CAT+ASS",
-        "1": "11"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Ziege",
-        "Schwein": "Schwein",
-        "CAT+ASS": "CAT+ASS",
-        "1": "10"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Topf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "PHON",
-        "1": "10"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Dachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "IDEN",
-        "1": "12"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Wal",
-        "Schwein": "Wal",
-        "CAT+ASS": "IDEN",
-        "1": "7"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Mehl",
-        "Schwein": "Reis",
-        "CAT+ASS": "CAT+ASS",
-        "1": "10"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "7"
     },
     {
-        "Ziege": "Tasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "IDEN",
-        "1": "8"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Kleid",
-        "Schwein": "Schuh",
-        "CAT+ASS": "CAT+ASS",
-        "1": "8"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Strassenbahn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Kleid",
+        "Target": "Schuh",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Suppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Rose",
-        "Schwein": "Hose",
-        "CAT+ASS": "PHON",
-        "1": "8"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Schornstein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "PHON",
-        "1": "11"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Otter",
-        "Schwein": "Wal",
-        "CAT+ASS": "CAT+ASS",
-        "1": "8"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Kohl",
-        "Schwein": "Lauch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "9"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "8"
     },
     {
-        "Ziege": "Zahn",
-        "Schwein": "Pferd",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Stiefel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "CAT+ASS",
-        "1": "9"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Bus",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "CAT+ASS",
-        "1": "11"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Kuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "PHON",
-        "1": "9"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Milch",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "12"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Schwein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "IDEN",
-        "1": "12"
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Gurke",
-        "Schwein": "Wal",
-        "CAT+ASS": "NONE",
-        "1": "9"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Hemd",
-        "Schwein": "Knopf",
-        "CAT+ASS": "CAT+ASS",
-        "1": "11"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Hund",
-        "Schwein": "Fisch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "10"
+        "Cue": "Hemd",
+        "Target": "Knopf",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Pantoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "PHON",
-        "1": "9"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Stiefel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "CAT+ASS",
-        "1": "10"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Ballon",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "CAT+ASS",
-        "1": "9"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Kuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "PHON",
-        "1": "10"
+        "Cue": "Ballon",
+        "Target": "Flugzeug",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Eis",
-        "Schwein": "Reis",
-        "CAT+ASS": "PHON",
-        "1": "11"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Wal",
-        "Schwein": "Wal",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Eis",
+        "Target": "Reis",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Anzug",
-        "Schwein": "Hose",
-        "CAT+ASS": "CAT+ASS",
-        "1": "9"
+        "Cue": "Wal",
+        "Target": "Wal",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Schnee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "PHON",
-        "1": "13"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "9"
     },
     {
-        "Ziege": "Kartoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Stiefel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "CAT+ASS",
-        "1": "11"
+        "Cue": "Kartoffel",
+        "Target": "Kartoffel",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Strassenbahn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "IDEN",
-        "1": "12"
+        "Cue": "Stiefel",
+        "Target": "Tasche",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Flugzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Klee",
-        "Schwein": "Tee",
-        "CAT+ASS": "PHON",
-        "1": "11"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Pedal",
-        "Schwein": "Wal",
-        "CAT+ASS": "PHON",
-        "1": "11"
+        "Cue": "Klee",
+        "Target": "Tee",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Hose",
-        "Schwein": "Hose",
-        "CAT+ASS": "IDEN",
-        "1": "10"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Hund",
-        "Schwein": "Fisch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "11"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Hammer",
-        "Schwein": "Suppe",
-        "CAT+ASS": "NONE",
-        "1": "11"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Zahn",
-        "Schwein": "Pferd",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Kohl",
-        "Schwein": "Lauch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "10"
+        "Cue": "Zahn",
+        "Target": "Pferd",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Schlagzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "PHON",
-        "1": "11"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Apfel",
-        "Schwein": "Traube",
-        "CAT+ASS": "CAT+ASS",
-        "1": "10"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Pedal",
-        "Schwein": "Wal",
-        "CAT+ASS": "PHON",
-        "1": "12"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "10"
     },
     {
-        "Ziege": "Rose",
-        "Schwein": "Hose",
-        "CAT+ASS": "PHON",
-        "1": "11"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Gras",
-        "Schwein": "Knopf",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Rose",
+        "Target": "Hose",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Dachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "IDEN",
-        "1": "13"
+        "Cue": "Gras",
+        "Target": "Knopf",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Pferd",
-        "Schwein": "Pferd",
-        "CAT+ASS": "IDEN",
-        "1": "14"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Kohl",
-        "Schwein": "Lauch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "11"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Flugzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "IDEN",
-        "1": "12"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Pelikan",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "NONE",
-        "1": "11"
+        "Cue": "Flugzeug",
+        "Target": "Flugzeug",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Zelt",
-        "Schwein": "Wein",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Flasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "PHON",
-        "1": "12"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Otter",
-        "Schwein": "Wal",
-        "CAT+ASS": "CAT+ASS",
-        "1": "13"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Schuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "IDEN",
-        "1": "11"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Kamm",
-        "Schwein": "Dachs",
-        "CAT+ASS": "NONE",
-        "1": "14"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Schiff",
-        "Schwein": "Lauch",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Kamm",
+        "Target": "Dachs",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Fisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "IDEN",
-        "1": "12"
+        "Cue": "Schiff",
+        "Target": "Lauch",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Hammer",
-        "Schwein": "Suppe",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Pfanne",
-        "Schwein": "Schwein",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Hammer",
+        "Target": "Suppe",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Schraube",
-        "Schwein": "Traube",
-        "CAT+ASS": "PHON",
-        "1": "11"
+        "Cue": "Pfanne",
+        "Target": "Schwein",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Pedal",
-        "Schwein": "Wal",
-        "CAT+ASS": "PHON",
-        "1": "14"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "11"
     },
     {
-        "Ziege": "Nest",
-        "Schwein": "Schuh",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Pedal",
+        "Target": "Wal",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Affe",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Lauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "IDEN",
-        "1": "13"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Brot",
-        "Schwein": "Fisch",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Lauch",
+        "Target": "Lauch",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Tasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "IDEN",
-        "1": "13"
+        "Cue": "Brot",
+        "Target": "Fisch",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Dachs",
-        "Schwein": "Dachs",
-        "CAT+ASS": "IDEN",
-        "1": "15"
+        "Cue": "Tasche",
+        "Target": "Tasche",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Horn",
-        "Schwein": "Reis",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Dachs",
+        "Target": "Dachs",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Tee",
-        "Schwein": "Tee",
-        "CAT+ASS": "IDEN",
-        "1": "12"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Schnee",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "PHON",
-        "1": "14"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Topf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "PHON",
-        "1": "13"
+        "Cue": "Schnee",
+        "Target": "Kaffee",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Hubschrauber",
-        "Schwein": "Rakete",
-        "CAT+ASS": "CAT+ASS",
-        "1": "13"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Hund",
-        "Schwein": "Fisch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "14"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Zelt",
-        "Schwein": "Wein",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Hund",
+        "Target": "Fisch",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Pantoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "PHON",
-        "1": "12"
+        "Cue": "Zelt",
+        "Target": "Wein",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Puppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "PHON",
-        "1": "13"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Maus",
-        "Schwein": "Tee",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Puppe",
+        "Target": "Suppe",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Reis",
-        "Schwein": "Reis",
-        "CAT+ASS": "IDEN",
-        "1": "13"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Topf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "PHON",
-        "1": "14"
+        "Cue": "Reis",
+        "Target": "Reis",
+        "Condition": "IDEN",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Tapete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "PHON",
-        "1": "14"
+        "Cue": "Topf",
+        "Target": "Knopf",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Hirsch",
-        "Schwein": "Pferd",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Tapete",
+        "Target": "Rakete",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Fahrrad",
-        "Schwein": "Hose",
-        "CAT+ASS": "NONE",
-        "1": "12"
+        "Cue": "Hirsch",
+        "Target": "Pferd",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Tisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "PHON",
-        "1": "15"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Bein",
-        "Schwein": "Wein",
-        "CAT+ASS": "PHON",
-        "1": "14"
+        "Cue": "Tisch",
+        "Target": "Fisch",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Pelikan",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Bein",
+        "Target": "Wein",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Schwan",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "PHON",
-        "1": "13"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Schraube",
-        "Schwein": "Traube",
-        "CAT+ASS": "PHON",
-        "1": "12"
+        "Cue": "Schwan",
+        "Target": "Strassenbahn",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Mehl",
-        "Schwein": "Reis",
-        "CAT+ASS": "CAT+ASS",
-        "1": "14"
+        "Cue": "Schraube",
+        "Target": "Traube",
+        "Condition": "PHON",
+        "Occurence": "12"
     },
     {
-        "Ziege": "Gurke",
-        "Schwein": "Wal",
-        "CAT+ASS": "NONE",
-        "1": "15"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Kuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "PHON",
-        "1": "13"
+        "Cue": "Gurke",
+        "Target": "Wal",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Affe",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "NONE",
-        "1": "14"
+        "Cue": "Kuh",
+        "Target": "Schuh",
+        "Condition": "PHON",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Saft",
-        "Schwein": "Wein",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Pelikan",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "NONE",
-        "1": "14"
+        "Cue": "Saft",
+        "Target": "Wein",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Hubschrauber",
-        "Schwein": "Rakete",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Pelikan",
+        "Target": "Kartoffel",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Hut",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "NONE",
-        "1": "15"
+        "Cue": "Hubschrauber",
+        "Target": "Rakete",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Fahrrad",
-        "Schwein": "Hose",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Hut",
+        "Target": "Kaffee",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Bus",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "CAT+ASS",
-        "1": "14"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Baer",
-        "Schwein": "Dachs",
-        "CAT+ASS": "CAT+ASS",
-        "1": "16"
+        "Cue": "Bus",
+        "Target": "Strassenbahn",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Fussball",
-        "Schwein": "Traube",
-        "CAT+ASS": "NONE",
-        "1": "13"
+        "Cue": "Baer",
+        "Target": "Dachs",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Zwiebel",
-        "Schwein": "Suppe",
-        "CAT+ASS": "CAT+ASS",
-        "1": "14"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "13"
     },
     {
-        "Ziege": "Schnitzel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Rakete",
-        "Schwein": "Rakete",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Schnitzel",
+        "Target": "Kartoffel",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Bauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "PHON",
-        "1": "14"
+        "Cue": "Rakete",
+        "Target": "Rakete",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Nest",
-        "Schwein": "Schuh",
-        "CAT+ASS": "NONE",
-        "1": "14"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Mehl",
-        "Schwein": "Reis",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Fahrrad",
-        "Schwein": "Hose",
-        "CAT+ASS": "NONE",
-        "1": "14"
+        "Cue": "Mehl",
+        "Target": "Reis",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Apfel",
-        "Schwein": "Traube",
-        "CAT+ASS": "CAT+ASS",
-        "1": "14"
+        "Cue": "Fahrrad",
+        "Target": "Hose",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Knopf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "IDEN",
-        "1": "15"
+        "Cue": "Apfel",
+        "Target": "Traube",
+        "Condition": "CAT+ASS",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Pantoffel",
-        "Schwein": "Kartoffel",
-        "CAT+ASS": "PHON",
-        "1": "16"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Flasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "PHON",
-        "1": "14"
+        "Cue": "Pantoffel",
+        "Target": "Kartoffel",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Maus",
-        "Schwein": "Tee",
-        "CAT+ASS": "NONE",
-        "1": "14"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Schwein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "IDEN",
-        "1": "14"
+        "Cue": "Maus",
+        "Target": "Tee",
+        "Condition": "NONE",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Nest",
-        "Schwein": "Schuh",
-        "CAT+ASS": "NONE",
-        "1": "15"
+        "Cue": "Schwein",
+        "Target": "Schwein",
+        "Condition": "IDEN",
+        "Occurence": "14"
     },
     {
-        "Ziege": "Bauch",
-        "Schwein": "Lauch",
-        "CAT+ASS": "PHON",
-        "1": "15"
+        "Cue": "Nest",
+        "Target": "Schuh",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Fussball",
-        "Schwein": "Traube",
-        "CAT+ASS": "NONE",
-        "1": "15"
+        "Cue": "Bauch",
+        "Target": "Lauch",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Anzug",
-        "Schwein": "Hose",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Fussball",
+        "Target": "Traube",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Pferd",
-        "Schwein": "Pferd",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Anzug",
+        "Target": "Hose",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Knopf",
-        "Schwein": "Knopf",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Pferd",
+        "Target": "Pferd",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Otter",
-        "Schwein": "Wal",
-        "CAT+ASS": "CAT+ASS",
-        "1": "16"
+        "Cue": "Knopf",
+        "Target": "Knopf",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Ziege",
-        "Schwein": "Schwein",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Otter",
+        "Target": "Wal",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Strassenbahn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "IDEN",
-        "1": "15"
+        "Cue": "Ziege",
+        "Target": "Schwein",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Fisch",
-        "Schwein": "Fisch",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Strassenbahn",
+        "Target": "Strassenbahn",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Bier",
-        "Schwein": "Tee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "15"
+        "Cue": "Fisch",
+        "Target": "Fisch",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Traube",
-        "Schwein": "Traube",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Bier",
+        "Target": "Tee",
+        "Condition": "CAT+ASS",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Suppe",
-        "Schwein": "Suppe",
-        "CAT+ASS": "IDEN",
-        "1": "15"
+        "Cue": "Traube",
+        "Target": "Traube",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Kohl",
-        "Schwein": "Lauch",
-        "CAT+ASS": "CAT+ASS",
-        "1": "16"
+        "Cue": "Suppe",
+        "Target": "Suppe",
+        "Condition": "IDEN",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Affe",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "NONE",
-        "1": "15"
+        "Cue": "Kohl",
+        "Target": "Lauch",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Flasche",
-        "Schwein": "Tasche",
-        "CAT+ASS": "PHON",
-        "1": "15"
+        "Cue": "Affe",
+        "Target": "Flugzeug",
+        "Condition": "NONE",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Schornstein",
-        "Schwein": "Schwein",
-        "CAT+ASS": "PHON",
-        "1": "16"
+        "Cue": "Flasche",
+        "Target": "Tasche",
+        "Condition": "PHON",
+        "Occurence": "15"
     },
     {
-        "Ziege": "Huhn",
-        "Schwein": "Strassenbahn",
-        "CAT+ASS": "NONE",
-        "1": "16"
+        "Cue": "Schornstein",
+        "Target": "Schwein",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Schuh",
-        "Schwein": "Schuh",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Huhn",
+        "Target": "Strassenbahn",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Hose",
-        "Schwein": "Hose",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Schuh",
+        "Target": "Schuh",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Zwiebel",
-        "Schwein": "Suppe",
-        "CAT+ASS": "CAT+ASS",
-        "1": "16"
+        "Cue": "Hose",
+        "Target": "Hose",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Horn",
-        "Schwein": "Reis",
-        "CAT+ASS": "NONE",
-        "1": "16"
+        "Cue": "Zwiebel",
+        "Target": "Suppe",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Schlagzeug",
-        "Schwein": "Flugzeug",
-        "CAT+ASS": "PHON",
-        "1": "16"
+        "Cue": "Horn",
+        "Target": "Reis",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Ziege": "L\u00f6ffel",
-        "Schwein": "Tasche",
-        "CAT+ASS": "NONE",
-        "1": "16"
+        "Cue": "Schlagzeug",
+        "Target": "Flugzeug",
+        "Condition": "PHON",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Tee",
-        "Schwein": "Tee",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "L\u00f6ffel",
+        "Target": "Tasche",
+        "Condition": "NONE",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Wein",
-        "Schwein": "Wein",
-        "CAT+ASS": "IDEN",
-        "1": "16"
+        "Cue": "Tee",
+        "Target": "Tee",
+        "Condition": "IDEN",
+        "Occurence": "16"
     },
     {
-        "Ziege": "Milch",
-        "Schwein": "Kaffee",
-        "CAT+ASS": "CAT+ASS",
-        "1": "16"
+        "Cue": "Wein",
+        "Target": "Wein",
+        "Condition": "IDEN",
+        "Occurence": "16"
+    },
+    {
+        "Cue": "Milch",
+        "Target": "Kaffee",
+        "Condition": "CAT+ASS",
+        "Occurence": "16"
     }
 ]
