@@ -1,8 +1,8 @@
-const split = require("./split");
+import { rotateArray, getIndxs, rotateStimuli } from "./split.js";
 
 test("test rotate of array", () => {
   const rot1 = [4, 1, 2, 3];
-  const rot2 = split.rotateArray([1, 2, 3, 4]);
+  const rot2 = rotateArray([1, 2, 3, 4]);
   for (let i = 0; i != rot1.length; ++i) {
     expect(rot1[i]).toBe(rot2[i]);
   }
@@ -32,7 +32,7 @@ test("getIndices test", () => {
     },
   ];
   const dog_indices = [0, 3];
-  const got_indices = split.getIndxs(obj, "dog");
+  const got_indices = getIndxs(obj, "dog");
   expect(got_indices).toEqual(dog_indices);
 });
 
@@ -113,5 +113,5 @@ test("test rotate of stimuli", () => {
       pic_word_con: "word-pic",
     },
   ];
-  expect(split.rotateStimuli(stimuli)).toEqual(rotated_stimuli);
+  expect(rotateStimuli(stimuli)).toEqual(rotated_stimuli);
 });
