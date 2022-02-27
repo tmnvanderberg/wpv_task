@@ -1,4 +1,4 @@
-import { rotateArray, getIndxs, rotateStimuli } from "./split.js";
+import { rotateArray, getIndexes, rotateStimuli } from "./split.js";
 
 test("test rotate of array", () => {
   const rot1 = [4, 1, 2, 3];
@@ -6,34 +6,6 @@ test("test rotate of array", () => {
   for (let i = 0; i != rot1.length; ++i) {
     expect(rot1[i]).toBe(rot2[i]);
   }
-});
-
-test("getIndices test", () => {
-  const obj = [
-    {
-      id: 1,
-      target: "dog",
-    },
-    {
-      id: 2,
-      target: "cat",
-    },
-    {
-      id: 3,
-      target: "doggy",
-    },
-    {
-      id: 4,
-      target: "dog",
-    },
-    {
-      id: 5,
-      target: "dkfskds",
-    },
-  ];
-  const dog_indices = [0, 3];
-  const got_indices = getIndxs(obj, "dog");
-  expect(got_indices).toEqual(dog_indices);
 });
 
 test("test rotate of stimuli", () => {
@@ -48,7 +20,7 @@ test("test rotate of stimuli", () => {
       target_word: "img/SchweinTS.jpg",
       correct_resp: "n",
       trial_part: "main",
-      pic_word_con: "word-pic",
+      pic_word_con: "pic-word",
     },
     {
       cue: "Hemd",
@@ -110,8 +82,36 @@ test("test rotate of stimuli", () => {
       target_word: "img/KnopfTS.jpg",
       correct_resp: "n",
       trial_part: "main",
-      pic_word_con: "word-pic",
+      pic_word_con: "pic-word",
     },
   ];
   expect(rotateStimuli(stimuli)).toEqual(rotated_stimuli);
+});
+
+test("getIndices test", () => {
+  const obj = [
+    {
+      id: 1,
+      target: "dog",
+    },
+    {
+      id: 2,
+      target: "cat",
+    },
+    {
+      id: 3,
+      target: "doggy",
+    },
+    {
+      id: 4,
+      target: "dog",
+    },
+    {
+      id: 5,
+      target: "dkfskds",
+    },
+  ];
+  const dog_indices = [0, 3];
+  const got_indices = getIndexes(obj, "dog");
+  expect(got_indices).toEqual(dog_indices);
 });

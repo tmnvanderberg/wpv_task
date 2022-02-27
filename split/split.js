@@ -1,6 +1,3 @@
-import { stimuli } from "./stimuli.js";
-import * as fileSystem from "fs";
-
 export const getIndexes = (array, target) => {
   let indices = [];
   array.forEach((value, index) => {
@@ -30,30 +27,10 @@ export const rotateStimuli = (stimuli) => {
     });
     entries = rotateArray(entries);
     indices.forEach((index, idx) => {
+      let pic_word_con = rotatated_stimuli[index].pic_word_con;
       rotatated_stimuli[index] = entries[idx];
+      rotatated_stimuli[index].pic_word_con = pic_word_con;
     });
   });
   return rotatated_stimuli;
 };
-
-const main = () => {
-  let fileName = "original.json";
-  const callback = () => console.log(`Finished writing ${fileName}.`);
-  fileSystem.writeFile(
-    fileName,
-    JSON.stringify(stimuli, null, 4),
-    "utf8",
-    callback
-  );
-  [1, 2, 3, 4].forEach((n) => {
-    let fileName = `rotated${n}.json`;
-    fileSystem.writeFile(
-      fileName,
-      JSON.stringify(rotateStimuli(stimuli), null, 4),
-      "utf8",
-      callback
-    );
-  });
-};
-
-// main();

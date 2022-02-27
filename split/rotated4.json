@@ -9,7 +9,7 @@
         "target_word": "img/ReisTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Zwiebel",
@@ -21,7 +21,7 @@
         "target_word": "img/SuppeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Gras",
@@ -33,7 +33,7 @@
         "target_word": "img/KnopfTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schlagzeug",
@@ -45,7 +45,7 @@
         "target_word": "img/FlugzeugTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Bus",
@@ -57,7 +57,7 @@
         "target_word": "img/StrassenbahnTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Saft",
@@ -69,7 +69,7 @@
         "target_word": "img/WeinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Rose",
@@ -81,7 +81,7 @@
         "target_word": "img/HoseTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schiff",
@@ -93,7 +93,7 @@
         "target_word": "img/LauchTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Baer",
@@ -105,7 +105,7 @@
         "target_word": "img/DachsTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Kleid",
@@ -117,7 +117,7 @@
         "target_word": "img/SchuhTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Flasche",
@@ -129,7 +129,7 @@
         "target_word": "img/TascheTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schnitzel",
@@ -141,7 +141,7 @@
         "target_word": "img/KartoffelTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Strassenbahn",
@@ -153,7 +153,7 @@
         "target_word": "img/StrassenbahnTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Ziege",
@@ -165,7 +165,7 @@
         "target_word": "img/SchweinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Fahrrad",
@@ -177,7 +177,7 @@
         "target_word": "img/HoseTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Kaffee",
@@ -189,7 +189,7 @@
         "target_word": "img/KaffeeTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Hund",
@@ -201,7 +201,7 @@
         "target_word": "img/FischTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Bauch",
@@ -213,7 +213,7 @@
         "target_word": "img/LauchTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Loeffel",
@@ -225,7 +225,7 @@
         "target_word": "img/TascheTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Wachs",
@@ -237,7 +237,7 @@
         "target_word": "img/DachsTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Huhn",
@@ -249,7 +249,7 @@
         "target_word": "img/StrassenbahnTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Hubschrauber",
@@ -261,7 +261,7 @@
         "target_word": "img/RaketeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Topf",
@@ -273,7 +273,7 @@
         "target_word": "img/KnopfTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Zahn",
@@ -285,7 +285,7 @@
         "target_word": "img/PferdTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Fisch",
@@ -297,7 +297,7 @@
         "target_word": "img/FischTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schiff",
@@ -309,7 +309,7 @@
         "target_word": "img/LauchTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Flasche",
@@ -321,7 +321,7 @@
         "target_word": "img/TascheTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Kamm",
@@ -333,7 +333,7 @@
         "target_word": "img/DachsTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Pedal",
@@ -345,7 +345,7 @@
         "target_word": "img/WalTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Fussball",
@@ -357,7 +357,7 @@
         "target_word": "img/TraubeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Klee",
@@ -369,7 +369,7 @@
         "target_word": "img/TeeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Pfanne",
@@ -381,7 +381,7 @@
         "target_word": "img/SchweinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Brot",
@@ -393,7 +393,7 @@
         "target_word": "img/FischTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Zahn",
@@ -405,7 +405,7 @@
         "target_word": "img/PferdTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Tasche",
@@ -417,7 +417,7 @@
         "target_word": "img/TascheTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Milch",
@@ -429,7 +429,7 @@
         "target_word": "img/KaffeeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Otter",
@@ -441,7 +441,7 @@
         "target_word": "img/WalTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Lauch",
@@ -453,7 +453,7 @@
         "target_word": "img/LauchTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Tee",
@@ -465,7 +465,7 @@
         "target_word": "img/TeeTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Rakete",
@@ -477,7 +477,7 @@
         "target_word": "img/RaketeTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Tisch",
@@ -489,7 +489,7 @@
         "target_word": "img/FischTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schuh",
@@ -501,7 +501,7 @@
         "target_word": "img/SchuhTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Stiefel",
@@ -525,7 +525,7 @@
         "target_word": "img/DachsTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schraube",
@@ -537,7 +537,7 @@
         "target_word": "img/TraubeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Mehl",
@@ -549,7 +549,7 @@
         "target_word": "img/ReisTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Anzug",
@@ -561,7 +561,7 @@
         "target_word": "img/HoseTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Bier",
@@ -573,7 +573,7 @@
         "target_word": "img/TeeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Pelikan",
@@ -585,7 +585,7 @@
         "target_word": "img/KartoffelTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schuh",
@@ -597,7 +597,7 @@
         "target_word": "img/SchuhTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Bein",
@@ -609,7 +609,7 @@
         "target_word": "img/WeinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Dachs",
@@ -633,7 +633,7 @@
         "target_word": "img/TraubeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Flugzeug",
@@ -645,7 +645,7 @@
         "target_word": "img/FlugzeugTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Strassenbahn",
@@ -657,7 +657,7 @@
         "target_word": "img/StrassenbahnTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Milch",
@@ -669,7 +669,7 @@
         "target_word": "img/KaffeeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Klee",
@@ -681,7 +681,7 @@
         "target_word": "img/TeeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Nest",
@@ -693,7 +693,7 @@
         "target_word": "img/SchuhTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Pedal",
@@ -705,7 +705,7 @@
         "target_word": "img/WalTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Hammer",
@@ -717,7 +717,7 @@
         "target_word": "img/SuppeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Traube",
@@ -729,7 +729,7 @@
         "target_word": "img/TraubeTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Bauch",
@@ -753,7 +753,7 @@
         "target_word": "img/FlugzeugTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Fahrrad",
@@ -765,7 +765,7 @@
         "target_word": "img/HoseTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Klee",
@@ -789,7 +789,7 @@
         "target_word": "img/PferdTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Otter",
@@ -801,7 +801,7 @@
         "target_word": "img/WalTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Zwiebel",
@@ -813,7 +813,7 @@
         "target_word": "img/SuppeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schraube",
@@ -849,7 +849,7 @@
         "target_word": "img/SchweinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Fisch",
@@ -873,7 +873,7 @@
         "target_word": "img/FlugzeugTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Hirsch",
@@ -885,7 +885,7 @@
         "target_word": "img/PferdTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Otter",
@@ -909,7 +909,7 @@
         "target_word": "img/SuppeTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Kleid",
@@ -945,7 +945,7 @@
         "target_word": "img/SchweinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Brot",
@@ -969,7 +969,7 @@
         "target_word": "img/KnopfTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Saft",
@@ -981,7 +981,7 @@
         "target_word": "img/WeinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Gurke",
@@ -1005,7 +1005,7 @@
         "target_word": "img/RaketeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Anzug",
@@ -1077,7 +1077,7 @@
         "target_word": "img/WeinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Gurke",
@@ -1125,7 +1125,7 @@
         "target_word": "img/KnopfTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Wachs",
@@ -1173,7 +1173,7 @@
         "target_word": "img/KartoffelTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schwert",
@@ -1209,7 +1209,7 @@
         "target_word": "img/RaketeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Rose",
@@ -1245,7 +1245,7 @@
         "target_word": "img/KaffeeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Puppe",
@@ -1305,7 +1305,7 @@
         "target_word": "img/ReisTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Tapete",
@@ -1401,7 +1401,7 @@
         "target_word": "img/ReisTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Elefant",
@@ -1437,7 +1437,7 @@
         "target_word": "img/KartoffelTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Knopf",
@@ -1929,7 +1929,7 @@
         "target_word": "img/LauchCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schraube",
@@ -1941,7 +1941,7 @@
         "target_word": "img/TraubeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Tasche",
@@ -1953,7 +1953,7 @@
         "target_word": "img/TascheCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Baer",
@@ -1965,7 +1965,7 @@
         "target_word": "img/DachsCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Kaffee",
@@ -1977,7 +1977,7 @@
         "target_word": "img/KaffeeCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Rakete",
@@ -1989,7 +1989,7 @@
         "target_word": "img/RaketeCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Reis",
@@ -2001,7 +2001,7 @@
         "target_word": "img/ReisCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Huhn",
@@ -2013,7 +2013,7 @@
         "target_word": "img/StrassenbahnCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Lauch",
@@ -2025,7 +2025,7 @@
         "target_word": "img/LauchCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Pedal",
@@ -2037,7 +2037,7 @@
         "target_word": "img/WalCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schwein",
@@ -2049,7 +2049,7 @@
         "target_word": "img/SchweinCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schlagzeug",
@@ -2061,7 +2061,7 @@
         "target_word": "img/FlugzeugCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Milch",
@@ -2073,7 +2073,7 @@
         "target_word": "img/KaffeeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hubschrauber",
@@ -2085,7 +2085,7 @@
         "target_word": "img/RaketeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Wachs",
@@ -2097,7 +2097,7 @@
         "target_word": "img/DachsCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Zahn",
@@ -2109,7 +2109,7 @@
         "target_word": "img/PferdCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schiff",
@@ -2121,7 +2121,7 @@
         "target_word": "img/LauchCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Wal",
@@ -2133,7 +2133,7 @@
         "target_word": "img/WalCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Zwiebel",
@@ -2145,7 +2145,7 @@
         "target_word": "img/SuppeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schnitzel",
@@ -2157,7 +2157,7 @@
         "target_word": "img/KartoffelCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Saft",
@@ -2169,7 +2169,7 @@
         "target_word": "img/WeinCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Bus",
@@ -2181,7 +2181,7 @@
         "target_word": "img/StrassenbahnCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Knopf",
@@ -2193,7 +2193,7 @@
         "target_word": "img/KnopfCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Eis",
@@ -2205,7 +2205,7 @@
         "target_word": "img/ReisCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Kohl",
@@ -2217,7 +2217,7 @@
         "target_word": "img/LauchCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Affe",
@@ -2229,7 +2229,7 @@
         "target_word": "img/FlugzeugCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Tisch",
@@ -2241,7 +2241,7 @@
         "target_word": "img/FischCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Bier",
@@ -2253,7 +2253,7 @@
         "target_word": "img/TeeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Baer",
@@ -2265,7 +2265,7 @@
         "target_word": "img/DachsCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hubschrauber",
@@ -2277,7 +2277,7 @@
         "target_word": "img/RaketeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hemd",
@@ -2289,7 +2289,7 @@
         "target_word": "img/KnopfCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Pantoffel",
@@ -2301,7 +2301,7 @@
         "target_word": "img/KartoffelCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Ziege",
@@ -2313,7 +2313,7 @@
         "target_word": "img/SchweinCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hose",
@@ -2325,7 +2325,7 @@
         "target_word": "img/HoseCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Strassenbahn",
@@ -2337,7 +2337,7 @@
         "target_word": "img/StrassenbahnCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Lauch",
@@ -2361,7 +2361,7 @@
         "target_word": "img/KaffeeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Ballon",
@@ -2373,7 +2373,7 @@
         "target_word": "img/FlugzeugCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Gras",
@@ -2385,7 +2385,7 @@
         "target_word": "img/KnopfCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Kartoffel",
@@ -2397,7 +2397,7 @@
         "target_word": "img/KartoffelCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hirsch",
@@ -2409,7 +2409,7 @@
         "target_word": "img/PferdCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hose",
@@ -2421,7 +2421,7 @@
         "target_word": "img/HoseCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Bus",
@@ -2433,7 +2433,7 @@
         "target_word": "img/StrassenbahnCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Bier",
@@ -2445,7 +2445,7 @@
         "target_word": "img/TeeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Apfel",
@@ -2457,7 +2457,7 @@
         "target_word": "img/TraubeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Stiefel",
@@ -2469,7 +2469,7 @@
         "target_word": "img/TascheCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hemd",
@@ -2481,7 +2481,7 @@
         "target_word": "img/KnopfCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Flugzeug",
@@ -2493,7 +2493,7 @@
         "target_word": "img/FlugzeugCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Tapete",
@@ -2505,7 +2505,7 @@
         "target_word": "img/RaketeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hund",
@@ -2517,7 +2517,7 @@
         "target_word": "img/FischCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schwan",
@@ -2541,7 +2541,7 @@
         "target_word": "img/SchuhCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Suppe",
@@ -2553,7 +2553,7 @@
         "target_word": "img/SuppeCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Wal",
@@ -2565,7 +2565,7 @@
         "target_word": "img/WalCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Kohl",
@@ -2589,7 +2589,7 @@
         "target_word": "img/DachsCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hemd",
@@ -2613,7 +2613,7 @@
         "target_word": "img/FischCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Tapete",
@@ -2637,7 +2637,7 @@
         "target_word": "img/SchuhCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Loeffel",
@@ -2649,7 +2649,7 @@
         "target_word": "img/TascheCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Hut",
@@ -2661,7 +2661,7 @@
         "target_word": "img/KaffeeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Eis",
@@ -2673,7 +2673,7 @@
         "target_word": "img/ReisCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Anzug",
@@ -2685,7 +2685,7 @@
         "target_word": "img/HoseCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Suppe",
@@ -2697,7 +2697,7 @@
         "target_word": "img/SuppeCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Bein",
@@ -2709,7 +2709,7 @@
         "target_word": "img/WeinCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Knopf",
@@ -2733,7 +2733,7 @@
         "target_word": "img/WalCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Fussball",
@@ -2745,7 +2745,7 @@
         "target_word": "img/TraubeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schnitzel",
@@ -2757,7 +2757,7 @@
         "target_word": "img/KartoffelCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Flasche",
@@ -2769,7 +2769,7 @@
         "target_word": "img/TascheCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Rose",
@@ -2781,7 +2781,7 @@
         "target_word": "img/HoseCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Fisch",
@@ -2793,7 +2793,7 @@
         "target_word": "img/FischCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Bein",
@@ -2805,7 +2805,7 @@
         "target_word": "img/WeinCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Rakete",
@@ -2829,7 +2829,7 @@
         "target_word": "img/SchuhCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Zwiebel",
@@ -2841,7 +2841,7 @@
         "target_word": "img/SuppeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Fussball",
@@ -2853,7 +2853,7 @@
         "target_word": "img/TraubeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Stiefel",
@@ -2901,7 +2901,7 @@
         "target_word": "img/WeinCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schornstein",
@@ -2913,7 +2913,7 @@
         "target_word": "img/SchweinCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Maus",
@@ -2925,7 +2925,7 @@
         "target_word": "img/TeeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Wal",
@@ -3009,7 +3009,7 @@
         "target_word": "img/SchweinCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Pferd",
@@ -3021,7 +3021,7 @@
         "target_word": "img/PferdCS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Nest",
@@ -3033,7 +3033,7 @@
         "target_word": "img/SchuhCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Schnee",
@@ -3129,7 +3129,7 @@
         "target_word": "img/PferdCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Kuh",
@@ -3153,7 +3153,7 @@
         "target_word": "img/ReisCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Puppe",
@@ -3261,7 +3261,7 @@
         "target_word": "img/TeeCS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "pic-word"
+        "pic_word_con": "word-pic"
     },
     {
         "cue": "Kartoffel",
@@ -3393,7 +3393,7 @@
         "target_word": "img/HoseTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Wal",
@@ -3429,7 +3429,7 @@
         "target_word": "img/LauchTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Kaffee",
@@ -3441,7 +3441,7 @@
         "target_word": "img/KaffeeTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schwein",
@@ -3477,7 +3477,7 @@
         "target_word": "img/KartoffelTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Tee",
@@ -3525,7 +3525,7 @@
         "target_word": "img/PferdTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Puppe",
@@ -3573,7 +3573,7 @@
         "target_word": "img/TraubeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Horn",
@@ -3597,7 +3597,7 @@
         "target_word": "img/SchuhTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Maus",
@@ -3645,7 +3645,7 @@
         "target_word": "img/TascheTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Suppe",
@@ -3657,7 +3657,7 @@
         "target_word": "img/SuppeTS.jpg",
         "correct_resp": "m",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Kamm",
@@ -3705,7 +3705,7 @@
         "target_word": "img/FischTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Ballon",
@@ -3717,7 +3717,7 @@
         "target_word": "img/FlugzeugTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Schwan",
@@ -3741,7 +3741,7 @@
         "target_word": "img/SchweinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Gras",
@@ -3753,7 +3753,7 @@
         "target_word": "img/KnopfTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Mehl",
@@ -3765,7 +3765,7 @@
         "target_word": "img/ReisTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Gurke",
@@ -3777,7 +3777,7 @@
         "target_word": "img/WalTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Elefant",
@@ -3789,7 +3789,7 @@
         "target_word": "img/RaketeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Zelt",
@@ -3801,7 +3801,7 @@
         "target_word": "img/WeinTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Maus",
@@ -3813,7 +3813,7 @@
         "target_word": "img/TeeTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Huhn",
@@ -3825,7 +3825,7 @@
         "target_word": "img/StrassenbahnTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     },
     {
         "cue": "Wachs",
@@ -3837,6 +3837,6 @@
         "target_word": "img/DachsTS.jpg",
         "correct_resp": "n",
         "trial_part": "main",
-        "pic_word_con": "word-pic"
+        "pic_word_con": "pic-word"
     }
 ]
