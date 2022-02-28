@@ -14,7 +14,7 @@
     <script src="js/rotated3.js"></script>
     <script src="js/translations.js"></script>
 
-      <!-- <script src="lists/in/list1.js"></script> -->
+    <!-- <script src="lists/in/list1.js"></script> -->
     <link href="jspsych/css/jspsych.css" rel="stylesheet" />
   </head>
 
@@ -37,8 +37,8 @@
     // for (target of unique_targets) {
     // }
     var translations = translations;
-    let translator = translations.find(entry => entry.english == "dog");
-// use translator.german
+    let translator = translations.find((entry) => entry.english == "dog");
+    // use translator.german
     var timeline = [];
     var repeat_prac = false;
 
@@ -57,10 +57,10 @@
       current_list = list4;
     }
     console.log(current_list);
-     // combine related and none/iden trial info arrays into a single array to use for timeline variables
- //   var current_list = rel_trial_info.concat(
-   //   none_trial_info,
-     // iden_trial_info
+    // combine related and none/iden trial info arrays into a single array to use for timeline variables
+    //   var current_list = rel_trial_info.concat(
+    //   none_trial_info,
+    // iden_trial_info
     //);
     //console.log(main_trial_info);
 

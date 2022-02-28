@@ -1,4 +1,6 @@
-export const getIndexes = (array, target) => {
+import * as fileSystem from "fs";
+
+export const getIndxs = (array, target) => {
   let indices = [];
   array.forEach((value, index) => {
     if (value.target === target) {
@@ -13,6 +15,15 @@ export const rotateArray = (array) => {
   return array;
 };
 
+export const rotateEntries = (entries) => {
+  return [
+    ...rotateArray(entries.slice(0, 4)),
+    ...rotateArray(entries.slice(4, 8)),
+    ...rotateArray(entries.slice(8, 12)),
+    ...rotateArray(entries.slice(12, 16)),
+  ];
+};
+
 export const rotateStimuli = (stimuli) => {
   let done = [];
   let rotatated_stimuli = stimuli;
@@ -21,15 +32,13 @@ export const rotateStimuli = (stimuli) => {
       return;
     }
     done.push(stimulus.target);
-    let indices = getIndexes(stimuli, stimulus.target);
+    let indices = getIndxs(stimuli, stimulus.target);
     let entries = indices.map((index) => {
       return stimuli[index];
     });
-    entries = rotateArray(entries);
+    let rotatedEntries = rotateEntries(entries);
     indices.forEach((index, idx) => {
-      let pic_word_con = rotatated_stimuli[index].pic_word_con;
-      rotatated_stimuli[index] = entries[idx];
-      rotatated_stimuli[index].pic_word_con = pic_word_con;
+      rotatated_stimuli[index] = rotatedEntries[idx];
     });
   });
   return rotatated_stimuli;

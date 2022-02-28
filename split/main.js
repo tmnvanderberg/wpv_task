@@ -1,6 +1,7 @@
 import { rotateStimuli } from "./split.js";
 import * as fileSystem from "fs";
 import { stimuli } from "./stimuli.js";
+import { translateStimuli } from "./translate.js";
 
 const write = (fileName, object) => {
   const callback = () => console.log(`Finished writing ${fileName}.`);
@@ -13,9 +14,10 @@ const write = (fileName, object) => {
 };
 
 const main = () => {
-  write(`original.json`, stimuli);
+  let translatedStimuli = translateStimuli(stimuli);
+  write(`original.json`, translatedStimuli);
   [1, 2, 3, 4].forEach((n) => {
-    write(`rotated${n}.json`, rotateStimuli(stimuli));
+    write(`rotated${n}.json`, rotateStimuli(translatedStimuli));
   });
 };
 
