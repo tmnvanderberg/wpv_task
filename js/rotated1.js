@@ -7,8 +7,8 @@ var list2 = [
       target_image: "img/Reis4.jpg",
       cue_word: "img/EisTS.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -19,8 +19,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/SuppeTS.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -31,8 +31,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/HemdTS.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -43,8 +43,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/AffeTS.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -55,8 +55,8 @@ var list2 = [
       target_image: "img/Strassenbahn4.jpg",
       cue_word: "img/StrassenbahnTS.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -67,8 +67,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/BeinTS.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -79,8 +79,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/FahrradTS.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -91,8 +91,8 @@ var list2 = [
       target_image: "img/Lauch4.jpg",
       cue_word: "img/LauchTS.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -103,8 +103,8 @@ var list2 = [
       target_image: "img/Dachs4.jpg",
       cue_word: "img/DachsTS.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -115,8 +115,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/NestTS.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -127,8 +127,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/TascheTS.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -139,8 +139,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/PantoffelTS.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -151,8 +151,8 @@ var list2 = [
       target_image: "img/Strassenbahn1.jpg",
       cue_word: "img/HuhnCC.jpg",
       target_word: "img/StrassenbahnCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -163,8 +163,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/SchornsteinTS.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -175,8 +175,8 @@ var list2 = [
       target_image: "img/Hose1.jpg",
       cue_word: "img/AnzugCC.jpg",
       target_word: "img/HoseCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -187,8 +187,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/HutTS.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -199,8 +199,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/TischTS.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -211,8 +211,8 @@ var list2 = [
       target_image: "img/Lauch1.jpg",
       cue_word: "img/BauchCC.jpg",
       target_word: "img/LauchCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -223,8 +223,8 @@ var list2 = [
       target_image: "img/Tasche1.jpg",
       cue_word: "img/StiefelCC.jpg",
       target_word: "img/TascheCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -235,8 +235,8 @@ var list2 = [
       target_image: "img/Dachs1.jpg",
       cue_word: "img/DachsCC.jpg",
       target_word: "img/DachsCC.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -247,8 +247,8 @@ var list2 = [
       target_image: "img/Strassenbahn2.jpg",
       cue_word: "img/SchwanCC.jpg",
       target_word: "img/StrassenbahnCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -259,8 +259,8 @@ var list2 = [
       target_image: "img/Rakete4.jpg",
       cue_word: "img/HubschrauberTS.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -271,8 +271,8 @@ var list2 = [
       target_image: "img/Knopf1.jpg",
       cue_word: "img/TopfCC.jpg",
       target_word: "img/KnopfCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -283,8 +283,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/HirschTS.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -295,8 +295,8 @@ var list2 = [
       target_image: "img/Fisch1.jpg",
       cue_word: "img/FischCC.jpg",
       target_word: "img/FischCC.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -307,8 +307,8 @@ var list2 = [
       target_image: "img/Lauch2.jpg",
       cue_word: "img/BauchCS.jpg",
       target_word: "img/LauchCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -319,8 +319,8 @@ var list2 = [
       target_image: "img/Tasche2.jpg",
       cue_word: "img/LoeffelCC.jpg",
       target_word: "img/TascheCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -331,8 +331,8 @@ var list2 = [
       target_image: "img/Dachs2.jpg",
       cue_word: "img/WachsCC.jpg",
       target_word: "img/DachsCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -343,8 +343,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/OtterTS.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -355,8 +355,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/TraubeTS.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -367,8 +367,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/KleeTS.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -379,8 +379,8 @@ var list2 = [
       target_image: "img/Schwein1.jpg",
       cue_word: "img/PfanneCC.jpg",
       target_word: "img/SchweinCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -391,8 +391,8 @@ var list2 = [
       target_image: "img/Fisch2.jpg",
       cue_word: "img/BrotCC.jpg",
       target_word: "img/FischCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -403,8 +403,8 @@ var list2 = [
       target_image: "img/Pferd1.jpg",
       cue_word: "img/SchwertCC.jpg",
       target_word: "img/PferdCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -415,8 +415,8 @@ var list2 = [
       target_image: "img/Tasche3.jpg",
       cue_word: "img/TascheCC.jpg",
       target_word: "img/TascheCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -427,8 +427,8 @@ var list2 = [
       target_image: "img/Kaffee1.jpg",
       cue_word: "img/SchneeCC.jpg",
       target_word: "img/KaffeeCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -439,8 +439,8 @@ var list2 = [
       target_image: "img/Wal1.jpg",
       cue_word: "img/OtterCC.jpg",
       target_word: "img/WalCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -451,8 +451,8 @@ var list2 = [
       target_image: "img/Lauch3.jpg",
       cue_word: "img/LauchCC.jpg",
       target_word: "img/LauchCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -463,8 +463,8 @@ var list2 = [
       target_image: "img/Tee1.jpg",
       cue_word: "img/KleeCC.jpg",
       target_word: "img/TeeCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -475,8 +475,8 @@ var list2 = [
       target_image: "img/Rakete1.jpg",
       cue_word: "img/TapeteCC.jpg",
       target_word: "img/RaketeCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -487,8 +487,8 @@ var list2 = [
       target_image: "img/Fisch3.jpg",
       cue_word: "img/HundCC.jpg",
       target_word: "img/FischCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -499,8 +499,8 @@ var list2 = [
       target_image: "img/Schuh1.jpg",
       cue_word: "img/KleidCC.jpg",
       target_word: "img/SchuhCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -511,8 +511,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/FlascheCC.jpg",
       target_word: "img/TascheCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -523,8 +523,8 @@ var list2 = [
       target_image: "img/Dachs3.jpg",
       cue_word: "img/KammCC.jpg",
       target_word: "img/DachsCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -535,8 +535,8 @@ var list2 = [
       target_image: "img/Traube1.jpg",
       cue_word: "img/SchraubeCC.jpg",
       target_word: "img/TraubeCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -547,8 +547,8 @@ var list2 = [
       target_image: "img/Reis1.jpg",
       cue_word: "img/HornCC.jpg",
       target_word: "img/ReisCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -559,8 +559,8 @@ var list2 = [
       target_image: "img/Hose2.jpg",
       cue_word: "img/RoseCC.jpg",
       target_word: "img/HoseCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -571,8 +571,8 @@ var list2 = [
       target_image: "img/Tee2.jpg",
       cue_word: "img/KleeCS.jpg",
       target_word: "img/TeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -583,8 +583,8 @@ var list2 = [
       target_image: "img/Kartoffel1.jpg",
       cue_word: "img/PantoffelCC.jpg",
       target_word: "img/KartoffelCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -595,8 +595,8 @@ var list2 = [
       target_image: "img/Schuh2.jpg",
       cue_word: "img/KleidCS.jpg",
       target_word: "img/SchuhCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -607,8 +607,8 @@ var list2 = [
       target_image: "img/Wein1.jpg",
       cue_word: "img/WeinCC.jpg",
       target_word: "img/WeinCC.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -619,8 +619,8 @@ var list2 = [
       target_image: "img/Dachs4.jpg",
       cue_word: "img/DachsCS.jpg",
       target_word: "img/DachsCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -631,8 +631,8 @@ var list2 = [
       target_image: "img/Traube2.jpg",
       cue_word: "img/ApfelCC.jpg",
       target_word: "img/TraubeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -643,8 +643,8 @@ var list2 = [
       target_image: "img/Flugzeug1.jpg",
       cue_word: "img/SchlagzeugCC.jpg",
       target_word: "img/FlugzeugCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -655,8 +655,8 @@ var list2 = [
       target_image: "img/Strassenbahn3.jpg",
       cue_word: "img/StrassenbahnCC.jpg",
       target_word: "img/StrassenbahnCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -667,8 +667,8 @@ var list2 = [
       target_image: "img/Kaffee2.jpg",
       cue_word: "img/MilchCC.jpg",
       target_word: "img/KaffeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -679,8 +679,8 @@ var list2 = [
       target_image: "img/Tee3.jpg",
       cue_word: "img/TeeCC.jpg",
       target_word: "img/TeeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -691,8 +691,8 @@ var list2 = [
       target_image: "img/Schuh3.jpg",
       cue_word: "img/SchuhCC.jpg",
       target_word: "img/SchuhCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -703,8 +703,8 @@ var list2 = [
       target_image: "img/Wal2.jpg",
       cue_word: "img/GurkeCC.jpg",
       target_word: "img/WalCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -715,8 +715,8 @@ var list2 = [
       target_image: "img/Suppe1.jpg",
       cue_word: "img/HammerCC.jpg",
       target_word: "img/SuppeCC.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -727,8 +727,8 @@ var list2 = [
       target_image: "img/Traube3.jpg",
       cue_word: "img/TraubeCC.jpg",
       target_word: "img/TraubeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -739,8 +739,8 @@ var list2 = [
       target_image: "img/Lauch4.jpg",
       cue_word: "img/SchiffCC.jpg",
       target_word: "img/LauchCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -751,8 +751,8 @@ var list2 = [
       target_image: "img/Flugzeug2.jpg",
       cue_word: "img/BallonCC.jpg",
       target_word: "img/FlugzeugCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -763,8 +763,8 @@ var list2 = [
       target_image: "img/Hose3.jpg",
       cue_word: "img/FahrradCC.jpg",
       target_word: "img/HoseCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -775,8 +775,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/TeeCS.jpg",
       target_word: "img/TeeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -787,8 +787,8 @@ var list2 = [
       target_image: "img/Pferd2.jpg",
       cue_word: "img/PferdCC.jpg",
       target_word: "img/PferdCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -799,8 +799,8 @@ var list2 = [
       target_image: "img/Wal3.jpg",
       cue_word: "img/GurkeCS.jpg",
       target_word: "img/WalCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -811,8 +811,8 @@ var list2 = [
       target_image: "img/Suppe2.jpg",
       cue_word: "img/PuppeCC.jpg",
       target_word: "img/SuppeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -823,8 +823,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/TraubeCS.jpg",
       target_word: "img/TraubeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -835,8 +835,8 @@ var list2 = [
       target_image: "img/Tasche5.jpg",
       cue_word: "img/TascheCS.jpg",
       target_word: "img/TascheCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -847,8 +847,8 @@ var list2 = [
       target_image: "img/Schwein2.jpg",
       cue_word: "img/ZiegeCC.jpg",
       target_word: "img/SchweinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -859,8 +859,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/TischCC.jpg",
       target_word: "img/FischCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -871,8 +871,8 @@ var list2 = [
       target_image: "img/Flugzeug3.jpg",
       cue_word: "img/AffeCC.jpg",
       target_word: "img/FlugzeugCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -883,8 +883,8 @@ var list2 = [
       target_image: "img/Pferd3.jpg",
       cue_word: "img/ZahnCC.jpg",
       target_word: "img/PferdCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -895,8 +895,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/OtterCS.jpg",
       target_word: "img/WalCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -907,8 +907,8 @@ var list2 = [
       target_image: "img/Suppe3.jpg",
       cue_word: "img/PuppeCS.jpg",
       target_word: "img/SuppeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -919,8 +919,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/SchuhCS.jpg",
       target_word: "img/SchuhCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -931,8 +931,8 @@ var list2 = [
       target_image: "img/Strassenbahn4.jpg",
       cue_word: "img/SchwanCS.jpg",
       target_word: "img/StrassenbahnCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -943,8 +943,8 @@ var list2 = [
       target_image: "img/Schwein3.jpg",
       cue_word: "img/SchornsteinCC.jpg",
       target_word: "img/SchweinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -955,8 +955,8 @@ var list2 = [
       target_image: "img/Fisch5.jpg",
       cue_word: "img/TischCS.jpg",
       target_word: "img/FischCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -967,8 +967,8 @@ var list2 = [
       target_image: "img/Knopf2.jpg",
       cue_word: "img/KnopfCC.jpg",
       target_word: "img/KnopfCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -979,8 +979,8 @@ var list2 = [
       target_image: "img/Wein2.jpg",
       cue_word: "img/ZeltCC.jpg",
       target_word: "img/WeinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -991,8 +991,8 @@ var list2 = [
       target_image: "img/Wal5.jpg",
       cue_word: "img/PedalCC.jpg",
       target_word: "img/WalCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1003,8 +1003,8 @@ var list2 = [
       target_image: "img/Rakete2.jpg",
       cue_word: "img/ElefantCC.jpg",
       target_word: "img/RaketeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1015,8 +1015,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/FahrradCS.jpg",
       target_word: "img/HoseCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1027,8 +1027,8 @@ var list2 = [
       target_image: "img/Strassenbahn5.jpg",
       cue_word: "img/HuhnCS.jpg",
       target_word: "img/StrassenbahnCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1039,8 +1039,8 @@ var list2 = [
       target_image: "img/Lauch5.jpg",
       cue_word: "img/KohlCC.jpg",
       target_word: "img/LauchCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1051,8 +1051,8 @@ var list2 = [
       target_image: "img/Schuh5.jpg",
       cue_word: "img/KuhCC.jpg",
       target_word: "img/SchuhCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1063,8 +1063,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/HammerCS.jpg",
       target_word: "img/SuppeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1075,8 +1075,8 @@ var list2 = [
       target_image: "img/Wein3.jpg",
       cue_word: "img/WeinCS.jpg",
       target_word: "img/WeinCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1087,8 +1087,8 @@ var list2 = [
       target_image: "img/Wal6.jpg",
       cue_word: "img/WalCC.jpg",
       target_word: "img/WalCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1099,8 +1099,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/SchweinCC.jpg",
       target_word: "img/SchweinCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1111,8 +1111,8 @@ var list2 = [
       target_image: "img/Tasche6.jpg",
       cue_word: "img/StiefelCS.jpg",
       target_word: "img/TascheCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1123,8 +1123,8 @@ var list2 = [
       target_image: "img/Knopf3.jpg",
       cue_word: "img/GrasCC.jpg",
       target_word: "img/KnopfCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1135,8 +1135,8 @@ var list2 = [
       target_image: "img/Dachs5.jpg",
       cue_word: "img/BaerCC.jpg",
       target_word: "img/DachsCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1147,8 +1147,8 @@ var list2 = [
       target_image: "img/Lauch6.jpg",
       cue_word: "img/LauchCS.jpg",
       target_word: "img/LauchCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1159,8 +1159,8 @@ var list2 = [
       target_image: "img/Suppe5.jpg",
       cue_word: "img/ZwiebelCC.jpg",
       target_word: "img/SuppeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1171,8 +1171,8 @@ var list2 = [
       target_image: "img/Kartoffel2.jpg",
       cue_word: "img/PelikanCC.jpg",
       target_word: "img/KartoffelCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1183,8 +1183,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/SchwertCS.jpg",
       target_word: "img/PferdCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1195,8 +1195,8 @@ var list2 = [
       target_image: "img/Schwein5.jpg",
       cue_word: "img/SchweinCS.jpg",
       target_word: "img/SchweinCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1207,8 +1207,8 @@ var list2 = [
       target_image: "img/Rakete3.jpg",
       cue_word: "img/ElefantCS.jpg",
       target_word: "img/RaketeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1219,8 +1219,8 @@ var list2 = [
       target_image: "img/Hose5.jpg",
       cue_word: "img/HoseCC.jpg",
       target_word: "img/HoseCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1231,8 +1231,8 @@ var list2 = [
       target_image: "img/Tee5.jpg",
       cue_word: "img/BierCC.jpg",
       target_word: "img/TeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1243,8 +1243,8 @@ var list2 = [
       target_image: "img/Kaffee3.jpg",
       cue_word: "img/SchneeCS.jpg",
       target_word: "img/KaffeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1255,8 +1255,8 @@ var list2 = [
       target_image: "img/Suppe6.jpg",
       cue_word: "img/SuppeCC.jpg",
       target_word: "img/SuppeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1267,8 +1267,8 @@ var list2 = [
       target_image: "img/Traube5.jpg",
       cue_word: "img/SchraubeCS.jpg",
       target_word: "img/TraubeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1279,8 +1279,8 @@ var list2 = [
       target_image: "img/Pferd5.jpg",
       cue_word: "img/ZahnCS.jpg",
       target_word: "img/PferdCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1291,8 +1291,8 @@ var list2 = [
       target_image: "img/Schwein6.jpg",
       cue_word: "img/ZiegeCS.jpg",
       target_word: "img/SchweinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1303,8 +1303,8 @@ var list2 = [
       target_image: "img/Reis2.jpg",
       cue_word: "img/HornCS.jpg",
       target_word: "img/ReisCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1315,8 +1315,8 @@ var list2 = [
       target_image: "img/Rakete4.jpg",
       cue_word: "img/RaketeCC.jpg",
       target_word: "img/RaketeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1327,8 +1327,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/SaftCC.jpg",
       target_word: "img/WeinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1339,8 +1339,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/KaffeeCC.jpg",
       target_word: "img/KaffeeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1351,8 +1351,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/TopfCS.jpg",
       target_word: "img/KnopfCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1363,8 +1363,8 @@ var list2 = [
       target_image: "img/Wal7.jpg",
       cue_word: "img/WalCS.jpg",
       target_word: "img/WalCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1375,8 +1375,8 @@ var list2 = [
       target_image: "img/Pferd6.jpg",
       cue_word: "img/HirschCC.jpg",
       target_word: "img/PferdCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1387,8 +1387,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/FlugzeugCC.jpg",
       target_word: "img/FlugzeugCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1399,8 +1399,8 @@ var list2 = [
       target_image: "img/Reis3.jpg",
       cue_word: "img/ReisCC.jpg",
       target_word: "img/ReisCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1411,8 +1411,8 @@ var list2 = [
       target_image: "img/Rakete5.jpg",
       cue_word: "img/RaketeCS.jpg",
       target_word: "img/RaketeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1423,8 +1423,8 @@ var list2 = [
       target_image: "img/Fisch6.jpg",
       cue_word: "img/HundCS.jpg",
       target_word: "img/FischCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1435,8 +1435,8 @@ var list2 = [
       target_image: "img/Kartoffel3.jpg",
       cue_word: "img/KartoffelCC.jpg",
       target_word: "img/KartoffelCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1447,8 +1447,8 @@ var list2 = [
       target_image: "img/Knopf5.jpg",
       cue_word: "img/KnopfCS.jpg",
       target_word: "img/KnopfCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1459,8 +1459,8 @@ var list2 = [
       target_image: "img/Dachs6.jpg",
       cue_word: "img/WachsCS.jpg",
       target_word: "img/DachsCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1471,8 +1471,8 @@ var list2 = [
       target_image: "img/Tee6.jpg",
       cue_word: "img/BierCS.jpg",
       target_word: "img/TeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1483,8 +1483,8 @@ var list2 = [
       target_image: "img/Flugzeug5.jpg",
       cue_word: "img/SchlagzeugCS.jpg",
       target_word: "img/FlugzeugCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1495,8 +1495,8 @@ var list2 = [
       target_image: "img/Reis4.jpg",
       cue_word: "img/MehlCC.jpg",
       target_word: "img/ReisCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1507,8 +1507,8 @@ var list2 = [
       target_image: "img/Wein5.jpg",
       cue_word: "img/SaftCS.jpg",
       target_word: "img/WeinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1519,8 +1519,8 @@ var list2 = [
       target_image: "img/Rakete6.jpg",
       cue_word: "img/HubschrauberCC.jpg",
       target_word: "img/RaketeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1531,8 +1531,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/PelikanCS.jpg",
       target_word: "img/KartoffelCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1543,8 +1543,8 @@ var list2 = [
       target_image: "img/Strassenbahn6.jpg",
       cue_word: "img/BusCC.jpg",
       target_word: "img/StrassenbahnCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1555,8 +1555,8 @@ var list2 = [
       target_image: "img/Schwein7.jpg",
       cue_word: "img/SchornsteinCS.jpg",
       target_word: "img/SchweinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1567,8 +1567,8 @@ var list2 = [
       target_image: "img/Tee7.jpg",
       cue_word: "img/MausCC.jpg",
       target_word: "img/TeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1579,8 +1579,8 @@ var list2 = [
       target_image: "img/Flugzeug6.jpg",
       cue_word: "img/AffeCS.jpg",
       target_word: "img/FlugzeugCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1591,8 +1591,8 @@ var list2 = [
       target_image: "img/Reis5.jpg",
       cue_word: "img/ReisCS.jpg",
       target_word: "img/ReisCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1603,8 +1603,8 @@ var list2 = [
       target_image: "img/Hose6.jpg",
       cue_word: "img/HoseCS.jpg",
       target_word: "img/HoseCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1615,8 +1615,8 @@ var list2 = [
       target_image: "img/Knopf6.jpg",
       cue_word: "img/HemdCC.jpg",
       target_word: "img/KnopfCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1627,8 +1627,8 @@ var list2 = [
       target_image: "img/Kartoffel5.jpg",
       cue_word: "img/SchnitzelCC.jpg",
       target_word: "img/KartoffelCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1639,8 +1639,8 @@ var list2 = [
       target_image: "img/Rakete7.jpg",
       cue_word: "img/HubschrauberCS.jpg",
       target_word: "img/RaketeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1651,8 +1651,8 @@ var list2 = [
       target_image: "img/Traube6.jpg",
       cue_word: "img/ApfelCS.jpg",
       target_word: "img/TraubeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1663,8 +1663,8 @@ var list2 = [
       target_image: "img/Tasche7.jpg",
       cue_word: "img/LoeffelCS.jpg",
       target_word: "img/TascheCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1675,8 +1675,8 @@ var list2 = [
       target_image: "img/Flugzeug7.jpg",
       cue_word: "img/BallonCS.jpg",
       target_word: "img/FlugzeugCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1687,8 +1687,8 @@ var list2 = [
       target_image: "img/Reis6.jpg",
       cue_word: "img/EisCC.jpg",
       target_word: "img/ReisCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1699,8 +1699,8 @@ var list2 = [
       target_image: "img/Lauch7.jpg",
       cue_word: "img/SchiffCS.jpg",
       target_word: "img/LauchCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1711,8 +1711,8 @@ var list2 = [
       target_image: "img/Kaffee5.jpg",
       cue_word: "img/KaffeeCS.jpg",
       target_word: "img/KaffeeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1723,8 +1723,8 @@ var list2 = [
       target_image: "img/Kartoffel6.jpg",
       cue_word: "img/PantoffelCS.jpg",
       target_word: "img/KartoffelCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1735,8 +1735,8 @@ var list2 = [
       target_image: "img/Schuh6.jpg",
       cue_word: "img/KuhCS.jpg",
       target_word: "img/SchuhCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1747,8 +1747,8 @@ var list2 = [
       target_image: "img/Knopf7.jpg",
       cue_word: "img/GrasCS.jpg",
       target_word: "img/KnopfCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1759,8 +1759,8 @@ var list2 = [
       target_image: "img/Wein6.jpg",
       cue_word: "img/BeinCC.jpg",
       target_word: "img/WeinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1771,8 +1771,8 @@ var list2 = [
       target_image: "img/Pferd7.jpg",
       cue_word: "img/PferdCS.jpg",
       target_word: "img/PferdCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1783,8 +1783,8 @@ var list2 = [
       target_image: "img/Reis7.jpg",
       cue_word: "img/EisCS.jpg",
       target_word: "img/ReisCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1795,8 +1795,8 @@ var list2 = [
       target_image: "img/Hose7.jpg",
       cue_word: "img/AnzugCS.jpg",
       target_word: "img/HoseCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1807,8 +1807,8 @@ var list2 = [
       target_image: "img/Kaffee6.jpg",
       cue_word: "img/MilchCS.jpg",
       target_word: "img/KaffeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1819,8 +1819,8 @@ var list2 = [
       target_image: "img/Kartoffel7.jpg",
       cue_word: "img/KartoffelCS.jpg",
       target_word: "img/KartoffelCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1831,8 +1831,8 @@ var list2 = [
       target_image: "img/Schuh7.jpg",
       cue_word: "img/NestCC.jpg",
       target_word: "img/SchuhCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1843,8 +1843,8 @@ var list2 = [
       target_image: "img/Fisch7.jpg",
       cue_word: "img/BrotCS.jpg",
       target_word: "img/FischCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1855,8 +1855,8 @@ var list2 = [
       target_image: "img/Wein7.jpg",
       cue_word: "img/BeinCS.jpg",
       target_word: "img/WeinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1867,8 +1867,8 @@ var list2 = [
       target_image: "img/Dachs7.jpg",
       cue_word: "img/BaerCS.jpg",
       target_word: "img/DachsCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1879,8 +1879,8 @@ var list2 = [
       target_image: "img/Suppe7.jpg",
       cue_word: "img/SuppeCS.jpg",
       target_word: "img/SuppeCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1891,8 +1891,8 @@ var list2 = [
       target_image: "img/Strassenbahn7.jpg",
       cue_word: "img/StrassenbahnCS.jpg",
       target_word: "img/StrassenbahnCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1903,8 +1903,8 @@ var list2 = [
       target_image: "img/Kaffee7.jpg",
       cue_word: "img/HutCC.jpg",
       target_word: "img/KaffeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1915,8 +1915,8 @@ var list2 = [
       target_image: "img/Traube7.jpg",
       cue_word: "img/FussballCC.jpg",
       target_word: "img/TraubeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -1927,8 +1927,8 @@ var list2 = [
       target_image: "img/Lauch8.jpg",
       cue_word: "img/KohlCS.jpg",
       target_word: "img/LauchCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -1939,8 +1939,8 @@ var list2 = [
       target_image: "img/Traube8.jpg",
       cue_word: "img/FussballCS.jpg",
       target_word: "img/TraubeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -1951,8 +1951,8 @@ var list2 = [
       target_image: "img/Tasche8.jpg",
       cue_word: "img/FlascheCS.jpg",
       target_word: "img/TascheCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -1963,8 +1963,8 @@ var list2 = [
       target_image: "img/Dachs8.jpg",
       cue_word: "img/KammCS.jpg",
       target_word: "img/DachsCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -1975,8 +1975,8 @@ var list2 = [
       target_image: "img/Kaffee8.jpg",
       cue_word: "img/HutCS.jpg",
       target_word: "img/KaffeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -1987,8 +1987,8 @@ var list2 = [
       target_image: "img/Rakete8.jpg",
       cue_word: "img/TapeteCS.jpg",
       target_word: "img/RaketeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -1999,8 +1999,8 @@ var list2 = [
       target_image: "img/Reis8.jpg",
       cue_word: "img/MehlCS.jpg",
       target_word: "img/ReisCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2011,8 +2011,8 @@ var list2 = [
       target_image: "img/Strassenbahn8.jpg",
       cue_word: "img/BusCS.jpg",
       target_word: "img/StrassenbahnCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2023,8 +2023,8 @@ var list2 = [
       target_image: "img/Lauch3.jpg",
       cue_word: "img/LauchTC.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2035,8 +2035,8 @@ var list2 = [
       target_image: "img/Wal8.jpg",
       cue_word: "img/PedalCS.jpg",
       target_word: "img/WalCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2047,8 +2047,8 @@ var list2 = [
       target_image: "img/Schwein8.jpg",
       cue_word: "img/PfanneCS.jpg",
       target_word: "img/SchweinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2059,8 +2059,8 @@ var list2 = [
       target_image: "img/Flugzeug8.jpg",
       cue_word: "img/FlugzeugCS.jpg",
       target_word: "img/FlugzeugCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2071,8 +2071,8 @@ var list2 = [
       target_image: "img/Kaffee3.jpg",
       cue_word: "img/SchneeTC.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2083,8 +2083,8 @@ var list2 = [
       target_image: "img/Rakete3.jpg",
       cue_word: "img/TapeteTC.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2095,8 +2095,8 @@ var list2 = [
       target_image: "img/Dachs3.jpg",
       cue_word: "img/DachsTC.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2107,8 +2107,8 @@ var list2 = [
       target_image: "img/Pferd8.jpg",
       cue_word: "img/HirschCS.jpg",
       target_word: "img/PferdCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2119,8 +2119,8 @@ var list2 = [
       target_image: "img/Lauch3.jpg",
       cue_word: "img/KohlTC.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2131,8 +2131,8 @@ var list2 = [
       target_image: "img/Wal3.jpg",
       cue_word: "img/WalTC.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2143,8 +2143,8 @@ var list2 = [
       target_image: "img/Suppe8.jpg",
       cue_word: "img/ZwiebelCS.jpg",
       target_word: "img/SuppeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2155,8 +2155,8 @@ var list2 = [
       target_image: "img/Kartoffel8.jpg",
       cue_word: "img/SchnitzelCS.jpg",
       target_word: "img/KartoffelCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2167,8 +2167,8 @@ var list2 = [
       target_image: "img/Wein8.jpg",
       cue_word: "img/ZeltCS.jpg",
       target_word: "img/WeinCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2179,8 +2179,8 @@ var list2 = [
       target_image: "img/Strassenbahn3.jpg",
       cue_word: "img/SchwanTC.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2191,8 +2191,8 @@ var list2 = [
       target_image: "img/Knopf8.jpg",
       cue_word: "img/HemdCS.jpg",
       target_word: "img/KnopfCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2203,8 +2203,8 @@ var list2 = [
       target_image: "img/Reis3.jpg",
       cue_word: "img/HornTC.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2215,8 +2215,8 @@ var list2 = [
       target_image: "img/Lauch3.jpg",
       cue_word: "img/BauchTC.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2227,8 +2227,8 @@ var list2 = [
       target_image: "img/Flugzeug3.jpg",
       cue_word: "img/SchlagzeugTC.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2239,8 +2239,8 @@ var list2 = [
       target_image: "img/Fisch8.jpg",
       cue_word: "img/FischCS.jpg",
       target_word: "img/FischCS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2251,8 +2251,8 @@ var list2 = [
       target_image: "img/Tee8.jpg",
       cue_word: "img/MausCS.jpg",
       target_word: "img/TeeCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2263,8 +2263,8 @@ var list2 = [
       target_image: "img/Dachs4.jpg",
       cue_word: "img/BaerTC.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2275,8 +2275,8 @@ var list2 = [
       target_image: "img/Rakete3.jpg",
       cue_word: "img/RaketeTC.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2287,8 +2287,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/HemdTC.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2299,8 +2299,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/KartoffelTC.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2311,8 +2311,8 @@ var list2 = [
       target_image: "img/Schwein3.jpg",
       cue_word: "img/SchweinTC.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2323,8 +2323,8 @@ var list2 = [
       target_image: "img/Hose8.jpg",
       cue_word: "img/RoseCS.jpg",
       target_word: "img/HoseCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2335,8 +2335,8 @@ var list2 = [
       target_image: "img/Strassenbahn3.jpg",
       cue_word: "img/BusTC.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2347,8 +2347,8 @@ var list2 = [
       target_image: "img/Lauch4.jpg",
       cue_word: "img/KohlTS.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2359,8 +2359,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/SchneeTS.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2371,8 +2371,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/AffeTC.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2383,8 +2383,8 @@ var list2 = [
       target_image: "img/Knopf3.jpg",
       cue_word: "img/KnopfTC.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2395,8 +2395,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/KartoffelTS.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2407,8 +2407,8 @@ var list2 = [
       target_image: "img/Pferd3.jpg",
       cue_word: "img/SchwertTC.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2419,8 +2419,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/AnzugTC.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2431,8 +2431,8 @@ var list2 = [
       target_image: "img/Strassenbahn4.jpg",
       cue_word: "img/SchwanTS.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2443,8 +2443,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/BierTC.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2455,8 +2455,8 @@ var list2 = [
       target_image: "img/Traube3.jpg",
       cue_word: "img/SchraubeTC.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2467,8 +2467,8 @@ var list2 = [
       target_image: "img/Tasche3.jpg",
       cue_word: "img/StiefelTC.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2479,8 +2479,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/KnopfTS.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2491,8 +2491,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/FlugzeugTC.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2503,8 +2503,8 @@ var list2 = [
       target_image: "img/Rakete3.jpg",
       cue_word: "img/ElefantTC.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2515,8 +2515,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/BrotTC.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2527,8 +2527,8 @@ var list2 = [
       target_image: "img/Strassenbahn4.jpg",
       cue_word: "img/HuhnTC.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2539,8 +2539,8 @@ var list2 = [
       target_image: "img/Schuh8.jpg",
       cue_word: "img/NestCS.jpg",
       target_word: "img/SchuhCS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2551,8 +2551,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/HammerTC.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2563,8 +2563,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/GurkeTC.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2575,8 +2575,8 @@ var list2 = [
       target_image: "img/Lauch4.jpg",
       cue_word: "img/SchiffTC.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2587,8 +2587,8 @@ var list2 = [
       target_image: "img/Dachs3.jpg",
       cue_word: "img/KammTC.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2599,8 +2599,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/GrasTC.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2611,8 +2611,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/TischTC.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2623,8 +2623,8 @@ var list2 = [
       target_image: "img/Rakete4.jpg",
       cue_word: "img/ElefantTS.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2635,8 +2635,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/KuhTC.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2647,8 +2647,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/TascheTC.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2659,8 +2659,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/HutTC.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2671,8 +2671,8 @@ var list2 = [
       target_image: "img/Reis3.jpg",
       cue_word: "img/ReisTC.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2683,8 +2683,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/HoseTC.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2695,8 +2695,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/PuppeTC.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2707,8 +2707,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/ZeltTC.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2719,8 +2719,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/GrasTS.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2731,8 +2731,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/WalTS.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2743,8 +2743,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/ApfelTC.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2755,8 +2755,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/SchnitzelTC.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2767,8 +2767,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/LoeffelTC.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2779,8 +2779,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/RoseTC.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2791,8 +2791,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/FischTC.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2803,8 +2803,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/WeinTC.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2815,8 +2815,8 @@ var list2 = [
       target_image: "img/Rakete4.jpg",
       cue_word: "img/HubschrauberTC.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2827,8 +2827,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/NestTC.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2839,8 +2839,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/PuppeTS.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2851,8 +2851,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/TraubeTC.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2863,8 +2863,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/StiefelTS.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2875,8 +2875,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/HoseTS.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2887,8 +2887,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/HundTC.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2899,8 +2899,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/WeinTS.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2911,8 +2911,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/SchornsteinTC.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2923,8 +2923,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/TeeTC.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2935,8 +2935,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/GurkeTS.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2947,8 +2947,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/KaffeeTC.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2959,8 +2959,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/PantoffelTC.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2971,8 +2971,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/RoseTS.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2983,8 +2983,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/HundTS.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -2995,8 +2995,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/ZeltTS.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3007,8 +3007,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/SchweinTS.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3019,8 +3019,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/HirschTC.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3031,8 +3031,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/KleidTC.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3043,8 +3043,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/KaffeeTS.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3055,8 +3055,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/SuppeTC.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3067,8 +3067,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/FlascheTC.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3079,8 +3079,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/PedalTC.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3091,8 +3091,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/FussballTC.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3103,8 +3103,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/ZiegeTC.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3115,8 +3115,8 @@ var list2 = [
       target_image: "img/Strassenbahn4.jpg",
       cue_word: "img/BusTS.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3127,8 +3127,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/PferdTC.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3139,8 +3139,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/KuhTS.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3151,8 +3151,8 @@ var list2 = [
       target_image: "img/Reis4.jpg",
       cue_word: "img/HornTS.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3163,8 +3163,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/ZwiebelTC.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3175,8 +3175,8 @@ var list2 = [
       target_image: "img/Lauch4.jpg",
       cue_word: "img/BauchTS.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3187,8 +3187,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/FussballTS.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3199,8 +3199,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/ZiegeTS.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3211,8 +3211,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/BallonTC.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3223,8 +3223,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/PferdTS.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3235,8 +3235,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/KleidTS.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3247,8 +3247,8 @@ var list2 = [
       target_image: "img/Reis4.jpg",
       cue_word: "img/MehlTC.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3259,8 +3259,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/MausTC.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3271,8 +3271,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/SchnitzelTS.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3283,8 +3283,8 @@ var list2 = [
       target_image: "img/Dachs4.jpg",
       cue_word: "img/WachsTC.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3295,8 +3295,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/FahrradTC.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3307,8 +3307,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/SaftTC.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3319,8 +3319,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/ZahnTC.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3331,8 +3331,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/MilchTC.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3343,8 +3343,8 @@ var list2 = [
       target_image: "img/Reis4.jpg",
       cue_word: "img/EisTC.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3355,8 +3355,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/MausTS.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3367,8 +3367,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/SchuhTC.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3379,8 +3379,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/PelikanTC.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3391,8 +3391,8 @@ var list2 = [
       target_image: "img/Hose4.jpg",
       cue_word: "img/AnzugTS.jpg",
       target_word: "img/HoseTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3403,8 +3403,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/OtterTC.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3415,8 +3415,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/ZahnTS.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3427,8 +3427,8 @@ var list2 = [
       target_image: "img/Lauch4.jpg",
       cue_word: "img/SchiffTS.jpg",
       target_word: "img/LauchTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3439,8 +3439,8 @@ var list2 = [
       target_image: "img/Kaffee4.jpg",
       cue_word: "img/MilchTS.jpg",
       target_word: "img/KaffeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3451,8 +3451,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/PfanneTC.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3463,8 +3463,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/SchraubeTS.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3475,8 +3475,8 @@ var list2 = [
       target_image: "img/Kartoffel4.jpg",
       cue_word: "img/PelikanTS.jpg",
       target_word: "img/KartoffelTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3487,8 +3487,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/KleeTC.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3499,8 +3499,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/SchlagzeugTS.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3511,8 +3511,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/LoeffelTS.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3523,8 +3523,8 @@ var list2 = [
       target_image: "img/Pferd4.jpg",
       cue_word: "img/SchwertTS.jpg",
       target_word: "img/PferdTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3535,8 +3535,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/HammerTS.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3547,8 +3547,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/FischTS.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3559,8 +3559,8 @@ var list2 = [
       target_image: "img/Dachs4.jpg",
       cue_word: "img/BaerTS.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3571,8 +3571,8 @@ var list2 = [
       target_image: "img/Traube4.jpg",
       cue_word: "img/ApfelTS.jpg",
       target_word: "img/TraubeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3583,8 +3583,8 @@ var list2 = [
       target_image: "img/Reis4.jpg",
       cue_word: "img/MehlTS.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3595,8 +3595,8 @@ var list2 = [
       target_image: "img/Schuh4.jpg",
       cue_word: "img/SchuhTS.jpg",
       target_word: "img/SchuhTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3607,8 +3607,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/TeeTS.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3619,8 +3619,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/FlugzeugTS.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3631,8 +3631,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/TopfTC.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3643,8 +3643,8 @@ var list2 = [
       target_image: "img/Tasche4.jpg",
       cue_word: "img/FlascheTS.jpg",
       target_word: "img/TascheTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3655,8 +3655,8 @@ var list2 = [
       target_image: "img/Suppe4.jpg",
       cue_word: "img/ZwiebelTS.jpg",
       target_word: "img/SuppeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3667,8 +3667,8 @@ var list2 = [
       target_image: "img/Dachs4.jpg",
       cue_word: "img/WachsTS.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3679,8 +3679,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/BeinTC.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3691,8 +3691,8 @@ var list2 = [
       target_image: "img/Rakete4.jpg",
       cue_word: "img/RaketeTS.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3703,8 +3703,8 @@ var list2 = [
       target_image: "img/Fisch4.jpg",
       cue_word: "img/BrotTS.jpg",
       target_word: "img/FischTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3715,8 +3715,8 @@ var list2 = [
       target_image: "img/Flugzeug4.jpg",
       cue_word: "img/BallonTS.jpg",
       target_word: "img/FlugzeugTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3727,8 +3727,8 @@ var list2 = [
       target_image: "img/Strassenbahn4.jpg",
       cue_word: "img/StrassenbahnTC.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "word-pic"
     },
     {
@@ -3739,8 +3739,8 @@ var list2 = [
       target_image: "img/Schwein4.jpg",
       cue_word: "img/PfanneTS.jpg",
       target_word: "img/SchweinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3751,8 +3751,8 @@ var list2 = [
       target_image: "img/Knopf4.jpg",
       cue_word: "img/TopfTS.jpg",
       target_word: "img/KnopfTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3763,8 +3763,8 @@ var list2 = [
       target_image: "img/Reis4.jpg",
       cue_word: "img/ReisTS.jpg",
       target_word: "img/ReisTS.jpg",
-      correct_resp: "m",
-      trial_part: "main",
+      correct_response: "m",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3775,8 +3775,8 @@ var list2 = [
       target_image: "img/Wal4.jpg",
       cue_word: "img/PedalTS.jpg",
       target_word: "img/WalTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3787,8 +3787,8 @@ var list2 = [
       target_image: "img/Rakete4.jpg",
       cue_word: "img/TapeteTS.jpg",
       target_word: "img/RaketeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3799,8 +3799,8 @@ var list2 = [
       target_image: "img/Wein4.jpg",
       cue_word: "img/SaftTS.jpg",
       target_word: "img/WeinTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3811,8 +3811,8 @@ var list2 = [
       target_image: "img/Tee4.jpg",
       cue_word: "img/BierTS.jpg",
       target_word: "img/TeeTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3823,8 +3823,8 @@ var list2 = [
       target_image: "img/Strassenbahn4.jpg",
       cue_word: "img/HuhnTS.jpg",
       target_word: "img/StrassenbahnTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     },
     {
@@ -3835,8 +3835,8 @@ var list2 = [
       target_image: "img/Dachs4.jpg",
       cue_word: "img/KammTS.jpg",
       target_word: "img/DachsTS.jpg",
-      correct_resp: "n",
-      trial_part: "main",
+      correct_response: "n",
+      task_part: "main",
       pic_word_con: "pic-word"
     }
   ]

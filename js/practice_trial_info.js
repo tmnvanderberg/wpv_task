@@ -5,7 +5,8 @@ var practice_trial_info = [
        cond: "NONE",
        cue_image: "img/car.jpg",
        target_image: "img/TV.jpg",
-       task_part: "practice"
+       task_part: "practice",
+       correct_response: "n",
        pic_word_cond: "word-pic"
     },
     {
@@ -14,7 +15,8 @@ var practice_trial_info = [
        cond: "SEM",
        cue_image: "img/rabbit.jpg",
        target_image: "img/tiger.jpg",
-       task_part: "practice"
+       task_part: "practice",
+       correct_response: "n",
        pic_word_cond: "pic-word"
     },
     {
@@ -23,16 +25,18 @@ var practice_trial_info = [
        cond: "PHON",
        cue_image: "img/carpet.jpg",
        target_image: "img/phone.jpg",
-       task_part: "practice"
+       task_part: "practice",
+       correct_response: "n",
        pic_word_cond: "pic-word"
     },
     {
        cue: "Blume",
        target: "Blume",
        cond: "IDEN",
-       cue_image: "img/flow_word.jpg",
+       cue_image: "img/flower_word.jpg",
        target_image: "img/flower.jpg",
-       task_part: "practice"
+       task_part: "practice",
+       correct_response: "m",
        pic_word_cond: "word-pic"
     }
  ]

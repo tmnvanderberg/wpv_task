@@ -12,6 +12,8 @@
     <script src="js/rotated1.js"></script>
     <script src="js/rotated2.js"></script>
     <script src="js/rotated3.js"></script>
+    <script src="js/translations.js"></script>
+
       <!-- <script src="lists/in/list1.js"></script> -->
     <link href="jspsych/css/jspsych.css" rel="stylesheet" />
   </head>
@@ -34,7 +36,9 @@
     // let improved_stimuli = [];
     // for (target of unique_targets) {
     // }
-
+    var translations = translations;
+    let translator = translations.find(entry => entry.english == "dog");
+// use translator.german
     var timeline = [];
     var repeat_prac = false;
 
@@ -54,7 +58,7 @@
     }
     console.log(current_list);
      // combine related and none/iden trial info arrays into a single array to use for timeline variables
- //   var main_trial_info = rel_trial_info.concat(
+ //   var current_list = rel_trial_info.concat(
    //   none_trial_info,
      // iden_trial_info
     //);
@@ -65,14 +69,14 @@
     for (var i = 0; i < practice_trial_info.length; i++) {
       all_images.push(practice_trial_info[i].target_image);
     }
-    for (var i = 0; i < main_trial_info.length; i++) {
-      all_images.push(main_trial_info[i].target_image);
+    for (var i = 0; i < current_list.length; i++) {
+      all_images.push(current_list[i].target_image);
     }
     for (var i = 0; i < practice_trial_info.length; i++) {
       all_images.push(practice_trial_info[i].cue_image);
     }
-    for (var i = 0; i < main_trial_info.length; i++) {
-      all_images.push(main_trial_info[i].cue_image);
+    for (var i = 0; i < current_list.length; i++) {
+      all_images.push(current_list[i].cue_image);
     }
 
     var instructions = {
@@ -196,7 +200,7 @@
           .last(practice_trial_info.length);
         var n_correct = last_prac_trials.filter({ accuracy: true }).count();
         var prop_corr = n_correct / practice_trial_info.length;
-        if (prop_corr < 0.6) {
+        if (prop_corr < 0.0) {
           repeat_prac = true;
           return true;
         } else {
@@ -230,7 +234,7 @@
 
     var main_procedure = {
       timeline: [fixation, cue, target],
-      timeline_variables: main_trial_info,
+      timeline_variables: current_list,
       randomize_order: true,
     };
     timeline.push(main_procedure);
