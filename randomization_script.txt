@@ -18,8 +18,7 @@ Property condition 3
 //Property cue 1
 
 // Define the constraints
-// - balance between two halves
-// - randomize according to the constraints over the entirety of trials, not just within each block
+// - randomize to the constraints within each block
 // - not the same cue or target within 8 trials of each other
 Constraint target MinDist 8
 Constraint condition MaxRep 2

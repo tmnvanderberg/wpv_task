@@ -1,34 +1,38 @@
 var practice_trial_info = [
     {
-       cue: "Elefant",
-       target: "Rakete",
-       cond: "none",
-       cue_image: "img/elephantCS.jpg",
-       target_image: "img/rocket0.jpg",
+       cue: "Auto",
+       target: "TV",
+       cond: "NONE",
+       cue_image: "img/car.jpg",
+       target_image: "img/TV.jpg",
        task_part: "practice"
+       pic_word_cond: "word-pic"
     },
     {
-       cue: "Rakete",
-       target: "Rakete",
-       cond: "iden",
-       cue_image: "img/rocketCS.jpg",
-       target_image: "img/rocket0.jpg",
+       cue: "Kaninchen",
+       target: "Tiger",
+       cond: "SEM",
+       cue_image: "img/rabbit.jpg",
+       target_image: "img/tiger.jpg",
        task_part: "practice"
+       pic_word_cond: "pic-word"
     },
     {
-       cue: "Löffel",
-       target: "Tasche",
-       cond: "none",
-       cue_image: "img/spoonCS.jpg",
-       target_image: "img/bag0.jpg",
+       cue: "Teppich",
+       target: "Telefon",
+       cond: "PHON",
+       cue_image: "img/carpet.jpg",
+       target_image: "img/phone.jpg",
        task_part: "practice"
+       pic_word_cond: "pic-word"
     },
     {
-       cue: "Tasche",
-       target: "Tasche",
-       cond: "iden",
-       cue_image: "img/bagCS.jpg",
-       target_image: "img/bag0.jpg",
+       cue: "Blume",
+       target: "Blume",
+       cond: "IDEN",
+       cue_image: "img/flow_word.jpg",
+       target_image: "img/flower.jpg",
        task_part: "practice"
+       pic_word_cond: "word-pic"
     }
  ]

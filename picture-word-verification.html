@@ -8,19 +8,11 @@
     <script src="jspsych/plugins/jspsych-image-keyboard-response.js"></script>
     <script src="jspsych/plugins/jspsych-instructions.js"></script>
     <script src="js/practice_trial_info.js"></script>
-    <script src="js/none_trial_info_l0.js"></script>
-    <script src="js/none_trial_info_l1.js"></script>
-    <script src="js/none_trial_info_l2.js"></script>
-    <script src="js/none_trial_info_l3.js"></script>
-    <script src="js/rel_trial_info_l0.js"></script>
-    <script src="js/rel_trial_info_l1.js"></script>
-    <script src="js/rel_trial_info_l2.js"></script>
-    <script src="js/rel_trial_info_l3.js"></script>
-    <script src="js/iden_trial_info_l0.js"></script>
-    <script src="js/iden_trial_info_l1.js"></script>
-    <script src="js/iden_trial_info_l2.js"></script>
-    <script src="js/iden_trial_info_l3.js"></script>
-    <!-- <script src="lists/in/list1.js"></script> -->
+    <script src="js/original.js"></script>
+    <script src="js/rotated1.js"></script>
+    <script src="js/rotated2.js"></script>
+    <script src="js/rotated3.js"></script>
+      <!-- <script src="lists/in/list1.js"></script> -->
     <link href="jspsych/css/jspsych.css" rel="stylesheet" />
   </head>
 
@@ -47,47 +39,26 @@
     var repeat_prac = false;
 
     // randomly choose a list: 1-4
-    var list = jsPsych.randomization.sampleWithoutReplacement([1, 4], 1)[0];
+    var list_num = jsPsych.randomization.sampleWithoutReplacement([1, 4], 1)[0];
 
     // get the trial info for this list
-    var rel_trial_info;
-    if (list == 1) {
-      rel_trial_info = rel_trial_info_l0;
-    } else if (list == 2) {
-      rel_trial_info = rel_trial_info_l1;
-    } else if (list == 3) {
-      rel_trial_info = rel_trial_info_l2;
+    var current_list;
+    if (list_num == 1) {
+      current_list = list1;
+    } else if (list_num == 2) {
+      current_list = list2;
+    } else if (list_num == 3) {
+      current_list = list3;
     } else {
-      rel_trial_info = rel_trial_info_l3;
+      current_list = list4;
     }
-
-    var none_trial_info;
-    if (list == 1) {
-      none_trial_info = none_trial_info_l0;
-    } else if (list == 2) {
-      none_trial_info = none_trial_info_l1;
-    } else if (list == 3) {
-      none_trial_info = none_trial_info_l2;
-    } else {
-      none_trial_info = none_trial_info_l3;
-    }
-
-    var iden_trial_info;
-    if (list == 1) {
-      iden_trial_info = iden_trial_info_l0;
-    } else if (list == 2) {
-      iden_trial_info = iden_trial_info_l1;
-    } else if (list == 3) {
-      iden_trial_info = iden_trial_info_l2;
-    } else {
-      iden_trial_info = iden_trial_info_l3;
-    }
-    // combine related and none/iden trial info arrays into a single array to use for timeline variables
-    var main_trial_info = rel_trial_info.concat(
-      none_trial_info,
-      iden_trial_info
-    );
-    console.log(main_trial_info);
+    console.log(current_list);
+     // combine related and none/iden trial info arrays into a single array to use for timeline variables
+ //   var main_trial_info = rel_trial_info.concat(
+   //   none_trial_info,
+     // iden_trial_info
+    //);
+    //console.log(main_trial_info);
 
     // create list of all image files for preloading
     var all_images = [];
