@@ -3,6 +3,7 @@ import {
   getIndxs,
   rotateStimuli,
   rotateEntries,
+  findIndicesUC,
 } from "./split.js";
 import {
   toGerman,
@@ -219,4 +220,16 @@ test("rotateEntries", () => {
   let rotated = [4, 1, 2, 3, 8, 5, 6, 7, 12, 9, 10, 11, 16, 13, 14, 15];
   let rot_entries = rotateEntries(entries);
   expect(rot_entries).toEqual(rotated);
+});
+
+test("findIndicesWithUniqueCondition", () => {
+  const stimuli = [
+    { cond: "P" },
+    { cond: "S" },
+    { cond: "P" },
+    { cond: "I" },
+    { cond: "N" },
+  ];
+  const selected = findIndicesUC(stimuli, []);
+  expect(selected).toEqual([0, 1, 3, 4]);
 });

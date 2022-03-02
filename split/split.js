@@ -43,3 +43,7 @@ export const rotateStimuli = (stimuli) => {
   });
   return rotatated_stimuli;
 };
+
+export const findIndicesUC = (stimuli, toSkip) => {
+  stimuli.forEach((value, index) => {});
+};
