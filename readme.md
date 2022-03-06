@@ -43,3 +43,63 @@ image steps:
 - add trial part
 - add cond 
 
+
+# for a specific target, we have 16 entries...
+[
+    P,-
+    N,-
+    S,-
+    N, *
+    P, *
+    I,-
+    N,
+    I *
+    P
+    S *
+    N
+    I
+    N
+    S
+    S
+]
+# to create "rotation sets", I grab items that don't have the same condition...
+[ ]
+[0]
+[0, 1]
+[0, 1, 2]
+[0, 1, 2, 5] <- "rotation set"
+[]
+[3]
+[3,4]
+
+
+#
+first 80 stimuli
+{
+    "cue_image": "img/tram1.jpg",
+    "target_image": "img/tram1.jpg",
+    "cue_word": "img/tramCC.jpg",
+    "target_word": "img/tramCC.jpg",
+}
+second 80 stimuli
+{
+    "cue_image": "img/tram2.jpg",
+    "target_image": "img/tram2.jpg",
+    "cue_word": "img/tramCS.jpg",
+    "target_word": "img/tramCS.jpg",
+}
+third 80 stimuli
+{
+    "cue_image": "img/tram3.jpg",
+    "target_image": "img/tram3.jpg",
+    "cue_word": "img/tramTC.jpg",
+    "target_word": "img/tramTC.jpg",
+}
+fourth 80 stimuli
+{
+    "cue_image": "img/tram4.jpg",
+    "target_image": "img/tram4.jpg",
+    "cue_word": "img/tramTS.jpg",
+    "target_word": "img/tramTS.jpg",
+}
+

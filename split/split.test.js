@@ -4,6 +4,9 @@ import {
   rotateStimuli,
   rotateEntries,
   findIndicesUC,
+  mapArray,
+  fixPostFixes,
+  setPostFix,
 } from "./split.js";
 import {
   toGerman,
@@ -264,4 +267,58 @@ test("findIndicesWithUniqueCondition /w target", () => {
   ];
   const selected = findIndicesUC(stimuli, [], 4, "test");
   expect(selected).toEqual([0, 3, 5, 7]);
+});
+
+test("map array test", () => {
+  const input = [
+    {
+      cond: "NONE",
+    },
+    {
+      cond: "PHON",
+    },
+    { cond: "SEM" },
+    { cond: "IDEN" },
+  ];
+  const expected = [
+    {
+      cond: "SEM",
+    },
+    {
+      cond: "NONE",
+    },
+    { cond: "IDEN" },
+    { cond: "PHON" },
+  ];
+  const rotated = mapArray(input);
+  expect(rotated).toEqual(expected);
+});
+
+test("fix image postfix", () => {
+  const input = {
+    cue: "Eis",
+    target: "Reis",
+    cond: "PHON",
+    cue_image: "img/Eis4.jpg",
+    target_image: "img/Reis4.jpg",
+    cue_word: "img/EisTS.jpg",
+    target_word: "img/ReisTS.jpg",
+    correct_resp: "n",
+    trial_part: "main",
+    pic_word_con: "pic-word",
+  };
+  const output = {
+    cue: "Eis",
+    target: "Reis",
+    cond: "PHON",
+    cue_image: "img/Eis2.jpg",
+    target_image: "img/Reis2.jpg",
+    cue_word: "img/EisCS.jpg",
+    target_word: "img/ReisCS.jpg",
+    correct_resp: "n",
+    trial_part: "main",
+    pic_word_con: "pic-word",
+  };
+  setPostFix(input, "2.jpg", "CS.jpg");
+  expect(input).toEqual(output);
 });
