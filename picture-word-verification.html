@@ -36,7 +36,7 @@
     } else {
       current_list = list4;
     }
-    console.log(current_list);
+    // console.log(current_list);
     // combine related and none/iden trial info arrays into a single array to use for timeline variables
     //   var current_list = rel_trial_info.concat(
     //   none_trial_info,
@@ -125,30 +125,20 @@
         trial_part: "target",
         task_part: jsPsych.timelineVariable("task_part"),
       },
-      on_finish: function (data) {
-        var acc = false;
-        if (
-          data.correct_response ==
-          jsPsych.pluginAPI.convertKeyCodeToKeyCharacter(data.key_press)
-        ) {
-          acc = true;
-        }
-        data.accuracy = acc;
+      on_finish: (data) => {
+        data.accuracy = data.correct_response === data.response;
       },
     };
 
     var feedback = {
       type: "html-keyboard-response",
-      stimulus: function () {
-        var feedback_text =
-          '<span style="color:red;font-size:30px;">Incorrect.</span>';
-        var last_resp_acc = jsPsych.data
+      stimulus: () => {
+        var last_response_correct = jsPsych.data
           .getLastTrialData()
           .values()[0].accuracy;
-        if (last_resp_acc == true) {
-          feedback_text =
-            '<span style="color:green;font-size:30px;">Correct!</span>';
-        }
+        feedback_text = last_response_correct
+          ? '<span style="color:green;font-size:30px;">Correct!</span>'
+          : '<span style="color:red;font-size:30px;">Incorrect.</span>';
         return feedback_text;
       },
       choices: jsPsych.NO_KEYS,
