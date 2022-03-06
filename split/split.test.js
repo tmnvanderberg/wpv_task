@@ -265,5 +265,3 @@ test("findIndicesWithUniqueCondition /w target", () => {
   const selected = findIndicesUC(stimuli, [], 4, "test");
   expect(selected).toEqual([0, 3, 5, 7]);
 });
-
-test("rotate v2", () => {});

@@ -117,11 +117,32 @@ export const rotateStimuliOverIndexSets = (stimuli, indexSets) => {
       rotatedStimuli[stimIndex] = rotatedEntries[arrIndex];
     });
   }
-  return rotateStimuli;
+  return rotatedStimuli;
 };
 
-
-export const getIndexSets(stimuli) => {
+export const getIndexSets = (stimuli) => {
   let doneTargets = [];
-  stimuli.forEach((stimulus)=>)
-}
+  let indexSets = [];
+  let rotatedIndices = [];
+  stimuli.forEach((stimulus) => {
+    // skip target if we treated it before.
+    if (doneTargets.includes(stimulus.target)) {
+      return;
+    }
+    doneTargets.push(stimulus.target);
+    // each target has 16 entries, we split into 4 sets with unique conditions
+    [1, 2, 3, 4].forEach(() => {
+      const selectedIndices = findIndicesUC(
+        stimuli,
+        rotatedIndices,
+        4,
+        stimulus.target
+      );
+      // we save the "rotation set" for the next rotation. Technically we don't need to flat
+      // copy of the same data in rotatedIndices, but I'm lazy.
+      indexSets.push(selectedIndices);
+      rotatedIndices = [...rotatedIndices, ...selectedIndices];
+    });
+  });
+  return indexSets;
+};
