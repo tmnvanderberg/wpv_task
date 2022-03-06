@@ -224,29 +224,46 @@ test("rotateEntries", () => {
 
 test("findIndicesWithUniqueCondition", () => {
   const stimuli = [
-    { cond: "P" },
-    { cond: "S" },
-    { cond: "P" },
-    { cond: "I" },
-    { cond: "N" },
+    { cond: "P", target: "test" },
+    { cond: "S", target: "test" },
+    { cond: "P", target: "test" },
+    { cond: "I", target: "test" },
+    { cond: "N", target: "test" },
   ];
-  const selected = findIndicesUC(stimuli, [], 4);
+  const selected = findIndicesUC(stimuli, [], 4, "test");
   expect(selected).toEqual([0, 1, 3, 4]);
 });
 
 test("findIndicesWithUniqueCondition twice", () => {
   const stimuli = [
-    { cond: "P" },
-    { cond: "S" },
-    { cond: "P" },
-    { cond: "I" },
-    { cond: "N" },
-    { cond: "S" },
-    { cond: "I" },
-    { cond: "N" },
+    { cond: "P", target: "test" },
+    { cond: "S", target: "test" },
+    { cond: "P", target: "test" },
+    { cond: "I", target: "test" },
+    { cond: "N", target: "test" },
+    { cond: "S", target: "test" },
+    { cond: "I", target: "test" },
+    { cond: "N", target: "test" },
   ];
-  const selected = findIndicesUC(stimuli, [], 4);
+  const selected = findIndicesUC(stimuli, [], 4, "test");
   expect(selected).toEqual([0, 1, 3, 4]);
-  const selected_two = findIndicesUC(stimuli, selected, 4);
+  const selected_two = findIndicesUC(stimuli, selected, 4, "test");
   expect(selected_two).toEqual([2, 5, 6, 7]);
 });
+
+test("findIndicesWithUniqueCondition /w target", () => {
+  const stimuli = [
+    { cond: "P", target: "test" },
+    { cond: "S", target: "dog" },
+    { cond: "P", target: "test" },
+    { cond: "I", target: "test" },
+    { cond: "N", target: "dog" },
+    { cond: "S", target: "test" },
+    { cond: "I", target: "dog" },
+    { cond: "N", target: "test" },
+  ];
+  const selected = findIndicesUC(stimuli, [], 4, "test");
+  expect(selected).toEqual([0, 3, 5, 7]);
+});
+
+test("rotate v2", () => {});

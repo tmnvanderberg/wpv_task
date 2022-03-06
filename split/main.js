@@ -1,4 +1,4 @@
-import { rotateStimuli } from "./split.js";
+import { rotateStimuliUC } from "./split.js";
 import * as fileSystem from "fs";
 import { stimuli } from "./stimuli.js";
 import { translateStimuli } from "./translate.js";
@@ -16,8 +16,8 @@ const write = (fileName, object) => {
 const main = () => {
   let translatedStimuli = translateStimuli(stimuli);
   write(`original.json`, translatedStimuli);
-  [1, 2, 3, 4].forEach((n) => {
-    write(`rotated${n}.json`, rotateStimuli(translatedStimuli));
+  [1, 2, 3].forEach((n) => {
+    write(`rotated${n}.json`, rotateStimuliUC(translatedStimuli));
   });
 };
 
