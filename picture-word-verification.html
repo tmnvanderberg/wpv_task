@@ -12,7 +12,6 @@
     <script src="js/rotated1.js"></script>
     <script src="js/rotated2.js"></script>
     <script src="js/rotated3.js"></script>
-    <script src="js/translations.js"></script>
 
     <!-- <script src="lists/in/list1.js"></script> -->
     <link href="jspsych/css/jspsych.css" rel="stylesheet" />
@@ -20,25 +19,6 @@
 
   <body></body>
   <script>
-    // step 2: create a list of unique cues
-    // loop over list of cues.
-    // For each cue, read each entry with that que and use it to
-    // add a corresponding 'stimuli'  entry to the json
-    // note: for the first entry, also enter the other elements.
-    // let non_unique_targets = [];
-    // for (stimulus of stimuli) {
-    //   non_unique_targets.push(stimulus.target);
-    // }
-    // var unique_targets = non_unique_targets.filter(
-    //   (v, i, a) => a.indexOf(v) === i
-    // );
-    // console.log(unique_targets);
-    // let improved_stimuli = [];
-    // for (target of unique_targets) {
-    // }
-    var translations = translations;
-    let translator = translations.find((entry) => entry.english == "dog");
-    // use translator.german
     var timeline = [];
     var repeat_prac = false;
 
