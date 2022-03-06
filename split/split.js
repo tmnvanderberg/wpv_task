@@ -44,6 +44,17 @@ export const rotateStimuli = (stimuli) => {
   return rotatated_stimuli;
 };
 
-export const findIndicesUC = (stimuli, toSkip) => {
-  stimuli.forEach((value, index) => {});
+export const findIndicesUC = (stimuli, toSkip, num) => {
+  let seenBefore = [];
+  let found = [];
+  stimuli.forEach((value, index) => {
+    if (!toSkip.includes(index) && !seenBefore.includes(value.cond)) {
+      seenBefore.push(value.cond);
+      found.push(index);
+      if (found.length == num) {
+        return found;
+      }
+    }
+  });
+  return found;
 };

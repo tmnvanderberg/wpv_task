@@ -230,6 +230,23 @@ test("findIndicesWithUniqueCondition", () => {
     { cond: "I" },
     { cond: "N" },
   ];
-  const selected = findIndicesUC(stimuli, []);
+  const selected = findIndicesUC(stimuli, [], 4);
   expect(selected).toEqual([0, 1, 3, 4]);
+});
+
+test("findIndicesWithUniqueCondition twice", () => {
+  const stimuli = [
+    { cond: "P" },
+    { cond: "S" },
+    { cond: "P" },
+    { cond: "I" },
+    { cond: "N" },
+    { cond: "S" },
+    { cond: "I" },
+    { cond: "N" },
+  ];
+  const selected = findIndicesUC(stimuli, [], 4);
+  expect(selected).toEqual([0, 1, 3, 4]);
+  const selected_two = findIndicesUC(stimuli, selected, 4);
+  expect(selected_two).toEqual([2, 5, 6, 7]);
 });
