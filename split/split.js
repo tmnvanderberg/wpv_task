@@ -102,3 +102,26 @@ export const rotateStimuliUC = (stimuli) => {
   });
   return rotatedStimuli;
 };
+
+// assumes we get a iterable container of index arrays.
+export const rotateStimuliOverIndexSets = (stimuli, indexSets) => {
+  let rotatedStimuli = stimuli;
+  for (let indices of indexSets) {
+    // we now have 4 indices with identical targets and different conditions
+    const entries = indices.map((index) => {
+      return stimuli[index];
+    });
+    const rotatedEntries = rotateEntries(entries);
+    // overwrite entries at given indices
+    indices.forEach((stimIndex, arrIndex) => {
+      rotatedStimuli[stimIndex] = rotatedEntries[arrIndex];
+    });
+  }
+  return rotateStimuli;
+};
+
+
+export const getIndexSets(stimuli) => {
+  let doneTargets = [];
+  stimuli.forEach((stimulus)=>)
+}
